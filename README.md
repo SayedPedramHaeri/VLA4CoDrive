@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/VLA4CoDrivee.png" width="300"/>
+  <img src="Images/VLA4CoDrivee.png" width="350"/>
   
   ## Vision–Language–Action Dataset for Cooperative Autonomous Driving
 </div>
