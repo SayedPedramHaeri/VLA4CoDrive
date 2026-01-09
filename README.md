@@ -15,4 +15,4 @@
 We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with synchronized multi-vehicle sensing across diverse driving environments, providing multi-view visual streams, contextual text (caption, context, description, reasoning), and future trajectory actions for training and evaluating VLA driving models.
 
 <div align="center">
-  <img src="Images/VL.jpg" width="1000"/>
+  <img src="Images/VLA.jpg" width="1000"/>
