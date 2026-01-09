@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/VLA4CoDrive.png" width="85%">
+  <img src="Images/VLA4CoDrive.png" width="50%">
 </p>
 
 **VLA4CoDrive** is a large-scale **cooperative Vision–Language–Action (VLA)** dataset and research framework designed to support autonomous driving under **multi-vehicle cooperation**.  
