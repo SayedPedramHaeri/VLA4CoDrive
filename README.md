@@ -5,7 +5,7 @@
   <div>&nbsp;</div>
 </div>
 
-# 🚗 **VLA4CoDrive** Vision–Language–Action Dataset for Cooperative Autonomous Driving
+Vision–Language–Action Dataset for Cooperative Autonomous Driving
 
 **VLA4CoDrive** is a large-scale **cooperative Vision–Language–Action (VLA)** dataset and research framework designed to support autonomous driving under **multi-vehicle cooperation**. The project provides synchronized multi-view perception, structured language grounding, and future trajectory/action supervision, enabling end-to-end learning of **perception, reasoning, and decision-making** in cooperative driving scenarios.
 
