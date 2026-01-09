@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/VLA4CoDrivee.png" width="600"/>
+  <img src="Images/VLA4CoDrivee.png" width="500"/>
   <div>&nbsp;</div>
 
   <div>&nbsp;</div>
