@@ -42,7 +42,7 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 - 👁️ **Multi-View & Multi-Modal Perception**  
   RGB (front/rear/left/right), LiDAR, semantic LiDAR, optical flow, GNSS, IMU
 
-- 🧠 **Structured Vision–Language Grounding**  
+- 📝 **Structured Vision–Language Grounding**  
   Clip-level annotations including **Context, Caption, Description, and Reasoning**
 
 - 🎯 **Action & Trajectory Supervision**  
