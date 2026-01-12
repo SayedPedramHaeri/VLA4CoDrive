@@ -114,8 +114,7 @@ Time-aligned action supervision providing low-level controls and future trajecto
 | intrinsic_matrix | `3×3 matrix (see JSON)` |
 | trajectory_count | `30` |
 | trajectory |
-[
-  [0.0, 0.0, 0.0],
+[[0.0, 0.0, 0.0],
   [0.8275010935306759, -0.04821085876190756, 5.1460228860378265e-05],
   [1.6381458417505876, -0.12501369526440165, 0.00012107845395803452],
   [2.4244511094026953, -0.2344291940837998, 0.000176658621057868],
