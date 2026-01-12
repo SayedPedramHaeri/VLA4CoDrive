@@ -84,14 +84,15 @@ Multi-view and multi-modal perception from synchronized cooperating vehicles, ca
 <p align="justify">
 Structured, clip-level language grounding generated from synchronized multi-agent scenes, capturing both scene semantics and short-horizon driving intent.
 
-
 <p align="center">
   <img src="Images/language.jpg" width="100%" />
 </p>
 
 
 
-
+### 🎯 VLA4CoDrive — Action
+<p align="justify">
+Time-aligned action supervision providing low-level controls and future trajectory targets, enabling imitation, forecasting, and language-conditioned planning.
 
 
 
