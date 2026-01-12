@@ -4,7 +4,7 @@
   ## Vision–Language–Action Dataset for Cooperative Autonomous Driving
   
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2109.07644.pdf)
-[![Demo](https://img.shields.io/badge/Demo-Available-blue.svg)](https://carla.readthedocs.io/en/latest/start_quickstart/)
+[![Documenation](https://img.shields.io/badge/Demo-Available-blue.svg)](https://carla.readthedocs.io/en/latest/start_quickstart/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 </div>
