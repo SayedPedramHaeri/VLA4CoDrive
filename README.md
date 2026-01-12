@@ -22,6 +22,7 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 <div align="center">
   <img src="Images/VLA.jpg" width="1000"/>
 </div>
+
 ---
 
 ## 📌 Dataset
