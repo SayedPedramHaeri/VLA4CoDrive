@@ -27,39 +27,43 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 
 ## 📌 Dataset
 
-<div style="display: flex; gap: 20px;">
-  <div style="width: 49%;">
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
-- 🤝 **Cooperative Multi-Vehicle Setup**  
-  Synchronized sensing from multiple vehicles within the same driving episode
+<ul>
+  <li>🤝 <b>Cooperative Multi-Vehicle Setup</b><br>
+      Synchronized sensing from multiple vehicles within the same driving episode</li><br>
 
-- 👁️ **Multi-View & Multi-Modal Perception**  
-  RGB (front/rear/left/right), LiDAR, semantic LiDAR, optical flow, GNSS, IMU
+  <li>👁️ <b>Multi-View & Multi-Modal Perception</b><br>
+      RGB (front/rear/left/right), LiDAR, semantic LiDAR, optical flow, GNSS, IMU</li><br>
 
-- 🧠 **Structured Vision–Language Grounding**  
-  Clip-level annotations including **Context, Caption, Description, and Reasoning**
+  <li>🧠 <b>Structured Vision–Language Grounding</b><br>
+      Clip-level annotations including <b>Context, Caption, Description, and Reasoning</b></li><br>
 
-- 🎯 **Action & Trajectory Supervision**  
-  Low-level controls (steer/throttle/brake) + 30-step future trajectories
+  <li>🎯 <b>Action & Trajectory Supervision</b><br>
+      Low-level controls (steer/throttle/brake) + 30-step future trajectories</li>
+</ul>
 
-  </div>
+</td>
 
-  <div style="width: 49%;">
+<td width="50%" valign="top">
 
-- 🌦️ **Controlled Diversity**  
-  8 CARLA towns × 8 weather conditions with frame-aligned replay
+<ul>
+  <li>🌦️ <b>Controlled Diversity</b><br>
+      8 CARLA towns × 8 weather conditions with frame-aligned replay</li><br>
 
-- 📏 **Large-Scale Dataset**  
-  - ~10M vision samples  
-  - ~150K language annotations  
-  - ~1M action records  
-  - ~300–360 hours of driving data  
+  <li>📏 <b>Large-Scale Dataset</b><br>
+      ~10M vision samples · ~150K language annotations · ~1M action records · ~300–360 hours</li><br>
 
-- 📦 **Standard Annotation Formats**  
-  COCO, PASCAL VOC, KITTI (2D & 3D)
+  <li>📦 <b>Standard Annotation Formats</b><br>
+      COCO, PASCAL VOC, KITTI (2D & 3D)</li>
+</ul>
 
-  </div>
-</div>
+</td>
+</tr>
+</table>
+
 
 
 
