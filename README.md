@@ -7,7 +7,7 @@
 <p align="justify">
 <b>VLA4CoDrive</b> is a large-scale <b>cooperative Vision–Language–Action (VLA)</b> dataset designed to support autonomous driving under <b>multi-vehicle cooperation</b>. The project provides synchronized multi-view perception, structured language grounding, and future trajectory/action supervision, enabling end-to-end learning of <b>perception, reasoning, and decision-making</b> in cooperative driving scenarios.
 
-🏆 This work has been accepted to the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026.
+🏆 This work has been accepted to the </b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</b>.
 </p>
 
 ---
