@@ -80,7 +80,7 @@ Multi-view and multi-modal perception from synchronized cooperating vehicles, ca
 </p>
 
 
-### 👁️ VLA4CoDrive — Language
+### 📝 VLA4CoDrive — Language
 <p align="justify">
 Structured, clip-level language grounding generated from synchronized multi-agent scenes, capturing both scene semantics and short-horizon driving intent.
 
