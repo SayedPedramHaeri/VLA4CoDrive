@@ -113,7 +113,7 @@ Time-aligned action supervision providing low-level controls and future trajecto
 | extrinsic_matrix | `4×4 matrix (see JSON)` |
 | intrinsic_matrix | `3×3 matrix (see JSON)` |
 | trajectory_count | `30` |
-| trajectory | ```json
+| trajectory |
 [
   [0.0, 0.0, 0.0],
   [0.8275010935306759, -0.04821085876190756, 5.1460228860378265e-05],
@@ -146,7 +146,7 @@ Time-aligned action supervision providing low-level controls and future trajecto
   [19.51155368016565, -10.556230495428062, 4.9018883146345615e-05],
   [20.171992264576062, -11.033851917102254, 5.714420694857836e-05]
 ]
-``` |
+|
 | caption | *The ego vehicle is moving straight at a moderate speed following a leading car with acceleration. A nearby traffic light shows green under sunny conditions on a wide road. No pedestrians are present. The driver should remain attentive to the traffic light and be prepared to stop if it changes.* |
 
 
