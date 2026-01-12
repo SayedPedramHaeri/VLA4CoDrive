@@ -16,7 +16,6 @@
   </a>
 </p>
 
-<br clear="both">
 
 </div>
 
