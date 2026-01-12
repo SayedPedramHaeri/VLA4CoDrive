@@ -6,6 +6,7 @@
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2510.26641)
 [![Documentation](https://img.shields.io/badge/Documentation-Available-blue.svg)](https://carla.readthedocs.io/en/latest/start_quickstart/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-orange.svg)](https://huggingface.co/YOUR_USERNAME/YOUR_REPO)
 
 </div>
 
