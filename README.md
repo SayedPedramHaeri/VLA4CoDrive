@@ -96,9 +96,7 @@ Time-aligned action supervision providing low-level controls and future trajecto
 
 | **Key** | **Value** |
 |---|---|
-| frame | <p align="center">
-  <img src="Images/language.jpg" width="100%" />
-</p> |
+| frame | <img src="Images/language.jpg" width="100%" /> |
 | frame_id | `002622` |
 | timestamp | `12481` |
 | gearShifter | `drive` |
