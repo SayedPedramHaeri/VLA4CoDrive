@@ -7,6 +7,16 @@
 [![Documentation Status](https://readthedocs.org/projects/opencood/badge/?version=latest)](https://carla.readthedocs.io/en/latest/start_quickstart/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+<p>
+  <a href="https://arxiv.org/pdf/2109.07644.pdf">
+    <img align="left" src="https://img.shields.io/badge/arXiv-Paper-green.svg">
+  </a>
+  <a href="https://arxiv.org/pdf/2109.07644.pdf">
+    <img align="right" src="https://img.shields.io/badge/arXiv-Paper-green.svg">
+  </a>
+</p>
+
+<br clear="both">
 
 </div>
 
