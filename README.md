@@ -27,9 +27,8 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 
 ## 📌 Dataset
 
-
 <div style="display: flex; gap: 20px;">
-  <div style="width: 50%;">
+  <div style="width: 49%;">
 
 - 🤝 **Cooperative Multi-Vehicle Setup**  
   Synchronized sensing from multiple vehicles within the same driving episode
@@ -45,7 +44,7 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 
   </div>
 
-  <div style="width: 50%;">
+  <div style="width: 49%;">
 
 - 🌦️ **Controlled Diversity**  
   8 CARLA towns × 8 weather conditions with frame-aligned replay
@@ -61,6 +60,9 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 
   </div>
 </div>
+
+
+
 
 
 
