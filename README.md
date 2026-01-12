@@ -27,8 +27,7 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 
 ## 📌 Dataset
 <p align="justify">
-<b>VLA4CoDrive</b> is organized into three tightly aligned modalities:
-<b>Vision</b>, <b>Language</b>, and <b>Action</b>, each captured under the following settings.
+<b>VLA4CoDrive</b> is organized into three tightly aligned modalities, <b>Vision</b>, <b>Language</b>, and <b>Action</b>, each captured under the following settings:
 </p>
 
 
