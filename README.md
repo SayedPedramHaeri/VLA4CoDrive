@@ -86,7 +86,7 @@ Structured, clip-level language grounding generated from synchronized multi-agen
 
 
 <p align="center">
-  <img src="Images/scenarios.gif" width="100%" />
+  <img src="Images/language.jpg" width="100%" />
 </p>
 
 
