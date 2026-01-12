@@ -69,7 +69,9 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 </table>
 
 ### 👁️ VLA4CoDrive — Vision
-
+<p align="justify">
+Multi-view and multi-modal perception from synchronized cooperating vehicles, capturing complementary visual evidence for cooperative understanding.
+  
 <p align="center">
   <img src="Images/Sensors.gif" width="100%" />
 </p>
@@ -78,3 +80,4 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 <p align="center">
   <img src="Images/scenarios.gif" width="100%" />
 </p>
+
