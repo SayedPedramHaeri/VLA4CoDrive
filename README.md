@@ -31,8 +31,6 @@ We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with 
 </p>
 
 
-
-
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
@@ -80,4 +78,28 @@ Multi-view and multi-modal perception from synchronized cooperating vehicles, ca
 <p align="center">
   <img src="Images/scenarios.gif" width="100%" />
 </p>
+
+
+### 👁️ VLA4CoDrive — Language
+<p align="justify">
+Structured, clip-level language grounding generated from synchronized multi-agent scenes, capturing both scene semantics and short-horizon driving intent.
+
+
+<p align="center">
+  <img src="Images/scenarios.gif" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
