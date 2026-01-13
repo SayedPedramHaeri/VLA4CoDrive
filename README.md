@@ -86,7 +86,7 @@ Multi-view and multi-modal perception from synchronized cooperating vehicles, ca
 Structured, clip-level language grounding generated from synchronized multi-agent scenes, capturing both scene semantics and short-horizon driving intent.
 
 <p align="center">
-  <img src="Images/language.jpg" width="100%" />
+  <img src="Win/language.jpg" width="100%" />
 </p>
 
 
