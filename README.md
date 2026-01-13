@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/VLA4CoDrive.png" width="350"/>
+  <img src="Win/VLA4CoDrive.png" width="350"/>
   
   ## Vision–Language–Action Dataset for Cooperative Autonomous Driving
   
@@ -21,7 +21,7 @@
 We introduce VLA4CoDrive, a cooperative Vision–Language–Action dataset with synchronized multi-vehicle sensing across diverse driving environments, providing multi-view visual streams, contextual text (caption, context, description, reasoning), and future trajectory actions for training and evaluating VLA driving models.
 
 <div align="center">
-  <img src="Images/VLA.jpg" width="90%"/>
+  <img src="Win/VLA.jpg" width="90%"/>
 </div>
 
 ---
@@ -73,12 +73,12 @@ Multi-view and multi-modal perception from synchronized cooperating vehicles, ca
 
 
 <p align="center">
-  <img src="Images/scenarios.gif" width="100%" />
+  <img src="Win/scenarios.gif" width="100%" />
 </p>
 
   
 <p align="center">
-  <img src="Images/Sensors.gif" width="100%" />
+  <img src="Win/Sensors.gif" width="100%" />
 </p>
 
 ### 📝 VLA4CoDrive — Language
