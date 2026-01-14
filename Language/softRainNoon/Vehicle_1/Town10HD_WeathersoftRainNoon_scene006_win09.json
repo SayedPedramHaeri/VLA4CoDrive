@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 9,
+  "start_frame": 1740,
+  "end_frame": 1769,
+  "frames": [
+    1740,
+    1744,
+    1748,
+    1752,
+    1756,
+    1760,
+    1764,
+    1769
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win09.json",
+  "title": "Rainy city street driving with multiple braking events.",
+  "caption": "A slow-moving vehicle on a rainy day in a city street with many obstacles.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The video shows a slow-moving vehicle on a rainy day in a city street with many obstacles. The road is wet and slippery, and the visibility is low. The vehicle is driving carefully and cautiously, braking frequently to avoid collisions. There are many other vehicles on the road, and some of them are also braking frequently. The traffic lights are visible in the background, and they are showing red and green lights. The video captures the challenges of driving in rainy conditions and the importance of being attentive and cautious.",
+  "reasoning": "The ego vehicle is moving slowly on a rainy day in a city street with many obstacles. The driver is being cautious and braking frequently to avoid collisions. The rainy weather conditions make the road slippery and reduce visibility, so the driver needs to be extra attentive. The presence of many other vehicles on the road adds to the complexity of the situation, and the driver needs to be constantly aware of their movements. The traffic lights provide guidance on when to stop or go, but the driver also needs to be prepared for sudden changes in the traffic situation. Overall, the video highlights the importance of safe driving practices in challenging weather conditions."
+}

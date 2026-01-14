@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene001_win05.json",
+  "title": "Rainy city driving, almost stopped, with a bus and a car in the background.",
+  "caption": "A white car drives on a rainy city street, with a bus and a car in the background.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The white car is driving slowly on a rainy city street. There is a bus and a car in the background. The road is wet and there are traffic lights and street signs along the street. The weather is overcast and there are tall buildings in the distance.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy weather conditions. It is maintaining a safe distance from the bus and the car in the background. The driver is being cautious and paying attention to the traffic lights and street signs to ensure safe navigation through the city streets."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 9,
+  "start_frame": 2040,
+  "end_frame": 2069,
+  "frames": [
+    2040,
+    2044,
+    2048,
+    2052,
+    2056,
+    2060,
+    2064,
+    2069
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene007_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene007_win09.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "Rainy day, city street intersection, small blue car driving straight, 30 braking events",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "Rainy day, city street intersection, small blue car driving straight, 30 braking events, other cars driving straight or turning left, pedestrians waiting at crosswalk, traffic lights showing green for all directions",
+  "reasoning": "Rainy day, almost stopped at intersection, small blue car driving straight, 30 braking events, other cars driving straight or turning left, pedestrians waiting at crosswalk, traffic lights showing green for all directions, the ego vehicle is being cautious and following traffic rules to ensure safety"
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 1,
+  "start_frame": 1800,
+  "end_frame": 1829,
+  "frames": [
+    1800,
+    1804,
+    1808,
+    1812,
+    1816,
+    1820,
+    1824,
+    1829
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene007_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene007_win01.json",
+  "title": "Rainy city street driving with an ambulance and a police car nearby.",
+  "caption": "A slow-moving ego vehicle on a rainy city street with an ambulance and a police car nearby.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a rainy city street. There is an ambulance and a police car nearby. The road is wet and visibility is reduced due to the rain. There are other cars on the road, some of them are parked on the side of the road. The traffic light is visible in the distance.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy conditions. The driver is being cautious and maintaining a safe distance from other vehicles on the road. The presence of the ambulance and the police car suggests that there might have been an accident or an emergency situation nearby. The driver needs to be extra vigilant and prepared to react to any unexpected events."
+}

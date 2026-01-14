@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 8,
+  "start_frame": 2310,
+  "end_frame": 2339,
+  "frames": [
+    2310,
+    2314,
+    2318,
+    2322,
+    2326,
+    2330,
+    2334,
+    2339
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene008_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene008_win08.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A blue car drives slowly through a rainy city street with tall buildings and palm trees.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a rainy day. There are many other cars on the road, and some of them are braking or stopping. The road is wet, and the visibility is reduced due to the rain. There are tall buildings and palm trees on the side of the road.",
+  "reasoning": "The blue car is driving slowly because of the rainy conditions and the presence of other vehicles on the road. The driver is being cautious and maintaining a safe distance from the cars ahead. The multiple braking events suggest that the traffic is congested, and the drivers are trying to avoid accidents. The tall buildings and palm trees indicate that this is an urban area, and the driver needs to be extra careful while navigating through the city."
+}

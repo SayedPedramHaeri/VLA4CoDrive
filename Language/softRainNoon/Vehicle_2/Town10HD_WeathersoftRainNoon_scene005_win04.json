@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 4,
+  "start_frame": 1290,
+  "end_frame": 1319,
+  "frames": [
+    1290,
+    1294,
+    1298,
+    1302,
+    1306,
+    1310,
+    1314,
+    1319
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene005_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene005_win04.json",
+  "title": "Rainy city street driving with frequent braking.",
+  "caption": "A blue car drives slowly on a rainy city street with frequent braking.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 3.3 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a rainy city street with tall trees on either side. There are several parked cars on the side of the road, and a red car is driving in the opposite direction. The road is wet from the rain, and there are several traffic lights and stop signs along the street. The weather is overcast, and the visibility is moderate.",
+  "reasoning": "The blue car is driving slowly because of the rainy conditions and the frequent braking events. The driver is being cautious and maintaining a safe distance from the other vehicles on the road. The tall trees on either side of the street are providing some shelter from the rain, but the visibility is still somewhat limited. The driver is paying close attention to the traffic lights and stop signs to ensure safe navigation through the city street."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 3,
+  "start_frame": 1560,
+  "end_frame": 1589,
+  "frames": [
+    1560,
+    1564,
+    1568,
+    1572,
+    1576,
+    1580,
+    1584,
+    1589
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene006_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene006_win03.json",
+  "title": "Rainy city driving, moderate speed, no significant braking",
+  "caption": "A red bus drives on a rainy city street with a white and blue truck on the left.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.2 m/s). No significant braking is observed in this window.",
+  "description": "The road is wet from the rain, and there are several vehicles on the street, including a red bus and a white and blue truck. The weather is overcast, and there are tall buildings on either side of the street. The traffic is moderate, and there are several traffic lights and signs along the road.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, maintaining a safe distance from the vehicles around it. The rainy weather may affect visibility and road conditions, so the ego vehicle needs to be cautious and attentive to its surroundings. It is important to keep an eye on the traffic lights and signs to ensure safe navigation through the city streets."
+}

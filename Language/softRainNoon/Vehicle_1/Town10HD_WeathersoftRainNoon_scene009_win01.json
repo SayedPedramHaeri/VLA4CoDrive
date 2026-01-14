@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 1,
+  "start_frame": 2400,
+  "end_frame": 2429,
+  "frames": [
+    2400,
+    2404,
+    2408,
+    2412,
+    2416,
+    2420,
+    2424,
+    2429
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene009_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene009_win01.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "Ego vehicle driving slowly in a busy city intersection",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "Rainy day in a busy city intersection. The ego vehicle is driving slowly and carefully, stopping at the red light. There are several other cars and pedestrians around, and the road is wet from the rain. The traffic light is red, and there is a parked truck on the side of the road.",
+  "reasoning": "The ego vehicle is driving slowly in the rainy city intersection because it is stopping at the red traffic light. The driver is being cautious and maintaining a safe distance from other vehicles and pedestrians. The wet road surface could be slippery, so the driver is braking gently and carefully navigating the intersection. The parked truck on the side of the road might obstruct the view of other vehicles, so the driver needs to be extra vigilant."
+}

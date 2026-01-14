@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 10,
+  "start_frame": 870,
+  "end_frame": 899,
+  "frames": [
+    870,
+    874,
+    878,
+    882,
+    886,
+    890,
+    894,
+    899
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene003_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene003_win10.json",
+  "title": "Rainy city street with moderate traffic, the ego vehicle is almost stopped.",
+  "caption": "A white car drives on a rainy city street with moderate traffic.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a white car driving on a rainy city street with moderate traffic. The road is wet and visibility is reduced. There are several other cars on the road, some of them are driving at a moderate speed while others are parked on the side of the road. The traffic lights are visible in the background and they are displaying red and green lights. The weather is rainy and the rain is falling heavily on the road.",
+  "reasoning": "The ego vehicle is almost stopped because it is approaching a red traffic light. The rainy weather conditions make the road slippery and reduce visibility, so the ego vehicle is driving cautiously to avoid any accidents. The other cars on the road are also driving at a moderate speed to adjust to the weather conditions. The parked cars on the side of the road are not obstructing the flow of traffic. The traffic lights are displaying red and green lights to control the flow of traffic and ensure safety. Overall, the video shows a typical rainy day in a city with moderate traffic."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 7,
+  "start_frame": 1380,
+  "end_frame": 1409,
+  "frames": [
+    1380,
+    1384,
+    1388,
+    1392,
+    1396,
+    1400,
+    1404,
+    1409
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene005_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene005_win07.json",
+  "title": "Rainy city street with a red car driving slowly and stopping at a stop sign.",
+  "caption": "A red car drives slowly on a rainy city street and stops at a stop sign.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.3 m/s). There are 19 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly on a rainy city street with tall buildings on both sides. There are several parked cars on the side of the road and a stop sign on the corner. The road is wet and there are white lines on the ground. The weather is rainy and the visibility is moderate.",
+  "reasoning": "The red car is driving slowly on the rainy city street to ensure safety and avoid any potential accidents. It stops at the stop sign to follow traffic rules and regulations. The driver of the red car is being cautious due to the wet road conditions and the presence of other vehicles and pedestrians on the road."
+}

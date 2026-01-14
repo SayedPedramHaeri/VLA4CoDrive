@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 4,
+  "start_frame": 1590,
+  "end_frame": 1619,
+  "frames": [
+    1590,
+    1594,
+    1598,
+    1602,
+    1606,
+    1610,
+    1614,
+    1619
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win04.json",
+  "title": "Rainy city street driving with moderate speed and frequent braking.",
+  "caption": "A blue car drives down a rainy city street, braking frequently and changing lanes.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.2 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars on the street. The blue car is driving in the right lane and changes lanes to pass a parked truck on the left. There is a pedestrian crossing the street at a crosswalk, and a traffic light is visible in the distance. The weather is overcast, and the visibility is moderate.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain safety in the rainy conditions. It brakes frequently to avoid collisions with other vehicles or pedestrians. The driver changes lanes to pass the parked truck, ensuring they maintain a safe distance from other vehicles on the road. The presence of the pedestrian crosswalk and the traffic light in the distance indicate that the driver must be cautious and follow traffic rules to ensure safety for all road users."
+}

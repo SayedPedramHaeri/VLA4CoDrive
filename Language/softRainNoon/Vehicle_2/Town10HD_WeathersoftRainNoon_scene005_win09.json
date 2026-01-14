@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 9,
+  "start_frame": 1440,
+  "end_frame": 1469,
+  "frames": [
+    1440,
+    1444,
+    1448,
+    1452,
+    1456,
+    1460,
+    1464,
+    1469
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene005_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene005_win09.json",
+  "title": "Rainy city street driving, moderate speed, no significant braking",
+  "caption": "The ego vehicle drives down a rainy city street, passing a tall building and a parked truck.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.2 m/s). No significant braking is observed in this window.",
+  "description": "The road is wet from the rain, and there are several other cars driving in the same direction. The traffic lights are visible in the distance, and there is a pedestrian crossing the street. The weather is overcast, and the visibility is moderate.",
+  "reasoning": "The ego vehicle maintains a moderate speed to ensure safety on the wet road. It keeps a safe distance from the parked truck and other vehicles on the road. The driver is cautious and attentive, adjusting the speed and direction according to the traffic conditions and the pedestrian's movement."
+}

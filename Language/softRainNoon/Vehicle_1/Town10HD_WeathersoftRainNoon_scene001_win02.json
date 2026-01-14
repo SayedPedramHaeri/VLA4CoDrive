@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 2,
+  "start_frame": 30,
+  "end_frame": 59,
+  "frames": [
+    30,
+    34,
+    38,
+    42,
+    46,
+    50,
+    54,
+    59
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene001_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene001_win02.json",
+  "title": "Rainy city driving, moderate speed, braking twice in 11 seconds",
+  "caption": "A white bus drives down a rainy city street, while a cyclist rides on the crosswalk.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). There are 2 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several cars and a bus driving on it. The cyclist is riding on the crosswalk, and the white bus is driving down the street. The traffic lights are visible in the background, and they are all green.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, and it brakes twice in 11 seconds, possibly due to the rainy conditions and the presence of other vehicles on the road. The cyclist on the crosswalk is an important nearby object that the ego vehicle needs to be cautious of, especially because of the rain. The green traffic lights suggest that the ego vehicle has the right of way, but it still needs to be vigilant and prepared to react to any unexpected situations."
+}

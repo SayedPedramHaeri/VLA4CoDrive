@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene008_win05.json",
+  "title": "Rainy city driving with police car and pedestrian crossing.",
+  "caption": "A police car drives down a rainy city street with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a rainy city street. There is a police car driving ahead of the ego vehicle. A pedestrian is crossing the street at a crosswalk. The road is wet from the rain.",
+  "reasoning": "The ego vehicle is driving slowly due to the rainy weather conditions. The police car ahead is likely responding to an emergency situation, which requires the ego vehicle to maintain a safe distance. The pedestrian crossing the street is an indication of the need for caution while driving in the city. The ego vehicle's braking events or strong decelerations suggest that the driver is being extra cautious while driving in these conditions."
+}

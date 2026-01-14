@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 8,
+  "start_frame": 1410,
+  "end_frame": 1439,
+  "frames": [
+    1410,
+    1414,
+    1418,
+    1422,
+    1426,
+    1430,
+    1434,
+    1439
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene005_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene005_win08.json",
+  "title": "Rainy city street with a red car driving slowly and stopping at a crosswalk.",
+  "caption": "A red car drives slowly on a rainy day, stopping at a crosswalk.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.4 m/s). There are 23 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly on a rainy day, stopping at a crosswalk. There are other cars parked on the side of the road. The road is wet and slippery.",
+  "reasoning": "The red car is driving slowly on a rainy day to avoid any accidents. It stops at the crosswalk to let pedestrians cross. The driver is being cautious due to the wet road conditions and the presence of other vehicles on the road."
+}

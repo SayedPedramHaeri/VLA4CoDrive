@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 4,
+  "start_frame": 690,
+  "end_frame": 719,
+  "frames": [
+    690,
+    694,
+    698,
+    702,
+    706,
+    710,
+    714,
+    719
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene003_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene003_win04.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A green car drives slowly through a rainy city intersection, with multiple braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.4 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The green car is driving slowly through a busy city intersection. There are several other cars on the road, including a red car that is driving straight ahead. The traffic lights are visible in the distance, and there is a tall building on the left side of the road. The rain is falling heavily, and the visibility is somewhat reduced. The road is wet and slippery, and the ego vehicle is braking frequently to avoid collisions with other vehicles.",
+  "reasoning": "The ego vehicle is driving slowly through the intersection because of the rainy weather conditions. The driver is being cautious and braking frequently to avoid collisions with other vehicles. The presence of multiple braking events suggests that the traffic is heavy and that the driver needs to be extra vigilant. The green car is following the traffic rules and is trying to navigate through the intersection safely."
+}

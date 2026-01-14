@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 5,
+  "start_frame": 1320,
+  "end_frame": 1349,
+  "frames": [
+    1320,
+    1324,
+    1328,
+    1332,
+    1336,
+    1340,
+    1344,
+    1349
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene005_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene005_win05.json",
+  "title": "Rainy city street with multiple braking events, ego vehicle is driving slowly.",
+  "caption": "A blue car drives slowly on a rainy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.7 m/s). There are 19 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a rainy city street. There are multiple braking events or strong decelerations in this window. The road is wet and visibility is reduced. There are other cars on the road, some of them are also braking. There is a red stop sign on the right side of the road. The trees on the sidewalk are bare, probably it's winter. The weather is rainy (softRainNoon).",
+  "reasoning": "The ego vehicle is driving slowly on a rainy city street with multiple braking events. The weather is rainy (softRainNoon), which reduces visibility and makes the road slippery. The ego vehicle is maintaining a safe distance from other vehicles on the road, and there are frequent braking events or strong decelerations. The red stop sign on the right side of the road indicates that the ego vehicle should slow down and stop if necessary. The trees on the sidewalk are bare, probably it's winter. The ego vehicle is driving cautiously to ensure safety in these challenging conditions."
+}

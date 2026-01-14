@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene008_win07.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "Police car driving through a rainy city intersection",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The police car is driving through a busy city intersection. There are several other cars on the road, some of which are also braking. The traffic lights are red and the pedestrians are waiting to cross the street. The road is wet and slippery due to the rain.",
+  "reasoning": "The police car is driving carefully through the intersection because it is rainy and the road is slippery. The driver is maintaining a safe distance from the other cars and is prepared to brake if necessary. The pedestrians are also waiting patiently to cross the street, and the traffic lights are red, indicating that it is not safe to proceed. Overall, the driver is prioritizing safety and following the traffic rules to ensure a smooth and accident-free journey."
+}

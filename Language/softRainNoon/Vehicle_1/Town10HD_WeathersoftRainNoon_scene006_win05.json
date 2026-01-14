@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 5,
+  "start_frame": 1620,
+  "end_frame": 1649,
+  "frames": [
+    1620,
+    1624,
+    1628,
+    1632,
+    1636,
+    1640,
+    1644,
+    1649
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win05.json",
+  "title": "Rainy city street with a blue car in the right lane.",
+  "caption": "A blue car drives slowly on a rainy city street, with a pedestrian crossing in the distance.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars on the street. The blue car is driving slowly and carefully, following the car in front of it. There is a pedestrian crossing in the distance, and a roundabout can be seen further down the road. The weather is rainy, and the visibility is moderate.",
+  "reasoning": "The blue car is driving slowly because of the rain and the presence of other vehicles on the road. The driver is being cautious and maintaining a safe distance from the car in front of it. The pedestrian crossing in the distance is another safety consideration, and the driver is preparing to slow down even more. The roundabout further down the road may also require the driver to adjust their speed and direction."
+}

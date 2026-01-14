@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 4,
+  "start_frame": 2190,
+  "end_frame": 2219,
+  "frames": [
+    2190,
+    2194,
+    2198,
+    2202,
+    2206,
+    2210,
+    2214,
+    2219
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene008_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene008_win04.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A slow-moving car navigates a busy city street in the rain, with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.3 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and visibility is slightly reduced. The ego vehicle is driving slowly and carefully, following a white car in front of it. There are several other cars on the road, including a black SUV and a silver sedan. A red traffic light can be seen in the distance, and there is a tall building on the right side of the road. The weather is rainy, and the sky is gray.",
+  "reasoning": "The ego vehicle is driving slowly to maintain safety in the rainy conditions. It slows down even more when approaching the braking events, possibly due to other vehicles stopping or changing lanes. The driver is being cautious and keeping a safe distance from the vehicles ahead, especially since the road is wet and slippery. The tall building on the right side of the road may also be a factor in the driver's decision-making, as it could obstruct the view of oncoming traffic or pedestrians."
+}

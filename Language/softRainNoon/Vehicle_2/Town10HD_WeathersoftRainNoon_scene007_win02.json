@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene007_win02.json",
+  "title": "Rainy city driving with a slow-moving ambulance and other vehicles.",
+  "caption": "A slow-moving ambulance drives down a rainy city street with other vehicles.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 3.7 m/s). There are 15 braking events or strong decelerations in this window.",
+  "description": "The video shows a rainy day in a city with a slow-moving ambulance driving down the street. There are other vehicles on the road, including a blue car and a parked truck. The road is wet and visibility is reduced due to the rain. The traffic lights are visible at the intersection, and there are pedestrians walking on the sidewalk.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy weather conditions, which can make the road slippery and reduce visibility. The ambulance is also moving slowly, which is typical for emergency vehicles. The ego vehicle maintains a safe distance from the ambulance and other vehicles on the road to avoid any potential accidents. The driver of the ego vehicle is cautious and attentive, adjusting the speed and direction according to the traffic situation and the visibility conditions."
+}

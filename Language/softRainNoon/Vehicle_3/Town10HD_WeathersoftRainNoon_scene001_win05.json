@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene001_win05.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A white van drives down a rainy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The white van is driving slowly down a rainy city street. There are several other vehicles on the road, including a parked truck on the right side of the street. The road is wet from the rain, and there are traffic lights at the intersections. The weather is overcast, and visibility is slightly reduced.",
+  "reasoning": "The ego vehicle is driving slowly due to the rainy weather conditions. It brakes frequently to avoid potential accidents and maintain a safe distance from other vehicles on the road. The parked truck on the right side of the street may have obstructed the left lane, forcing the ego vehicle to stay in the right lane. The traffic lights at the intersections help regulate the flow of traffic and ensure safe navigation through the city streets."
+}

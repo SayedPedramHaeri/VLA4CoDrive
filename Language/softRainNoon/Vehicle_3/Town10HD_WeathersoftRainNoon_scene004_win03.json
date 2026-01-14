@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 3,
+  "start_frame": 960,
+  "end_frame": 989,
+  "frames": [
+    960,
+    964,
+    968,
+    972,
+    976,
+    980,
+    984,
+    989
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene004_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene004_win03.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "Red car driving slowly in the rain on a city street, with a tall building in the background.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars on the street. The traffic light is red, and there is a pedestrian crossing the street. The weather is overcast, and the visibility is moderate.",
+  "reasoning": "The ego vehicle is driving slowly to avoid skidding on the wet road. It is approaching an intersection, and the driver is preparing to stop. The red traffic light and the pedestrian crossing the street are important safety considerations. The tall building in the background adds to the urban atmosphere of the scene."
+}

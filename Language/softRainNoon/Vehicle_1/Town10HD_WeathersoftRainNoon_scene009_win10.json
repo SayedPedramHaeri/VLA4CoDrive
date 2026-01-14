@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 10,
+  "start_frame": 2670,
+  "end_frame": 2699,
+  "frames": [
+    2670,
+    2674,
+    2678,
+    2682,
+    2686,
+    2690,
+    2694,
+    2699
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene009_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene009_win10.json",
+  "title": "Rainy city driving with police car and red truck",
+  "caption": "A police car and a red truck drive down a rainy city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a rainy city street. There are several other cars on the road, including a police car and a red truck. The road is wet and visibility is slightly reduced. There are traffic lights and street signs visible in the background.",
+  "reasoning": "The ego vehicle is driving slowly to maintain safety in the rainy conditions. The police car and red truck are among the other vehicles on the road, and the ego vehicle maintains a safe distance from them. The wet road surface and reduced visibility require extra caution while driving, and the ego vehicle's speed and braking patterns reflect this. The presence of traffic lights and street signs indicate that the ego vehicle is following the rules of the road and navigating the urban environment carefully."
+}

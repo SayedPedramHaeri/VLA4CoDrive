@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 2,
+  "start_frame": 930,
+  "end_frame": 959,
+  "frames": [
+    930,
+    934,
+    938,
+    942,
+    946,
+    950,
+    954,
+    959
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene004_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene004_win02.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "A white van drives through a rainy city intersection, with a small white car in the right lane.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars and a bus on the road. The traffic lights are red for the right lane, and there is a pedestrian crossing the street. The weather is overcast and gloomy.",
+  "reasoning": "The white van is driving cautiously due to the rain and the presence of other vehicles and pedestrians. It slows down and stops at the red traffic light, and then proceeds through the intersection. The van maintains a safe distance from the pedestrian and other vehicles, and is prepared to brake or change lanes if necessary."
+}

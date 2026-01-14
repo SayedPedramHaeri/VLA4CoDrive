@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 9,
+  "start_frame": 2340,
+  "end_frame": 2369,
+  "frames": [
+    2340,
+    2344,
+    2348,
+    2352,
+    2356,
+    2360,
+    2364,
+    2369
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene008_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathersoftRainNoon_scene008_win09.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "Rainy day, city street intersection, almost stopped, blue car turning left.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "Rainy day, city street intersection, almost stopped, blue car turning left, tall buildings in the background, other cars driving straight or turning left, pedestrians walking on the sidewalk.",
+  "reasoning": "The ego vehicle is almost stopped at the intersection, allowing the blue car to turn left safely. The rainy weather and the presence of other vehicles and pedestrians require cautious driving. The ego vehicle maintains a safe distance from the blue car and other nearby vehicles to avoid potential collisions."
+}

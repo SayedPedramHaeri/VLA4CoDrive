@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 4,
+  "start_frame": 1290,
+  "end_frame": 1319,
+  "frames": [
+    1290,
+    1294,
+    1298,
+    1302,
+    1306,
+    1310,
+    1314,
+    1319
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene005_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene005_win04.json",
+  "title": "Rainy city street with parked cars and a crosswalk, the ego vehicle is moving slowly and braking frequently.",
+  "caption": "The ego vehicle is driving slowly on a rainy day, passing parked cars and a crosswalk.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.2 m/s). There are 23 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several parked cars on the side of the street. The crosswalk is visible in the distance. The traffic is light, and there are no pedestrians or other vehicles in sight.",
+  "reasoning": "The ego vehicle is driving slowly to maintain control on the slippery road. It brakes frequently to avoid potential hazards, such as pedestrians or other vehicles that may suddenly appear. The parked cars on the side of the street and the crosswalk are potential obstacles that the driver needs to be aware of while driving."
+}

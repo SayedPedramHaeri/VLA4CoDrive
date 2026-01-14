@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene001_win04.json",
+  "title": "Rainy city driving, almost stopped, with a parked truck on the side of the road.",
+  "caption": "A white car drives down a rainy city street, with a parked truck on the side of the road.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The white car is driving slowly down a rainy city street. There is a parked truck on the side of the road, and a traffic light can be seen in the distance. The road is wet from the rain, and the visibility is slightly reduced. The white car is almost stopped, with an average speed of 0.1 m/s. There are 30 braking events or strong decelerations in this window.",
+  "reasoning": "The white car is driving slowly down the rainy city street because of the wet road conditions. The driver is being cautious and maintaining a safe distance from the parked truck on the side of the road. The traffic light in the distance is not currently relevant to the driver's actions. The driver is also aware of the potential risks of rainy conditions, such as reduced visibility and the possibility of hydroplaning. Therefore, the driver is driving at a slower speed to ensure safety."
+}

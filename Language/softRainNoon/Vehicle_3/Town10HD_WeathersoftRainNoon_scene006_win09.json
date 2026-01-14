@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 9,
+  "start_frame": 1740,
+  "end_frame": 1769,
+  "frames": [
+    1740,
+    1744,
+    1748,
+    1752,
+    1756,
+    1760,
+    1764,
+    1769
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene006_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene006_win09.json",
+  "title": "Rainy city street driving with a red car in front, slowing down and stopping.",
+  "caption": "A red car drives in front of the ego vehicle on a rainy city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.2 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a rainy city street. A red car is in front of the ego vehicle, and there are several other cars on the road. The road is wet from the rain, and visibility is slightly reduced. There are traffic lights and street signs along the road, and the weather is overcast.",
+  "reasoning": "The ego vehicle is following the red car in front of it, maintaining a safe distance. As the red car slows down and eventually stops, the ego vehicle also slows down and stops. The rainy weather conditions require the ego vehicle to be extra cautious and attentive to the road and other vehicles. The ego vehicle's sensors detect the braking events and strong decelerations of other vehicles on the road, and the ego vehicle adjusts its speed accordingly to maintain a safe distance and avoid any potential collisions."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 7,
+  "start_frame": 1680,
+  "end_frame": 1709,
+  "frames": [
+    1680,
+    1684,
+    1688,
+    1692,
+    1696,
+    1700,
+    1704,
+    1709
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNoon_scene006_win07.json",
+  "title": "Rainy city street driving with a blue car in the distance.",
+  "caption": "A blue car drives down a rainy city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 3.7 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a rainy city street. There are several other cars on the road, including a blue car in the distance. The road is wet and visibility is slightly reduced due to the rain.",
+  "reasoning": "The ego vehicle is driving slowly to maintain safety in the rainy conditions. It is keeping a safe distance from the blue car in the distance and adjusting its speed according to the wet road conditions. The ego vehicle is also prepared to brake or change lanes if necessary to avoid potential risks."
+}

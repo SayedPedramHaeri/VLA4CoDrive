@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 8,
+  "start_frame": 2610,
+  "end_frame": 2639,
+  "frames": [
+    2610,
+    2614,
+    2618,
+    2622,
+    2626,
+    2630,
+    2634,
+    2639
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene009_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNoon_scene009_win08.json",
+  "title": "Rainy city driving with a red car in front, the bus is following.",
+  "caption": "The bus is driving slowly in the rain, following a red car.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.4 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The bus is driving slowly on a rainy day, following a red car in front. The road is wet and visibility is reduced. There are several other cars on the road, some of them are also driving slowly. The bus is equipped with headlights and windshield wipers to navigate the rainy conditions.",
+  "reasoning": "The bus is driving slowly in the rain to maintain safety and avoid hydroplaning. The driver is following the red car in front, keeping a safe distance to avoid collisions. The bus is also equipped with sensors and cameras to detect any potential obstacles or pedestrians on the road. The driver is constantly monitoring the traffic situation and adjusting the speed and direction accordingly."
+}
