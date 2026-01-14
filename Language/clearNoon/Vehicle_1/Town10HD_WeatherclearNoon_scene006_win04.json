@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 4,
+  "start_frame": 1590,
+  "end_frame": 1619,
+  "frames": [
+    1590,
+    1594,
+    1598,
+    1602,
+    1606,
+    1610,
+    1614,
+    1619
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win04.json",
+  "title": "Clear noon, moderate-speed city driving with 9 braking events.",
+  "caption": "A blue car drives down a city street with moderate speed and 9 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.2 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The blue car drives down a city street with moderate speed. There are several other cars on the road, including a parked truck on the right side of the street. The weather is clear and sunny, with no visible traffic lights or pedestrians. The road is mostly straight with a slight curve to the left near the end of the clip.",
+  "reasoning": "The blue car maintains a moderate speed as it drives down the city street. It slows down or brakes at 9 different points, possibly due to traffic or road conditions. The parked truck on the right side of the street may have obstructed the car's path, requiring the driver to slow down or change lanes. The clear weather conditions and the absence of pedestrians or traffic lights suggest that the driver can navigate the road safely and efficiently."
+}

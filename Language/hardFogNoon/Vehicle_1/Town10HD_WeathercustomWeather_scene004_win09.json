@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 9,
+  "start_frame": 1140,
+  "end_frame": 1169,
+  "frames": [
+    1140,
+    1144,
+    1148,
+    1152,
+    1156,
+    1160,
+    1164,
+    1169
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene004_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene004_win09.json",
+  "title": "Moderate-speed city driving on a clear day with 4 braking events.",
+  "caption": "The ego vehicle drives straight on a foggy city street, passing a parked truck and a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 6.9 m/s). There are 4 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street with a speed limit of 30 mph. The traffic is moderate, with several cars driving in the opposite direction. The weather is clear, but there is fog in the distance. The traffic lights are visible and display green and yellow lights. The pedestrian is crossing the street at a crosswalk.",
+  "reasoning": "The ego vehicle maintains a moderate speed and keeps a safe distance from the parked truck and the pedestrian. It slows down and brakes when approaching the traffic lights, following the traffic rules. The fog in the distance requires the ego vehicle to be extra cautious and attentive to the road ahead."
+}

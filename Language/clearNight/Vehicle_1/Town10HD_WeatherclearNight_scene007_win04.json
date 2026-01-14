@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 4,
+  "start_frame": 1890,
+  "end_frame": 1919,
+  "frames": [
+    1890,
+    1894,
+    1898,
+    1902,
+    1906,
+    1910,
+    1914,
+    1919
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene007_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene007_win04.json",
+  "title": "Clear night city driving with moderate speed and 8 braking events.",
+  "caption": "A person is riding a bike on a city street at night with moderate traffic.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.7 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The video shows a person riding a bike on a city street at night. The street is well-lit with streetlights and there are tall buildings on both sides of the road. The road is wet and there are several parked cars on the side of the road. The video also shows a few cars driving in the opposite direction. The person on the bike is wearing a helmet and a brightly colored jacket. The video lasts for 8 seconds and the person on the bike is seen riding throughout the entire clip.",
+  "reasoning": "The person on the bike is riding at a moderate speed because they are following the speed limit and there are several parked cars on the side of the road. The person is wearing a helmet and a brightly colored jacket to increase their visibility to other drivers on the road. The video shows 8 braking events, which could be due to the person on the bike needing to slow down or stop because of other vehicles or pedestrians on the road. The person on the bike is also seen riding throughout the entire clip, which suggests that they are experienced and comfortable riding in traffic at night."
+}

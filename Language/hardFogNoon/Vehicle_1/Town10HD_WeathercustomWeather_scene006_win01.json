@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 1,
+  "start_frame": 1500,
+  "end_frame": 1529,
+  "frames": [
+    1500,
+    1504,
+    1508,
+    1512,
+    1516,
+    1520,
+    1524,
+    1529
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene006_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene006_win01.json",
+  "title": "Moderate-speed city driving on a foggy day, with a red bus in the distance.",
+  "caption": "The ego vehicle is driving straight on a foggy city street, with a red bus in the distance.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is wet from the fog, and there are no other vehicles or pedestrians visible. The traffic lights are green, and there are no obstacles or parked vehicles blocking the way. The weather is foggy, and the visibility is moderate.",
+  "reasoning": "The ego vehicle is maintaining a moderate speed because of the foggy weather conditions, which can reduce visibility and make it harder to react to sudden changes in the traffic situation. The driver is paying close attention to the road and the traffic lights, ensuring that they follow the rules of the road and maintain a safe distance from other vehicles. The presence of the red bus in the distance suggests that there may be other traffic on the road, so the driver needs to be cautious and prepared to react to any potential risks."
+}

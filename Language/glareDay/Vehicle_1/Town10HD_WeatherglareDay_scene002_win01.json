@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 1,
+  "start_frame": 300,
+  "end_frame": 329,
+  "frames": [
+    300,
+    304,
+    308,
+    312,
+    316,
+    320,
+    324,
+    329
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene002_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene002_win01.json",
+  "title": "Clear day, slow city driving with frequent braking.",
+  "caption": "A white car drives slowly on a foggy city street with a bus and a truck in the background.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 0.7 m/s). There are 16 braking events or strong decelerations in this window.",
+  "description": "The white car is driving slowly on a foggy city street. There is a bus and a truck in the background. The road is wet and there are several traffic lights and stop signs along the street.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy weather conditions. It frequently brakes to avoid collisions with other vehicles on the road. The driver is cautious and pays close attention to the traffic signals and pedestrians near the crosswalks."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 4,
+  "start_frame": 390,
+  "end_frame": 419,
+  "frames": [
+    390,
+    394,
+    398,
+    402,
+    406,
+    410,
+    414,
+    419
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene002_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene002_win04.json",
+  "title": "Foggy city street with moderate traffic and frequent braking",
+  "caption": "A red car drives slowly through a foggy city intersection, stopping at a red light.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 4.8 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The road is a wide city street with a green traffic light on the right side. There are several cars and a bus in the distance, and a parked truck on the left side of the road. The weather is foggy, and visibility is moderate. The traffic light turns red, and the red car stops.",
+  "reasoning": "The red car slows down and stops at the red traffic light, following traffic rules and ensuring safety. The frequent braking events suggest that the road is slippery or the traffic is heavy, requiring the driver to be cautious and maintain a safe distance from other vehicles."
+}

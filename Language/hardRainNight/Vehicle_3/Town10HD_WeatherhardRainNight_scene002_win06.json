@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 6,
+  "start_frame": 450,
+  "end_frame": 479,
+  "frames": [
+    450,
+    454,
+    458,
+    462,
+    466,
+    470,
+    474,
+    479
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene002_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene002_win06.json",
+  "title": "Rainy night driving on a city street with moderate speed and braking.",
+  "caption": "A red car drives on a rainy city street at moderate speed, braking twice in 11 seconds.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.2 m/s). There are 2 braking events or strong decelerations in this window.",
+  "description": "The video shows a red car driving on a rainy city street at moderate speed. The road is wet and there are tall buildings and palm trees on the sidewalk. There are several other cars on the road, some of them are parked and some are driving. The traffic lights are visible in the distance and they are green. The video also shows a crosswalk and a pedestrian crossing the street. The weather is rainy and the visibility is low.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because the road is wet and slippery. The driver is being cautious and braking twice in 11 seconds to avoid any potential accidents. The driver is also keeping a safe distance from other vehicles on the road. The presence of the pedestrian crossing the street and the crosswalk indicates that the driver needs to be extra careful and attentive to the surroundings. The tall buildings and palm trees on the sidewalk suggest that this is a city street with moderate traffic."
+}

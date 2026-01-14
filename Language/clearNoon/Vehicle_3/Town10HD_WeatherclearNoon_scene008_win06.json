@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 6,
+  "start_frame": 2250,
+  "end_frame": 2279,
+  "frames": [
+    2250,
+    2254,
+    2258,
+    2262,
+    2266,
+    2270,
+    2274,
+    2279
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene008_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene008_win06.json",
+  "title": "Clear noon, moderate-speed city driving with multiple braking events.",
+  "caption": "A red car drives down a busy city street with a green bus behind it.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on both sides. There are several other cars on the road, including a black car and a parked white truck. The traffic light is red for the left lane and green for the right lane. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving slowly and following the red car in front of it. It slows down and brakes frequently due to the busy traffic and the need to respect traffic rules. The green bus behind it is also driving slowly and carefully, following the same traffic rules. The parked white truck on the side of the road is not obstructing the flow of traffic. The red traffic light for the left lane indicates that the ego vehicle should stay in the right lane. The green traffic light for the right lane indicates that the green bus can continue driving. Overall, the scene is a typical city driving scenario with moderate traffic and clear weather conditions."
+}

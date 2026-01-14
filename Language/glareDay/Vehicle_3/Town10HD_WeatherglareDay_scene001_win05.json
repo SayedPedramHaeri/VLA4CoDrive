@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene001_win05.json",
+  "title": "Clear day in the city, slow-speed driving with multiple braking events.",
+  "caption": "A white van drives down a city street with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The video shows a white van driving down a city street with a pedestrian crossing the street. The road is wet and there are multiple braking events. The video also shows a tall building in the background and a green traffic light.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the wet road and the presence of a pedestrian crossing the street. The multiple braking events suggest that the traffic is heavy and the driver needs to be attentive to avoid collisions. The tall building in the background adds to the urban environment and the green traffic light indicates that the driver can proceed with caution."
+}

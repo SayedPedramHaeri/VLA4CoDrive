@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 9,
+  "start_frame": 2640,
+  "end_frame": 2669,
+  "frames": [
+    2640,
+    2644,
+    2648,
+    2652,
+    2656,
+    2660,
+    2664,
+    2669
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene009_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene009_win09.json",
+  "title": "Clear night city driving with frequent braking.",
+  "caption": "A white bus drives down a city street at night with frequent braking.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a city street at night. There are many other vehicles on the road, including a white bus that is driving in the opposite direction. The street is well-lit with streetlights and there are tall buildings on either side. The weather is clear and there are no visible pedestrians or obstacles on the road.",
+  "reasoning": "The ego vehicle is driving slowly because it is in a city environment with many other vehicles on the road. The frequent braking events suggest that the traffic is heavy and the driver needs to be cautious. The white bus is also driving in the opposite direction, which requires the ego vehicle to be extra careful when changing lanes or making turns. Overall, the driver needs to pay close attention to the road and other vehicles to ensure safe driving in this urban environment."
+}

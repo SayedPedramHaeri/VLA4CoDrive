@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene008_win07.json",
+  "title": "Clear day in a city with moderate traffic and a red car in the distance.",
+  "caption": "The ego vehicle is driving slowly in a busy city street with a red car in the distance.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a busy city street with multiple lanes and parked cars on the side. There are several cars and a motorcycle driving in the same direction as the ego vehicle. The weather is clear and sunny, with no visible obstacles or traffic lights.",
+  "reasoning": "The ego vehicle is driving slowly and carefully, maintaining a safe distance from the other vehicles on the road. It is preparing to stop or change lanes, as indicated by the braking events and the position of the other cars. The driver is paying attention to the road and the surrounding traffic, ensuring a safe driving experience."
+}

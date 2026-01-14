@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 2,
+  "start_frame": 1230,
+  "end_frame": 1259,
+  "frames": [
+    1230,
+    1234,
+    1238,
+    1242,
+    1246,
+    1250,
+    1254,
+    1259
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win02.json",
+  "title": "Clear noon, moderate-speed city driving with 11 braking events",
+  "caption": "The ego vehicle drives down a city street with moderate speed and 11 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 7.1 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving down a city street with moderate speed. There are several other cars on the road, including a white car in the distance and a parked blue car on the right side of the street. The road is lined with trees and buildings, and there is a red stop sign on the right side of the street. The weather is clear and sunny, with no visible obstacles or pedestrians.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a city environment with moderate traffic. The 11 braking events suggest that the driver is being cautious and attentive to the road conditions. The presence of the stop sign and other vehicles on the road indicate that the driver is following traffic rules and regulations. The parked blue car on the right side of the street may have prompted the driver to slow down or change lanes to avoid a potential collision. Overall, the driver seems to be behaving safely and responsibly in this urban environment."
+}

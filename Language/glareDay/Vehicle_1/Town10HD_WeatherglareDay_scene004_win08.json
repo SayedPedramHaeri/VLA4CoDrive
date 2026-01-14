@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 8,
+  "start_frame": 1110,
+  "end_frame": 1139,
+  "frames": [
+    1110,
+    1114,
+    1118,
+    1122,
+    1126,
+    1130,
+    1134,
+    1139
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win08.json",
+  "title": "Moderate-speed city driving on a clear day with 8 braking events.",
+  "caption": "The ego vehicle drives straight on a city street with moderate traffic and 8 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 6.8 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street with a speed limit of 30 mph. The traffic is moderate, with several cars driving in the same direction. The weather is clear, and the visibility is good. There are several traffic lights and stop signs along the road, and the ego vehicle passes by a pedestrian crossing and a roundabout. The video shows the ego vehicle braking several times, with an average braking distance of 2 seconds.",
+  "reasoning": "The ego vehicle is driving straight on the city street, maintaining a moderate speed. It brakes several times to avoid collisions with other vehicles or pedestrians. The video shows the ego vehicle's sensors detecting the presence of other vehicles and pedestrians, and the vehicle's braking system responding accordingly. The ego vehicle's safety features, such as the anti-lock braking system (ABS), help it maintain control and avoid accidents. Overall, the video demonstrates the importance of safe driving practices and the effectiveness of modern vehicle safety systems."
+}

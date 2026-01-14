@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene007_win02.json",
+  "title": "Rainy city street driving with pedestrian crossing",
+  "caption": "A slow-moving vehicle on a rainy day, with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The video shows a slow-moving vehicle on a rainy day, with a pedestrian crossing the street. The road is wet and visibility is reduced due to the rain. There are several other vehicles on the road, including a parked truck on the side of the road. The traffic light is visible in the background and is currently red.",
+  "reasoning": "The ego vehicle is driving slowly due to the rainy weather conditions, which can affect visibility and road traction. The pedestrian crossing the street is an important safety consideration, and the ego vehicle is maintaining a safe distance from the pedestrian. The multiple braking events in the driving metadata suggest that the ego vehicle is being cautious and is prepared to stop or slow down further if necessary."
+}

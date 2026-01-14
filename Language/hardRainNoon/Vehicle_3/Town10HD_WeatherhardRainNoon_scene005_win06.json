@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 6,
+  "start_frame": 1350,
+  "end_frame": 1379,
+  "frames": [
+    1350,
+    1354,
+    1358,
+    1362,
+    1366,
+    1370,
+    1374,
+    1379
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene005_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene005_win06.json",
+  "title": "Rainy city street driving with a red car in front, the ego vehicle is moving slowly and braking frequently.",
+  "caption": "The ego vehicle is driving slowly on a rainy day, following a red car in front.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 2.4 m/s). There are 20 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several parked cars on the side of the road. The traffic is light, and there are no pedestrians visible. The traffic lights are all red, and there is a stop sign on the right side of the road.",
+  "reasoning": "The ego vehicle is driving slowly and braking frequently due to the rainy conditions and the presence of the red car in front. The driver is being cautious to avoid any accidents or skidding on the wet road. The stop sign on the right side of the road is an additional safety measure to ensure that all vehicles come to a complete stop before proceeding."
+}

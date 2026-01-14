@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene009_win03.json",
+  "title": "Night city driving with a blue car and a motorcycle, almost stopped at an intersection.",
+  "caption": "Night city driving with a blue car and a motorcycle, almost stopped at an intersection.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a blue car driving on a city street at night. The road is wet, and there are tall buildings on both sides. The traffic is light, and there are a few parked cars on the side of the road. The video starts with the blue car driving straight, and then it slows down and stops at an intersection. There is a motorcycle parked on the side of the road, and a person is standing on the sidewalk. The traffic light is red, and there is a white truck parked on the side of the road. The video shows the blue car staying in the same lane and waiting for the traffic light to turn green.",
+  "reasoning": "The blue car is driving carefully at night in a city with tall buildings. It slows down and stops at an intersection, following the traffic rules and waiting for the traffic light to turn green. The driver is being cautious and paying attention to the surroundings, including the parked white truck and the person standing on the sidewalk. The wet road and the potential presence of pedestrians and other vehicles require the driver to be extra vigilant and maintain a safe distance from other objects on the road."
+}

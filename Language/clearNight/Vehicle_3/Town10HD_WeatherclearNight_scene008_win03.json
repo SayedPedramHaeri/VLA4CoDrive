@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 3,
+  "start_frame": 2160,
+  "end_frame": 2189,
+  "frames": [
+    2160,
+    2164,
+    2168,
+    2172,
+    2176,
+    2180,
+    2184,
+    2189
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene008_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene008_win03.json",
+  "title": "Clear night city driving with slow average speed and frequent braking.",
+  "caption": "A red car drives down a city street at night with other cars and a bus on the road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 0.8 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a city street at night. There are other cars on the road, including a red car in front of the ego vehicle. A bus is also visible on the right side of the road. The street is well-lit with streetlights and there are palm trees lining the road. The weather is clear and there are no visible pedestrians or obstacles on the road.",
+  "reasoning": "The ego vehicle is driving slowly down the city street at night to ensure safety. The frequent braking events suggest that the traffic is heavy and the driver needs to be cautious. The presence of other cars and the bus on the right side of the road require the driver to maintain a safe distance and be prepared for sudden changes in traffic. The well-lit street and the palm trees lining the road suggest that this is a popular tourist destination and the driver needs to be mindful of pedestrians and cyclists who may be crossing the road."
+}

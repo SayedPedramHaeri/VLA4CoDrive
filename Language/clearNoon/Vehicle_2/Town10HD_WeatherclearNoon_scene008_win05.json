@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene008_win05.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "A red car drives down a busy city street with tall buildings and palm trees on either side.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.8 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. There are several cars and a motorcycle on the road. The traffic light is red and there is a parked truck on the side of the road. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the frequent braking events. It is maintaining a safe distance from the car in front of it and is prepared to stop if necessary. The red traffic light indicates that the ego vehicle should not proceed and it is waiting for the light to turn green. The parked truck on the side of the road may be obstructing the view of oncoming traffic, so the ego vehicle needs to be extra cautious when changing lanes or turning."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 8,
+  "start_frame": 210,
+  "end_frame": 239,
+  "frames": [
+    210,
+    214,
+    218,
+    222,
+    226,
+    230,
+    234,
+    239
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win08.json",
+  "title": "Clear noon, moderate-speed city driving with multiple braking events.",
+  "caption": "Red car driving on a busy city street with multiple other vehicles and pedestrians.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a busy city street with multiple other vehicles and pedestrians. The road is wet, and there are tall buildings on both sides. The traffic light is green, and the weather is clear. The ego vehicle is almost stopped, and there are 30 braking events or strong decelerations in this window.",
+  "reasoning": "The red car is driving carefully on a busy city street with multiple other vehicles and pedestrians. The driver is paying attention to the traffic light, which is currently green. The road is wet, and the driver is braking frequently to avoid collisions with other vehicles or pedestrians. The tall buildings on both sides of the street create a canyon-like effect, which can make it difficult to see around corners. The driver needs to be extra cautious and maintain a safe distance from other vehicles to avoid accidents."
+}

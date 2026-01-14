@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 7,
+  "start_frame": 1380,
+  "end_frame": 1409,
+  "frames": [
+    1380,
+    1384,
+    1388,
+    1392,
+    1396,
+    1400,
+    1404,
+    1409
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene005_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene005_win07.json",
+  "title": "Moderate-speed city driving on a clear day.",
+  "caption": "The ego vehicle drives straight on a city street with moderate traffic.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is a two-lane city street with a speed limit of 30 mph. The traffic is moderate, with several cars driving in the opposite direction. The weather is clear, and there are no visible traffic lights or pedestrians in the scene.",
+  "reasoning": "The ego vehicle maintains a moderate speed to ensure safe driving in the city. It keeps a safe distance from the other cars and is prepared to slow down or stop if necessary. The driver is attentive to the road and the traffic situation, ready to react to any potential risks."
+}

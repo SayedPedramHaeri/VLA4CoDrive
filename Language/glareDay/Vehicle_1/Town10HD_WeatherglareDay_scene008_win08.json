@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 8,
+  "start_frame": 2310,
+  "end_frame": 2339,
+  "frames": [
+    2310,
+    2314,
+    2318,
+    2322,
+    2326,
+    2330,
+    2334,
+    2339
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene008_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene008_win08.json",
+  "title": "Clear day in a busy city, with the ego vehicle almost stopped at an intersection.",
+  "caption": "The ego vehicle is driving slowly in a busy city, with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a busy city street with multiple lanes and parked cars on the side. There are several cars and a truck driving on the road. The traffic light is red, and there is a pedestrian crossing the street. The weather is clear, and the sun is shining brightly.",
+  "reasoning": "The ego vehicle is driving slowly because it is approaching an intersection and needs to stop for the pedestrian crossing the street. The driver is being cautious and following the traffic rules. The parked cars on the side of the road and the red traffic light indicate that the driver needs to be extra careful while driving. The bright sunlight might also be affecting the driver's visibility, so they need to be extra vigilant while driving."
+}

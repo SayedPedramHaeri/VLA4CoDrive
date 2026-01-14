@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 1,
+  "start_frame": 1800,
+  "end_frame": 1829,
+  "frames": [
+    1800,
+    1804,
+    1808,
+    1812,
+    1816,
+    1820,
+    1824,
+    1829
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene007_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene007_win01.json",
+  "title": "Clear night, slow city driving with 8 braking events",
+  "caption": "A slow-moving ambulance drives down a city street at night with 8 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a city street at night. There are several other cars on the road, some of which are also braking. The street is well-lit with streetlights and there are palm trees lining the road. The weather is clear and visibility is good.",
+  "reasoning": "The ego vehicle is driving slowly because it is an ambulance and needs to be cautious. It is braking frequently because there are other cars on the road that are also braking. The ambulance is trying to maintain a safe distance from the other vehicles to avoid any accidents. The clear night visibility allows the driver to see the road and other vehicles clearly, which helps in making safe driving decisions."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 3,
+  "start_frame": 1860,
+  "end_frame": 1889,
+  "frames": [
+    1860,
+    1864,
+    1868,
+    1872,
+    1876,
+    1880,
+    1884,
+    1889
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene007_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene007_win03.json",
+  "title": "Rainy night driving in a city with moderate speed, following a car, and passing a pedestrian near a crosswalk.",
+  "caption": "A rainy night driving in a city with moderate speed, following a car, and passing a pedestrian near a crosswalk.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 4.1 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The video shows a rainy night driving in a city with moderate speed. The ego vehicle is following a car and passing a pedestrian near a crosswalk. The road is wet and visibility is reduced due to the rain. There are several other cars on the road, some of them are parked on the side of the road. The traffic lights are visible in the background and they are displaying red and green lights.",
+  "reasoning": "The ego vehicle is driving slowly in order to maintain a safe distance from the car in front of it. The driver is being cautious due to the rainy weather conditions and the presence of pedestrians near crosswalks. The braking events or strong decelerations in the driving metadata indicate that the driver is reacting to changes in the traffic situation, such as cars stopping or pedestrians crossing the road. The driver is also paying attention to the traffic lights and adjusting their speed accordingly."
+}

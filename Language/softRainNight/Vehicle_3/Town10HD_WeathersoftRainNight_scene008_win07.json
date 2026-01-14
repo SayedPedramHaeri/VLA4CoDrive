@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene008_win07.json",
+  "title": "Rainy night city driving, almost stopped, pedestrians on sidewalk.",
+  "caption": "Red car driving slowly on a rainy night in a city, with pedestrians on the sidewalk.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly on a rainy night in a city. There are several other cars on the road, and a few pedestrians on the sidewalk. The road is wet from the rain, and there are a few traffic lights visible in the distance. The weather is dark and rainy, with visibility slightly reduced.",
+  "reasoning": "The red car is driving slowly because of the rainy conditions and the presence of pedestrians on the sidewalk. The driver is being cautious and maintaining a safe distance from other vehicles on the road. The frequent braking events indicate that the driver is constantly adjusting their speed to match the flow of traffic and avoid any potential accidents."
+}

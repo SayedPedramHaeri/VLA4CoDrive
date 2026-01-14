@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 10,
+  "start_frame": 1770,
+  "end_frame": 1799,
+  "frames": [
+    1770,
+    1774,
+    1778,
+    1782,
+    1786,
+    1790,
+    1794,
+    1799
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene006_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene006_win10.json",
+  "title": "Rainy night driving in a city with palm trees and traffic lights.",
+  "caption": "A slow-moving car on a rainy night in a city with palm trees and traffic lights.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several traffic lights and palm trees along the street. The traffic is light, and there are a few other cars driving in the same direction. The ego vehicle is moving slowly and braking frequently, likely due to the rainy conditions.",
+  "reasoning": "The ego vehicle is driving cautiously because of the rainy weather, which can reduce visibility and make the road slippery. The driver is likely paying extra attention to the traffic lights and other vehicles on the road to avoid any accidents. The frequent braking events suggest that the driver is being very careful and is probably adjusting their speed based on the conditions."
+}

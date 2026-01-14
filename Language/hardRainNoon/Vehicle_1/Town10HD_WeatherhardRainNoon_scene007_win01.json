@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 1,
+  "start_frame": 1800,
+  "end_frame": 1829,
+  "frames": [
+    1800,
+    1804,
+    1808,
+    1812,
+    1816,
+    1820,
+    1824,
+    1829
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene007_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene007_win01.json",
+  "title": "Rainy city street driving with a slow average speed of 4.0 m/s.",
+  "caption": "A slow-moving vehicle on a rainy city street with other cars and pedestrians.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The video shows a rainy city street with a slow-moving vehicle. The road is wet, and visibility is reduced. There are other cars and pedestrians on the street, and the traffic lights are visible in the background. The video captures the raindrops hitting the windshield and the sound of the wipers. The vehicles on the road are driving cautiously due to the rainy weather.",
+  "reasoning": "The ego vehicle is moving slowly on the rainy city street to maintain safety and avoid any potential accidents. The driver is being cautious and following the other vehicles on the road. The rainy weather conditions require the driver to be more attentive and maintain a safe distance from other vehicles. The braking events in the driving metadata indicate that the driver is reacting to the changing traffic conditions and adjusting the speed accordingly."
+}

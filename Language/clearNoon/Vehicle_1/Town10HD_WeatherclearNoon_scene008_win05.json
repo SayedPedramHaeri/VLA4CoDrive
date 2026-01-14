@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win05.json",
+  "title": "Clear noon, moderate-speed city driving with police car following",
+  "caption": "A police car follows a blue car on a city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a busy city street with tall buildings on both sides. There are several other cars on the road, including a parked truck on the right side of the street. The traffic light is red, and there is a pedestrian crossing the street. The weather is clear and sunny.",
+  "reasoning": "The blue car is likely being followed by the police car because it was speeding or violating traffic rules. The driver of the blue car should be cautious and maintain a safe distance from the police car to avoid any penalties or accidents. The presence of other vehicles and pedestrians on the street requires the driver to be attentive and follow traffic rules to ensure safety for everyone."
+}

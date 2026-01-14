@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 8,
+  "start_frame": 2610,
+  "end_frame": 2639,
+  "frames": [
+    2610,
+    2614,
+    2618,
+    2622,
+    2626,
+    2630,
+    2634,
+    2639
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win08.json",
+  "title": "Clear day in a city with moderate traffic and a few pedestrians.",
+  "caption": "A slow-moving car navigates a city street with multiple traffic lights and parked cars.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 3.9 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with multiple traffic lights and parked cars on the side. The weather is clear, and there are several pedestrians walking on the sidewalk. The ego vehicle is moving slowly and changing lanes to avoid a parked truck. There are a few other cars on the road, and the traffic lights are mostly green.",
+  "reasoning": "The ego vehicle is driving slowly because of the clear weather and the presence of pedestrians on the sidewalk. It changes lanes to avoid a parked truck and to maintain a safe distance from other vehicles. The multiple traffic lights and parked cars on the side of the road require the driver to be extra cautious and attentive to avoid any accidents."
+}

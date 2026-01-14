@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 2,
+  "start_frame": 1230,
+  "end_frame": 1259,
+  "frames": [
+    1230,
+    1234,
+    1238,
+    1242,
+    1246,
+    1250,
+    1254,
+    1259
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene005_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene005_win02.json",
+  "title": "Moderate-speed city driving at night with clear skies.",
+  "caption": "The ego vehicle is driving straight on a city street at night, with moderate traffic and clear skies.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 7.1 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a crosswalk and a sidewalk on the right. There are parked cars on the right side of the street, and a tall building in the background. The traffic light is green, and there is a red stop sign on the right side of the street. The weather is clear and the visibility is good.",
+  "reasoning": "The ego vehicle is driving straight at a moderate speed because the road is clear and there are no obstacles or pedestrians in sight. The driver is being cautious and following the speed limit to ensure safety. The braking events in the driving metadata suggest that the driver is prepared to stop or slow down if needed, for example if a pedestrian or a car suddenly appears in the road. The driver is also keeping a safe distance from the parked cars on the right side of the street, in case they need to stop or change lanes."
+}

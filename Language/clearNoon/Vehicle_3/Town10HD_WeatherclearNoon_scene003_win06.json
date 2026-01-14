@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 6,
+  "start_frame": 750,
+  "end_frame": 779,
+  "frames": [
+    750,
+    754,
+    758,
+    762,
+    766,
+    770,
+    774,
+    779
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene003_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene003_win06.json",
+  "title": "Clear noon, moderate-speed city driving with 7 braking events.",
+  "caption": "The ego vehicle drives on a busy city street, stopping at a red light and following a red car.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.2 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The video shows the ego vehicle driving on a busy city street with moderate traffic. The road is straight and has two lanes in each direction. There are several tall buildings on both sides of the street. The weather is clear and sunny. The traffic light at the intersection is red, and the ego vehicle stops at the crosswalk. There is a red car in front of the ego vehicle that it follows.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a city environment with moderate traffic. It stops at the red light to comply with traffic rules and then follows the red car in front of it. The 7 braking events or strong decelerations in this window could be due to the ego vehicle stopping at the red light or slowing down to avoid a potential collision with other vehicles or pedestrians."
+}

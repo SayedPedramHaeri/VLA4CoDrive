@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 7,
+  "start_frame": 180,
+  "end_frame": 209,
+  "frames": [
+    180,
+    184,
+    188,
+    192,
+    196,
+    200,
+    204,
+    209
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win07.json",
+  "title": "Night city driving with almost stopped ego vehicle.",
+  "caption": "A white bus drives down a city street at night with a white car following it.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with a white bus driving down it. There are other cars parked on the side of the road and a red car driving in the opposite direction. The street is well-lit with streetlights and there are palm trees lining the sidewalk. The weather is clear and it is nighttime.",
+  "reasoning": "The ego vehicle is driving at a very slow speed because it is almost stopped. This is likely due to traffic congestion or a stop sign ahead. The white bus is driving down the street, followed by the white car. The red car is driving in the opposite direction. The parked cars on the side of the road suggest that this is a busy area of the city. The palm trees and streetlights suggest that this is a warm climate. The clear night sky indicates that it is late in the evening."
+}

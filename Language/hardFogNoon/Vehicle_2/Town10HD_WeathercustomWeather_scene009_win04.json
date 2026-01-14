@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 4,
+  "start_frame": 2490,
+  "end_frame": 2519,
+  "frames": [
+    2490,
+    2494,
+    2498,
+    2502,
+    2506,
+    2510,
+    2514,
+    2519
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene009_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene009_win04.json",
+  "title": "Foggy city street with almost stopped traffic and a motorcycle rider.",
+  "caption": "A foggy city street with a blue car driving slowly and a motorcycle rider.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with a blue car driving slowly. There are other cars on the road, and a motorcycle rider is also visible. The road is wet, and the visibility is low due to the fog. There are traffic lights and street signs visible in the background.",
+  "reasoning": "The blue car is driving slowly because of the low visibility caused by the fog. The driver is being cautious and maintaining a safe distance from other vehicles on the road. The motorcycle rider is also driving carefully, taking into account the wet road surface and the reduced visibility. The foggy weather conditions require all road users to be extra vigilant and cautious to avoid any accidents."
+}

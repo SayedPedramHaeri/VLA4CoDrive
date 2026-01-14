@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 4,
+  "start_frame": 1890,
+  "end_frame": 1919,
+  "frames": [
+    1890,
+    1894,
+    1898,
+    1902,
+    1906,
+    1910,
+    1914,
+    1919
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win04.json",
+  "title": "Moderate-speed city driving on a clear day with 8 braking events.",
+  "caption": "A person is riding a bike on a foggy city street with palm trees and a roundabout.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 5.7 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The road is wet and there are several other cars and pedestrians on the street. The traffic light is red and there is a parked truck on the side of the road.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and there are frequent braking events, possibly due to the wet road conditions and the presence of other vehicles and pedestrians. The driver needs to be cautious and maintain a safe distance from other objects on the road."
+}

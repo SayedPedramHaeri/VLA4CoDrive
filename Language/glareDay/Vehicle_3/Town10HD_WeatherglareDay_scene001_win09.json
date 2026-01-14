@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 9,
+  "start_frame": 240,
+  "end_frame": 269,
+  "frames": [
+    240,
+    244,
+    248,
+    252,
+    256,
+    260,
+    264,
+    269
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene001_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene001_win09.json",
+  "title": "Clear noon, moderate-speed city driving with glareDay weather.",
+  "caption": "Red car driving on a city street with tall buildings and a bus in the distance.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with tall buildings on both sides. The traffic is moderate with several cars and a bus in the distance. The weather is clear with a glareDay effect. The ego vehicle is driving at a moderate speed.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a city environment with moderate traffic. It is approaching an intersection and slowing down to stop. The driver is paying attention to the traffic light and other vehicles on the road to ensure safe driving. The glareDay weather effect might affect visibility, so the driver needs to be extra cautious."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 6,
+  "start_frame": 2250,
+  "end_frame": 2279,
+  "frames": [
+    2250,
+    2254,
+    2258,
+    2262,
+    2266,
+    2270,
+    2274,
+    2279
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win06.json",
+  "title": "Clear noon, moderate-speed city driving with police car in pursuit.",
+  "caption": "Police car in pursuit of a car on a city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The scene shows a city street with palm trees and tall buildings. The ego vehicle is a police car driving behind a black car. There are other cars on the road, including a parked truck and a taxi. The traffic light is red, and there is a crosswalk with a pedestrian nearby. The weather is clear, and the road is wet.",
+  "reasoning": "The police car is following the black car, possibly because it has committed a traffic violation. The police car is maintaining a safe distance and speed, ready to react if the black car accelerates or changes direction. The presence of other vehicles and pedestrians requires the police car to be cautious and vigilant to avoid any accidents or collisions."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 7,
+  "start_frame": 780,
+  "end_frame": 809,
+  "frames": [
+    780,
+    784,
+    788,
+    792,
+    796,
+    800,
+    804,
+    809
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win07.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "A white car drives down a city street with tall buildings on either side, passing a red truck and a parked white van.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. The traffic is moderate, with several cars and a red truck driving in the opposite direction. The weather is clear, and the sky is blue. There are several traffic lights and stop signs along the road, and the trees on the sidewalk are green.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the red truck in front of it. It slows down and brakes frequently, possibly due to the presence of pedestrians or other obstacles on the road. The parked white van on the side of the road may have obstructed the ego vehicle's lane, forcing it to change lanes. The ego vehicle maintains a safe distance from the other vehicles on the road and is prepared to stop or turn as needed."
+}

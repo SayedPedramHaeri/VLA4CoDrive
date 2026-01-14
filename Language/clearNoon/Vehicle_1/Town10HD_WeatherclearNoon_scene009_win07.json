@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 7,
+  "start_frame": 2580,
+  "end_frame": 2609,
+  "frames": [
+    2580,
+    2584,
+    2588,
+    2592,
+    2596,
+    2600,
+    2604,
+    2609
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win07.json",
+  "title": "Clear noon, moderate-speed city driving with 6 braking events.",
+  "caption": "A blue car drives down a busy city street with a person on a bike crossing the intersection.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 4.7 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving down a busy city street with a person on a bike crossing the intersection. There are tall buildings on both sides of the street and a red traffic light on the right side of the road. The road is wet and there are several other cars on the road, including a parked white truck on the left side of the road. The weather is clear and the sky is blue.",
+  "reasoning": "The blue car is driving down the city street at a moderate speed, following the flow of traffic. As the car approaches the intersection, a person on a bike crosses the road. The driver of the blue car slows down and stops to allow the cyclist to cross safely. The red traffic light on the right side of the road indicates that the blue car should have been prepared to stop. The wet road conditions may require the driver to be extra cautious to avoid any potential accidents. The tall buildings on both sides of the street suggest that this is a busy urban area with high traffic volume."
+}

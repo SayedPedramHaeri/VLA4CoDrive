@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 10,
+  "start_frame": 2070,
+  "end_frame": 2099,
+  "frames": [
+    2070,
+    2074,
+    2078,
+    2082,
+    2086,
+    2090,
+    2094,
+    2099
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win10.json",
+  "title": "Clear Noon, Moderate-Speed City Driving with 30 Braking Events",
+  "caption": "The ego vehicle is driving on a busy city street, with other cars and pedestrians around. It is almost stopped, with an average speed of 0.0 m/s.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a typical city street with multiple lanes and parked cars on the side. There are several other cars driving around, some of them changing lanes or turning. A few pedestrians can be seen walking on the sidewalk or crossing the street. The weather is clear, and the visibility is good. There are traffic lights and stop signs at various points along the road, and some of them are showing red or green lights.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the flow of traffic. It slows down and stops at red traffic lights or stop signs, and it changes lanes or turns when it is safe to do so. The driver is cautious and attentive, constantly scanning the surroundings for any potential risks or obstacles. The 30 braking events in this window could be due to the traffic situation or the need to stop at traffic lights or stop signs."
+}

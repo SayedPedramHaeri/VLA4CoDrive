@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 3,
+  "start_frame": 60,
+  "end_frame": 89,
+  "frames": [
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    89
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene001_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene001_win03.json",
+  "title": "Rainy city driving with moderate speed and frequent braking.",
+  "caption": "A white car drives down a rainy city street with tall buildings and a bus in the distance.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.2 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain and there are several other cars on the street. The traffic light is red and there is a pedestrian crossing the street. The weather is foggy and the visibility is low.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain control on the wet road. It slows down and brakes frequently to avoid potential risks and ensure safe driving. The presence of other vehicles and pedestrians on the street requires the ego vehicle to be cautious and attentive to its surroundings."
+}

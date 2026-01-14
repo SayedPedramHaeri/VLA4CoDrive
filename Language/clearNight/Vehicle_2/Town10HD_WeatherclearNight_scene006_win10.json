@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 10,
+  "start_frame": 1770,
+  "end_frame": 1799,
+  "frames": [
+    1770,
+    1774,
+    1778,
+    1782,
+    1786,
+    1790,
+    1794,
+    1799
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene006_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene006_win10.json",
+  "title": "Clear night, slow city driving with 20 braking events",
+  "caption": "A blue car drives slowly on a city street at night, with other cars and a roundabout.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 3.3 m/s). There are 20 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a city street at night. There are other cars on the road, including a white car and a parked blue car. The road is wet and there are several traffic lights and street lights illuminating the scene. The weather is clear and the sky is dark.",
+  "reasoning": "The blue car is driving slowly because it is approaching a roundabout. There are several other cars on the road, and the driver needs to be cautious and maintain a safe distance from them. The road is wet, which could make it more difficult to brake if needed. The driver is also paying attention to the traffic lights and street lights to ensure they follow the rules of the road and avoid any accidents."
+}

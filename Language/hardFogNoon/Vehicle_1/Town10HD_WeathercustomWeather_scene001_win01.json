@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 1,
+  "start_frame": 0,
+  "end_frame": 29,
+  "frames": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    29
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene001_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene001_win01.json",
+  "title": "Moderate-speed city driving on a foggy day with 3 braking events.",
+  "caption": "The ego vehicle drives straight on a foggy city street with moderate traffic and 3 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 5.7 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, 4-lane city street with a center divider. There are several parked cars on the side of the road, and a few moving cars in the distance. The traffic lights are green, and there is a pedestrian crossing the street. The weather is foggy, and visibility is moderate. The ego vehicle is driving at a moderate speed, and there are no immediate obstacles or risks.",
+  "reasoning": "The ego vehicle is driving straight on the foggy city street because the road is clear and there are no immediate obstacles or risks. The driver is maintaining a moderate speed and keeping a safe distance from other vehicles on the road. The 3 braking events could be due to other vehicles stopping suddenly or due to traffic congestion. The driver needs to be cautious and attentive to avoid any potential risks or accidents."
+}

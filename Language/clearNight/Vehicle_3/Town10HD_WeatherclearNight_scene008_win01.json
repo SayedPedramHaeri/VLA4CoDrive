@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 1,
+  "start_frame": 2100,
+  "end_frame": 2129,
+  "frames": [
+    2100,
+    2104,
+    2108,
+    2112,
+    2116,
+    2120,
+    2124,
+    2129
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene008_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene008_win01.json",
+  "title": "Nighttime city driving with a red sports car and a bus on the road.",
+  "caption": "A red sports car drives down a city street at night, with a bus and other cars on the road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red sports car is driving down a city street at night, with a bus and other cars on the road. The street is well-lit with streetlights and neon signs from nearby businesses. The weather is clear and the visibility is good. There are several parked cars on the side of the road, and a few pedestrians walking on the sidewalk.",
+  "reasoning": "The red sports car is driving down the city street at night, following the speed limit and the traffic rules. The driver is being cautious and attentive, scanning the road for any potential hazards or obstacles. The bus and other cars on the road are maintaining a safe distance from the sports car, and the driver is keeping an eye on their movements. The driver is also aware of the parked cars and pedestrians on the side of the road, and is prepared to react to any sudden movements or unexpected events."
+}

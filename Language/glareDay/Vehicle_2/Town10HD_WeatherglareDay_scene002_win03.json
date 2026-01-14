@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene002_win03.json",
+  "title": "Clear noon, moderate-speed city driving with 7 braking events.",
+  "caption": "The ego vehicle drives slowly on a foggy city street with tall buildings and a glare from the sun.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with tall buildings on both sides. There are several other cars on the road, some of them are parked on the side of the road. The traffic light is green, and there is a pedestrian crossing the street. The weather is foggy, and the sun is creating a glare on the road.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy weather conditions. It is also braking frequently because of the presence of other vehicles on the road. The driver needs to be cautious and maintain a safe distance from the vehicles ahead to avoid any accidents. The pedestrian crossing the street is another potential hazard that the driver needs to be aware of and react accordingly."
+}

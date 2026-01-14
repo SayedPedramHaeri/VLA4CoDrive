@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 5,
+  "start_frame": 420,
+  "end_frame": 449,
+  "frames": [
+    420,
+    424,
+    428,
+    432,
+    436,
+    440,
+    444,
+    449
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene002_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene002_win05.json",
+  "title": "Clear night, slow city driving with multiple braking events.",
+  "caption": "A red car drives through an intersection at night.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 4.4 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The video shows a red car driving through an intersection at night. The road is wet and there are multiple traffic lights and signs. The traffic is light and the vehicles are moving slowly. The video also shows a tall building in the background.",
+  "reasoning": "The ego vehicle is driving slowly through the intersection because there are multiple traffic lights and signs that require it to stop or slow down. The red car is following the traffic rules and is careful not to hit any pedestrians or other vehicles. The tall building in the background adds to the urban atmosphere of the scene."
+}

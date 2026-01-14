@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 1,
+  "start_frame": 1800,
+  "end_frame": 1829,
+  "frames": [
+    1800,
+    1804,
+    1808,
+    1812,
+    1816,
+    1820,
+    1824,
+    1829
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene007_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene007_win01.json",
+  "title": "Clear day in a city with moderate traffic, the ego vehicle is driving slowly and changing lanes.",
+  "caption": "The ego vehicle is driving slowly in a city with moderate traffic, changing lanes and following a blue car.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 1.0 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with 4 lanes and a median strip in the middle. There are several other cars on the road, including a blue car that the ego vehicle is following. The weather is clear and sunny, with no visible obstacles or pedestrians. There are several traffic lights and street signs along the road, and the ego vehicle is obeying all traffic rules.",
+  "reasoning": "The ego vehicle is driving slowly and changing lanes to avoid getting stuck behind the blue car. It is also maintaining a safe distance from other vehicles on the road. The driver is being cautious and attentive to the traffic situation, and is prepared to brake or change lanes if necessary. The clear weather conditions allow for good visibility and easy navigation of the city streets."
+}

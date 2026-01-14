@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win02.json",
+  "title": "Foggy city street with pedestrian crossing",
+  "caption": "A foggy city street with a pedestrian crossing and the ego vehicle slowing down.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with a pedestrian crossing. The ego vehicle is moving slowly and there are 12 braking events or strong decelerations in this window. The road is wet and visibility is low due to the fog. There are other cars on the road, some of them are parked on the side of the road. The pedestrian is crossing the street and the ego vehicle is slowing down to give way.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy weather conditions, which reduce visibility and make it harder to see other vehicles and pedestrians. The braking events or strong decelerations indicate that the ego vehicle is reacting to the presence of other vehicles or pedestrians on the road. The ego vehicle is also slowing down to give way to the pedestrian crossing the street, which is a safety consideration. The presence of other cars parked on the side of the road suggests that the road is busy and there may be more vehicles and pedestrians coming up."
+}

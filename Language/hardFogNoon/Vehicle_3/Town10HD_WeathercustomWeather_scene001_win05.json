@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene001_win05.json",
+  "title": "Foggy city street with a slow-moving green van and a boy on a bike crossing the intersection.",
+  "caption": "A boy on a bike crosses a foggy intersection with a slow-moving green van.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with a green van moving slowly. A boy on a bike is crossing the intersection. There are several other cars and a parked truck on the side of the road. The traffic light is red, and there is a crosswalk in the middle of the intersection.",
+  "reasoning": "The ego vehicle is moving slowly because of the foggy weather conditions, which reduce visibility and require cautious driving. The boy on the bike is crossing the intersection, and the green van is following the traffic rules by stopping at the red light. The parked truck on the side of the road is not obstructing traffic, and the other cars are maintaining a safe distance from each other. The foggy weather conditions require all drivers to be extra cautious and attentive to avoid any accidents."
+}

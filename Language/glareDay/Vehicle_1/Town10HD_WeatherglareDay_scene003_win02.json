@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 2,
+  "start_frame": 630,
+  "end_frame": 659,
+  "frames": [
+    630,
+    634,
+    638,
+    642,
+    646,
+    650,
+    654,
+    659
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene003_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene003_win02.json",
+  "title": "Moderate-speed city driving on a clear day with 5 braking events.",
+  "caption": "The ego vehicle drives straight on a city street with moderate traffic and 5 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 5.1 m/s). There are 5 braking events or strong decelerations in this window.",
+  "description": "The road is a 4-lane city street with a center divider and a speed limit of 40 km/h. The traffic is moderate with several cars driving in the same direction. The weather is clear and sunny with no visible obstacles. There are several traffic lights and stop signs along the road, and the pedestrian crossings are clearly marked.",
+  "reasoning": "The ego vehicle maintains a moderate speed and follows the traffic rules by stopping at the red traffic lights and stop signs. It changes lanes carefully to avoid any potential collisions with other vehicles. The driver is cautious and keeps a safe distance from other cars on the road. The braking events are likely due to the need to slow down or stop for traffic signals or pedestrian crossings."
+}

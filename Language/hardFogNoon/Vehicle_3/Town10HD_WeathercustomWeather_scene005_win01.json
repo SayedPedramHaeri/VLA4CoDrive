@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 1,
+  "start_frame": 1200,
+  "end_frame": 1229,
+  "frames": [
+    1200,
+    1204,
+    1208,
+    1212,
+    1216,
+    1220,
+    1224,
+    1229
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene005_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene005_win01.json",
+  "title": "Moderate-speed city driving on a clear day with 14 braking events.",
+  "caption": "The ego vehicle is driving straight on a foggy city street, with a red car in the distance and a green car on the left.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 7.3 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The road is wet and there are no pedestrians or obstacles visible. The traffic light is red and the stop sign is not visible. The weather is clear and there are no other cars on the road.",
+  "reasoning": "The ego vehicle is maintaining a moderate speed and keeping a safe distance from the red car in the distance. It is also prepared to stop or change lanes if necessary. The green car on the left is not a threat and the foggy conditions do not seem to affect visibility."
+}

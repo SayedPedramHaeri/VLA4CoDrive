@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 10,
+  "start_frame": 270,
+  "end_frame": 299,
+  "frames": [
+    270,
+    274,
+    278,
+    282,
+    286,
+    290,
+    294,
+    299
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win10.json",
+  "title": "Night city driving with multiple braking events.",
+  "caption": "A red truck drives down a city street at night with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a red truck driving down a city street at night. The road is wet and there are multiple braking events. The truck is driving in the right lane and there are other cars on the road. The traffic lights are visible in the background and they are all green.",
+  "reasoning": "The ego vehicle is driving at a very low speed because of the multiple braking events. The driver is being cautious and maintaining a safe distance from the other cars on the road. The wet road conditions may be due to recent rain, which could also explain the need for frequent braking. The driver is paying close attention to the traffic lights and following the rules of the road to ensure safe navigation through the city."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 9,
+  "start_frame": 2040,
+  "end_frame": 2069,
+  "frames": [
+    2040,
+    2044,
+    2048,
+    2052,
+    2056,
+    2060,
+    2064,
+    2069
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene007_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene007_win09.json",
+  "title": "Night city driving with almost stopped ego vehicle.",
+  "caption": "Red car driving on a city street at night with other cars and pedestrians.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a city street at night. There are several other cars on the road, some of which are also stopped or moving slowly. There are also pedestrians walking on the sidewalks. The street is well-lit with streetlights and neon signs from nearby buildings.",
+  "reasoning": "The ego vehicle is driving slowly because it is approaching a stop sign. There are several other cars on the road, some of which are also stopped or moving slowly. The driver needs to be cautious and maintain a safe distance from the vehicles ahead. The pedestrians on the sidewalks also need to be watched out for to ensure their safety. The clear night visibility allows the driver to see the road clearly and react to any potential hazards."
+}

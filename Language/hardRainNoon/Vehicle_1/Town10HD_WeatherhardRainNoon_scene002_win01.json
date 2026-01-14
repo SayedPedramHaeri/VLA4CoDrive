@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 1,
+  "start_frame": 300,
+  "end_frame": 329,
+  "frames": [
+    300,
+    304,
+    308,
+    312,
+    316,
+    320,
+    324,
+    329
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene002_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene002_win01.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A white car drives slowly on a rainy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 0.7 m/s). There are 16 braking events or strong decelerations in this window.",
+  "description": "The white car is driving slowly on a rainy city street with multiple braking events. There are tall buildings on both sides of the street. The road is wet and slippery. Other cars are also driving slowly on the street. The traffic lights are visible in the distance.",
+  "reasoning": "The ego vehicle is driving slowly on a rainy city street with multiple braking events because of the hardRainNoon weather conditions. The driver needs to be cautious and maintain a safe distance from other vehicles to avoid potential accidents. The braking events could be due to the slippery road surface or other vehicles stopping suddenly. The driver needs to be attentive and prepared to react to any unexpected situations."
+}

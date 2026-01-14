@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 4,
+  "start_frame": 990,
+  "end_frame": 1019,
+  "frames": [
+    990,
+    994,
+    998,
+    1002,
+    1006,
+    1010,
+    1014,
+    1019
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene004_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene004_win04.json",
+  "title": "Foggy city street with almost stopped traffic and a parked truck",
+  "caption": "A white van drives slowly on a foggy city street with a parked truck on the side.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a foggy atmosphere. There are multiple traffic lights and a roundabout in the distance. The white van is driving slowly and carefully, following a small white car. There are no pedestrians or other vehicles nearby. The parked truck is on the right side of the road.",
+  "reasoning": "The white van is driving slowly because of the foggy conditions, which reduce visibility. The driver is being cautious and following the small white car ahead. The parked truck on the right side of the road does not pose any immediate danger, so the driver maintains a safe distance from it. The multiple traffic lights and roundabout in the distance suggest that the driver needs to be attentive to traffic rules and other road users."
+}

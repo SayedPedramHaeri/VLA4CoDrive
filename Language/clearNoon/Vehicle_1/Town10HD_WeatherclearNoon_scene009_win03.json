@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win03.json",
+  "title": "Clear noon, moderate-speed city driving with a focus on traffic lights and pedestrians.",
+  "caption": "A blue car drives through a city intersection, stopping for a red traffic light and yielding to pedestrians.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving on a busy city street with tall buildings on both sides. There are several other cars on the road, including a parked truck on the right side. The traffic light at the intersection is red, and the blue car stops at the crosswalk to let pedestrians pass. The weather is clear and sunny, with no visible obstacles or hazards.",
+  "reasoning": "The blue car is driving at a moderate speed and slows down as it approaches the intersection. It stops at the red traffic light and waits for it to turn green before proceeding. The car also stops at the crosswalk to give right of way to pedestrians, ensuring their safety. The driver of the blue car is being cautious and following traffic rules, which is important for safe driving in a busy city environment."
+}

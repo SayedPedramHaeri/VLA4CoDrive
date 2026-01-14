@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win05.json",
+  "title": "Rainy night in a city, the ego vehicle is driving slowly and cautiously.",
+  "caption": "A white van is parked on the side of the road, and a red car is driving on the wet road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The road is wet and slippery due to the rain. There are several cars and a truck on the road. The traffic lights are red, and there is a crosswalk in the distance.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously because of the rainy weather and the presence of other vehicles on the road. The driver is being extra careful to avoid any accidents or collisions. The parked white van and the red car are visible in the video, and they are both moving slowly due to the rain. The traffic lights are red, and the driver is preparing to stop at the crosswalk."
+}

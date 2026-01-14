@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 1,
+  "start_frame": 2100,
+  "end_frame": 2129,
+  "frames": [
+    2100,
+    2104,
+    2108,
+    2112,
+    2116,
+    2120,
+    2124,
+    2129
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win01.json",
+  "title": "Ego vehicle almost stopped on a foggy city street with palm trees and a red car in front.",
+  "caption": "The red car in front of the ego vehicle is driving slowly on a foggy city street with palm trees.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a red car driving slowly in front of the ego vehicle. There are also other cars and a parked truck on the side of the road. The weather is foggy and there are palm trees on the side of the road. The traffic light is red and there is a crosswalk nearby.",
+  "reasoning": "The ego vehicle is almost stopped because the red car in front of it is driving slowly. The foggy weather reduces visibility and the presence of other cars and a parked truck on the side of the road requires the ego vehicle to maintain a safe distance. The red traffic light and the crosswalk nearby suggest that the ego vehicle should stop or slow down to ensure safety. The palm trees on the side of the road add to the overall atmosphere of the scene."
+}

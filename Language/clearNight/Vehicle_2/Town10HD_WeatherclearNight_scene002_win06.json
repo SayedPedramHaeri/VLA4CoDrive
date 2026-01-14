@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 6,
+  "start_frame": 450,
+  "end_frame": 479,
+  "frames": [
+    450,
+    454,
+    458,
+    462,
+    466,
+    470,
+    474,
+    479
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene002_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene002_win06.json",
+  "title": "Clear night, moderate-speed city driving with a roundabout and a parked truck on the right.",
+  "caption": "The ego vehicle drives on a city street at moderate speed, passing a roundabout with a parked truck on the right.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.2 m/s). No significant braking is observed in this window.",
+  "description": "The road is a city street with two lanes in each direction. There are several other cars on the road, some of them are driving straight while others are turning left. The traffic lights are green, and there are no pedestrians or obstacles in the scene. The weather is clear, and the visibility is good.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is following the flow of traffic. It is approaching a roundabout, and the driver is preparing to turn right. There is a parked truck on the right side of the road, and the driver needs to be cautious of its presence. The traffic lights are green, and the driver needs to pay attention to the pedestrian crossings and other vehicles on the road to ensure safe driving."
+}

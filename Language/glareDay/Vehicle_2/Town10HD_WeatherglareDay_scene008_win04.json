@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 4,
+  "start_frame": 2190,
+  "end_frame": 2219,
+  "frames": [
+    2190,
+    2194,
+    2198,
+    2202,
+    2206,
+    2210,
+    2214,
+    2219
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene008_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene008_win04.json",
+  "title": "Clear day in the city, slow-speed driving with frequent braking.",
+  "caption": "A white and blue bus drives down a city street with a red car following it.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 3.4 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The video shows a white and blue bus driving down a city street with a red car following it. There are several other cars on the road, including a black car and a parked blue car. The road is wet and there are tall buildings on either side. The video was taken during the day and the weather is clear.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the frequent braking events. The red car following the bus may be trying to maintain a safe distance. The presence of tall buildings suggests that the road is in a busy urban area. The wet road could be due to recent rain, which would require the drivers to be extra cautious."
+}

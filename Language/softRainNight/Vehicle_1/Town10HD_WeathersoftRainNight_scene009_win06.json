@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 6,
+  "start_frame": 2550,
+  "end_frame": 2579,
+  "frames": [
+    2550,
+    2554,
+    2558,
+    2562,
+    2566,
+    2570,
+    2574,
+    2579
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene009_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene009_win06.json",
+  "title": "Rainy night city driving, almost stopped, pedestrian crossing",
+  "caption": "A car is driving slowly in a city at night, with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is almost stopped (average speed ≈ 0.3 m/s). There are 23 braking events or strong decelerations in this window.",
+  "description": "The video shows a car driving slowly on a rainy night in a city. The road is wet and visibility is low. There are several other cars on the road, some of them are parked on the side of the road. The traffic light is red and the pedestrian is crossing the street. The video captures the car's slow motion as it approaches the crosswalk.",
+  "reasoning": "The car is driving slowly because of the rainy and dark conditions, and because there is a pedestrian crossing the street. The car's braking events and decelerations indicate that it is trying to maintain a safe distance from the pedestrian and other vehicles on the road. The car's sensors detect the red traffic light and the pedestrian's movement, and the car's driver adjusts the speed and direction accordingly to ensure safe driving."
+}

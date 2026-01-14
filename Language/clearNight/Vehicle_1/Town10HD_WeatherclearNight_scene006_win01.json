@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 1,
+  "start_frame": 1500,
+  "end_frame": 1529,
+  "frames": [
+    1500,
+    1504,
+    1508,
+    1512,
+    1516,
+    1520,
+    1524,
+    1529
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene006_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene006_win01.json",
+  "title": "Clear night, moderate-speed city driving on a straight road with a bridge in the distance.",
+  "caption": "The ego vehicle is driving straight on a city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is straight and well-lit. There are no other vehicles or pedestrians visible. The bridge in the distance is illuminated by streetlights.",
+  "reasoning": "The ego vehicle is maintaining a moderate speed and keeping a safe distance from other vehicles. It is approaching an intersection with a traffic light, which is currently red. The driver is prepared to stop or turn left as needed."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 10,
+  "start_frame": 2670,
+  "end_frame": 2699,
+  "frames": [
+    2670,
+    2674,
+    2678,
+    2682,
+    2686,
+    2690,
+    2694,
+    2699
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene009_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene009_win10.json",
+  "title": "Rainy night city driving with multiple braking events.",
+  "caption": "A yellow taxi drives down a rainy city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a rainy city street at night. There are multiple other vehicles on the road, including a yellow taxi. The road is wet and visibility is reduced due to the rain. There are several traffic lights and parked cars along the street. The ego vehicle is following a car in front of it and braking frequently due to the rainy conditions.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the rainy weather conditions. The driver is being extra careful and braking frequently to avoid any potential accidents. The presence of the yellow taxi and other vehicles on the road requires the driver to maintain a safe distance and be aware of their surroundings. The rainy conditions make it even more important to drive defensively and anticipate any sudden movements or obstacles on the road."
+}

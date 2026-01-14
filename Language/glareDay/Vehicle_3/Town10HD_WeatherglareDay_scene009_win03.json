@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win03.json",
+  "title": "Clear day in the city, with the ego vehicle almost stopped at an intersection.",
+  "caption": "The ego vehicle is driving slowly in a busy city intersection.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a busy city intersection with multiple cars and pedestrians. The ego vehicle is driving slowly and carefully, stopping at a red light. There are tall buildings in the background, and the weather is clear. The road is wet, and there are several traffic lights and signs visible.",
+  "reasoning": "The ego vehicle is driving slowly in the intersection because it is obeying traffic rules and ensuring safety. It stops at the red light, waiting for the signal to change. The driver is cautious and aware of the surrounding vehicles and pedestrians, adjusting the speed and direction accordingly. The wet road surface may require additional braking and caution to avoid accidents."
+}

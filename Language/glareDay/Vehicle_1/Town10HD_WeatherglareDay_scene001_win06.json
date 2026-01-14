@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 6,
+  "start_frame": 150,
+  "end_frame": 179,
+  "frames": [
+    150,
+    154,
+    158,
+    162,
+    166,
+    170,
+    174,
+    179
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win06.json",
+  "title": "Clear day, moderate-speed city driving with a bus and a red sports car.",
+  "caption": "A white bus and a red sports car pass by on a clear day in the city.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving on a city street with moderate traffic. There is a white bus and a red sports car passing by. The road is straight and there are no obstacles or pedestrians nearby. The weather is clear and there is no fog or rain.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and following the traffic rules. It slows down when approaching the bus and the sports car. The driver is cautious and keeps a safe distance from other vehicles. The bus and the sports car pass by without any incidents. The driver is focused on the road and pays attention to the traffic signals and signs."
+}

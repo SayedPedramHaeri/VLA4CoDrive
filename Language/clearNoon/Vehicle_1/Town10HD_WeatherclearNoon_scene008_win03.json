@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 3,
+  "start_frame": 2160,
+  "end_frame": 2189,
+  "frames": [
+    2160,
+    2164,
+    2168,
+    2172,
+    2176,
+    2180,
+    2184,
+    2189
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win03.json",
+  "title": "Clear noon, moderate-speed city driving with multiple braking events.",
+  "caption": "A white car drives down a busy city street with tall buildings on either side, while a motorcycle drives in the opposite direction.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 2.8 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with two lanes. There are several cars and a motorcycle on the road. The traffic light is red for the ego vehicle. There are tall buildings on either side of the street. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving slowly and following the car in front of it. It slows down and brakes frequently due to the heavy traffic on the street. The motorcycle drives in the opposite direction, passing the ego vehicle. The tall buildings on either side of the street create a canyon-like effect, which may affect the visibility of the traffic lights and other vehicles. The ego vehicle needs to be cautious and maintain a safe distance from the vehicles around it to avoid any accidents."
+}

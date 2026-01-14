@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 10,
+  "start_frame": 2670,
+  "end_frame": 2699,
+  "frames": [
+    2670,
+    2674,
+    2678,
+    2682,
+    2686,
+    2690,
+    2694,
+    2699
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene009_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene009_win10.json",
+  "title": "Rainy night city driving with multiple braking events.",
+  "caption": "A police car drives down a rainy city street at moderate speed, with a red truck and a yellow taxi among other vehicles.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are tall buildings on both sides of the street. The traffic is moderate, with several cars and a bus driving in the same direction. The traffic lights are visible at some intersections, and there are pedestrians walking on the sidewalks. The weather is dark and rainy, with the headlights and taillights of the vehicles illuminating the road.",
+  "reasoning": "The police car is driving cautiously due to the rainy conditions and the presence of other vehicles on the road. It slows down or brakes frequently to avoid potential accidents or collisions. The red truck and the yellow taxi are among the vehicles that the police car passes by, and their presence adds to the complexity of the driving environment. The tall buildings on both sides of the street create a canyon-like effect, which can affect the visibility and the aerodynamics of the vehicles. Overall, the police car's driver needs to be attentive and adapt to the changing conditions of the road to ensure safe driving."
+}

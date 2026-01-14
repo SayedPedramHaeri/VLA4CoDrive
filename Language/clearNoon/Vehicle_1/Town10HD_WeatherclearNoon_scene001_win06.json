@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 6,
+  "start_frame": 150,
+  "end_frame": 179,
+  "frames": [
+    150,
+    154,
+    158,
+    162,
+    166,
+    170,
+    174,
+    179
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene001_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene001_win06.json",
+  "title": "Clear noon, moderate-speed city driving with a bus and a red car.",
+  "caption": "A white car drives on a city street with a bus and a red car.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The white car is driving on a city street with a bus and a red car. There are tall buildings on the side of the road and palm trees on the sidewalk. The road is wet and there is a crosswalk in the distance. The traffic light is green and the pedestrian crossing signal is lit up.",
+  "reasoning": "The white car is driving at a moderate speed and following the red car in front of it. The bus is on the opposite side of the road. The ego vehicle is approaching a crosswalk and slowing down because the traffic light is green. The pedestrian crossing signal is lit up, indicating that pedestrians may be crossing the street. The road is wet, possibly from recent rain, and the tall buildings and palm trees suggest that this is a city in a warm climate. The ego vehicle is programmed to obey traffic rules and maintain a safe distance from other vehicles. It is also equipped with sensors that detect pedestrians and obstacles, and it can slow down or stop if necessary to avoid collisions."
+}

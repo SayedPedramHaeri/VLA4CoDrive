@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 6,
+  "start_frame": 750,
+  "end_frame": 779,
+  "frames": [
+    750,
+    754,
+    758,
+    762,
+    766,
+    770,
+    774,
+    779
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win06.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "A white car drives down a city street with tall buildings on either side, and a red bus passes in the opposite direction.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. There are several other cars on the road, including a red bus that passes in the opposite direction. The weather is clear and sunny, and there are several traffic lights and stop signs visible along the road. The ego vehicle is a white car that is almost stopped, with an average speed of 0.0 m/s and 30 braking events or strong decelerations in this window.",
+  "reasoning": "The ego vehicle is driving down the city street at a moderate speed, and it slows down and stops frequently due to the presence of other vehicles and pedestrians. The frequent braking events suggest that the ego vehicle is being cautious and attentive to its surroundings, which is a safe driving behavior. The tall buildings on either side of the road create a canyon-like effect, which can make it difficult to see pedestrians or other vehicles that may be entering the road from side streets or driveways. Therefore, the ego vehicle needs to be extra vigilant and attentive to its surroundings to ensure safe driving."
+}

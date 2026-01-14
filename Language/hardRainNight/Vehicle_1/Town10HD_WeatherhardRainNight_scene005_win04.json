@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 4,
+  "start_frame": 1290,
+  "end_frame": 1319,
+  "frames": [
+    1290,
+    1294,
+    1298,
+    1302,
+    1306,
+    1310,
+    1314,
+    1319
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene005_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene005_win04.json",
+  "title": "Rainy night on a quiet city street with parked cars and a crosswalk.",
+  "caption": "The ego vehicle is driving slowly and stopping at the crosswalk.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 1.2 m/s). There are 23 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several parked cars on both sides of the street. The traffic light is red, and there is a pedestrian crossing the street. The weather is dark and rainy, with visibility slightly reduced.",
+  "reasoning": "The ego vehicle is driving cautiously due to the rain and the presence of pedestrians and parked cars. It slows down before reaching the crosswalk and stops to let the pedestrian cross safely. The vehicle then accelerates gently and continues driving down the rainy city street."
+}

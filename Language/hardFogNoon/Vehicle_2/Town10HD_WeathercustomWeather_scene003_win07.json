@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 7,
+  "start_frame": 780,
+  "end_frame": 809,
+  "frames": [
+    780,
+    784,
+    788,
+    792,
+    796,
+    800,
+    804,
+    809
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene003_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene003_win07.json",
+  "title": "Foggy city street with almost stopped traffic and pedestrians on sidewalks.",
+  "caption": "A purple car drives slowly on a foggy city street with other cars and pedestrians on sidewalks.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with a speed limit of 30 km/h. The traffic is moderate, with several cars driving in the same direction. The weather is foggy, and visibility is low. There are traffic lights at the intersection, and the pedestrians are walking on the sidewalks. The ego vehicle is a purple car that is almost stopped, with an average speed of 0.0 m/s.",
+  "reasoning": "The ego vehicle is driving slowly because of the low visibility caused by the fog. The driver is being cautious and following the other cars at a safe distance. The pedestrians on the sidewalks are also visible, and the driver is paying attention to them. The traffic lights at the intersection are red, and the driver is stopping because of the braking events or strong decelerations in the clip. The driver is being careful and maintaining a safe distance from the other cars to avoid any accidents."
+}

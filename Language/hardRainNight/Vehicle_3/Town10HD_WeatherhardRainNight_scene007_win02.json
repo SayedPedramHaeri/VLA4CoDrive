@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene007_win02.json",
+  "title": "Rainy night driving in a city with moderate traffic.",
+  "caption": "The ego vehicle is driving slowly on a rainy night in a city with moderate traffic.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and visibility is reduced. The ego vehicle is following a red car in front of it. There are several other cars on the road, and some of them are also slowing down due to the rain. The traffic lights are visible in the distance, and they are displaying green and yellow lights. There are also some pedestrians walking on the sidewalk, and they are using umbrellas to shield themselves from the rain.",
+  "reasoning": "The ego vehicle is driving slowly to maintain safety in the rainy conditions. It is keeping a safe distance from the red car in front of it, and it is also adjusting its speed according to the traffic flow. The ego vehicle is using its headlights and wipers to improve visibility, and it is constantly monitoring the traffic lights and pedestrians to avoid any accidents. The rainy weather and the presence of other vehicles and pedestrians require the ego vehicle to be extra cautious and attentive while driving."
+}

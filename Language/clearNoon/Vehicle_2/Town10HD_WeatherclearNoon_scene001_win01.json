@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 1,
+  "start_frame": 0,
+  "end_frame": 29,
+  "frames": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    29
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene001_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene001_win01.json",
+  "title": "Clear noon, slow city driving with frequent braking.",
+  "caption": "The blue car drives slowly through a city intersection, with a tall building in the background.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 2.0 m/s). There are 15 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly through a city intersection. There are several other cars on the road, including a parked truck on the right side of the road. The traffic light is green, and there is a tall building in the background. The road is wet, possibly from recent rain.",
+  "reasoning": "The blue car is driving slowly through the intersection because there are several other cars on the road, and the traffic light is green. The driver is being cautious and following the speed limit to ensure safety. The wet road could make it more difficult to brake, so the driver needs to be extra careful and maintain a safe distance from other vehicles. The tall building in the background suggests that this is a busy city area with high-rise buildings and heavy traffic."
+}

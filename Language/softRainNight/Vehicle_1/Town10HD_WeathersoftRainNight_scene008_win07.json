@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene008_win07.json",
+  "title": "Rainy night city driving with police car",
+  "caption": "Police car driving slowly in a busy city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The street is wet from the rain, and the traffic is moderate. The police car is driving slowly, following a black car. There are tall buildings on both sides of the street, and the traffic lights are green. The road is dark, and the headlights of the cars are on.",
+  "reasoning": "The police car is likely responding to an emergency or patrolling the area. The driver needs to be cautious due to the rain and the presence of other vehicles on the road. The driver should maintain a safe distance from the black car in front and be prepared to react to any sudden changes in traffic."
+}

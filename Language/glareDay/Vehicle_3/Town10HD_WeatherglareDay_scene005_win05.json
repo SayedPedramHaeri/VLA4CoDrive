@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 5,
+  "start_frame": 1320,
+  "end_frame": 1349,
+  "frames": [
+    1320,
+    1324,
+    1328,
+    1332,
+    1336,
+    1340,
+    1344,
+    1349
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene005_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene005_win05.json",
+  "title": "Clear day, slow city driving with frequent braking.",
+  "caption": "A red car drives slowly through a city intersection, with a parked truck and a stop sign.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 3.2 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly through a city intersection. There is a parked truck on the right side of the road and a stop sign on the left side. The road is wet and there are trees and buildings in the background. The weather is clear and there is no traffic.",
+  "reasoning": "The red car is driving slowly through the intersection because there is a stop sign on the left side of the road. The car is also braking frequently, possibly due to the wet road conditions. The parked truck on the right side of the road may be obstructing the view of oncoming traffic, which could be another reason for the car to drive cautiously."
+}

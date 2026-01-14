@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene008_win05.json",
+  "title": "Rainy night city driving with police car and black car on the road.",
+  "caption": "The ego vehicle is driving slowly on a rainy night in a city with tall buildings and palm trees. The road is wet and there are other cars on the road, including a police car and a black car.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain and the visibility is reduced. The ego vehicle is driving slowly and carefully. There are other cars on the road, including a police car and a black car. The tall buildings and palm trees are visible in the background. The traffic lights are visible at intersections.",
+  "reasoning": "The ego vehicle is driving slowly on a rainy night to ensure safety. The driver is cautious and aware of the reduced visibility. The presence of other cars on the road, including a police car and a black car, requires the driver to maintain a safe distance and be prepared for sudden braking or changes in direction. The tall buildings and palm trees suggest that the ego vehicle is in a city environment. The traffic lights are visible at intersections and the driver is following the traffic rules to ensure safe navigation through the city."
+}

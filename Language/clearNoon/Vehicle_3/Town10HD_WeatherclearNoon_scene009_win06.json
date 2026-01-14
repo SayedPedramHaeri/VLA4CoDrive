@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 6,
+  "start_frame": 2550,
+  "end_frame": 2579,
+  "frames": [
+    2550,
+    2554,
+    2558,
+    2562,
+    2566,
+    2570,
+    2574,
+    2579
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene009_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene009_win06.json",
+  "title": "Clear noon, moderate-speed city driving with a red sports car and a large bus.",
+  "caption": "A red sports car drives down a busy city street with a large bus and other cars.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a busy city street with tall buildings on both sides. The traffic is moderate, with a red sports car driving in the left lane and a large bus driving in the right lane. There are several other cars on the road, including a black SUV and a white van. The weather is clear and sunny, and the visibility is good. There are several traffic lights and stop signs along the road, and the pedestrians are walking on the sidewalks.",
+  "reasoning": "The ego vehicle, a red sports car, is driving down the left lane of the city street. It is almost stopped, with an average speed of 0.0 m/s. The vehicle is following the traffic rules and maintaining a safe distance from the other vehicles on the road. The large bus in the right lane is also following the traffic rules and maintaining a safe distance from the other vehicles. The ego vehicle is prepared to stop or slow down if necessary, and it is constantly monitoring the traffic situation ahead. The potential risks in this scenario include the possibility of sudden braking or merging traffic, and the ego vehicle is prepared to react accordingly to ensure the safety of all road users."
+}

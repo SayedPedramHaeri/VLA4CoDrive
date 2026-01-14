@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 3,
+  "start_frame": 1260,
+  "end_frame": 1289,
+  "frames": [
+    1260,
+    1264,
+    1268,
+    1272,
+    1276,
+    1280,
+    1284,
+    1289
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene005_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene005_win03.json",
+  "title": "Rainy night driving in a city street with multiple parked cars and a stop sign.",
+  "caption": "The ego vehicle is driving slowly and stopping at a stop sign.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 4.2 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are many parked cars on the side of the street. The traffic light is red, and there is a stop sign ahead. The weather is dark and rainy, with low visibility.",
+  "reasoning": "The ego vehicle is driving cautiously due to the rainy weather and the presence of parked cars on the side of the street. It slows down before reaching the stop sign and stops completely before proceeding. The driver is being extra careful due to the hard rain and the potential for reduced visibility."
+}

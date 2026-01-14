@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 7,
+  "start_frame": 1680,
+  "end_frame": 1709,
+  "frames": [
+    1680,
+    1684,
+    1688,
+    1692,
+    1696,
+    1700,
+    1704,
+    1709
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherhardRainNight_scene006_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherhardRainNight_scene006_win07.json",
+  "title": "Rainy night driving on a city street with moderate traffic.",
+  "caption": "The ego vehicle is driving slowly and cautiously on a rainy night, following a blue car.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 2.7 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The road is wet and slippery, with raindrops splashing on the windshield. The traffic lights are glowing red, and there are several parked cars on the side of the road. The visibility is reduced due to the rain and darkness, but the headlights and taillights of the other vehicles are visible.",
+  "reasoning": "The ego vehicle is driving slowly to maintain control on the slippery road surface. It is following the blue car at a safe distance, in case it suddenly brakes or changes direction. The driver is also paying attention to the traffic lights and other vehicles, to avoid any potential collisions or accidents."
+}

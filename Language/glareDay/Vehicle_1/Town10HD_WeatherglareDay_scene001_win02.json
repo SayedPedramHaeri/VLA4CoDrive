@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 2,
+  "start_frame": 30,
+  "end_frame": 59,
+  "frames": [
+    30,
+    34,
+    38,
+    42,
+    46,
+    50,
+    54,
+    59
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win02.json",
+  "title": "clear, moderate-speed driving",
+  "caption": "{ \"title\": \"Moderate-speed city driving on a clear day with two braking events.\", \"caption\": \"The ego vehicle drives down a city street with moderate traffic and two braking events.\", \"description\": \"The ego vehicle is driving down a four-lane city street with moderate traffic. There are two braking events in this window, one of which is quite strong. The road is wet from recent rain, and there are tall buildings on both sides of the street. The weather is clear, and the sun is shining brightly in the sky.\", \"reasoning\": \"The ego vehicle is driving at a moderate speed because it is in a city environment with moderate traffic. The two braking events are likely due to other vehicles stopping or slowing down ahead. The ego vehicle is maintaining a safe distance from the vehicles in front of it, and it is prepared to stop or slow down if necessary. The wet road surface may require the ego vehicle to be extra cautious and maintain a longer braking distance. The tall buildings on both sides of the street suggest that the ego vehicle is driving in a downtown or central business district area.\"",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). There are 2 braking events or strong decelerations in this window.",
+  "description": "",
+  "reasoning": ""
+}

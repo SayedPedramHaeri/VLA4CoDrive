@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 7,
+  "start_frame": 1680,
+  "end_frame": 1709,
+  "frames": [
+    1680,
+    1684,
+    1688,
+    1692,
+    1696,
+    1700,
+    1704,
+    1709
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win07.json",
+  "title": "Clear noon, moderate-speed city driving with 10 braking events.",
+  "caption": "A blue car drives down a city street with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.7 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving down a city street with a pedestrian crossing the street. There are several other cars on the road, including a parked truck on the right side of the road. The road is curved and there is a traffic light on the left side of the road. The weather is clear and sunny.",
+  "reasoning": "The blue car is driving at a moderate speed and slows down as it approaches the pedestrian crossing the street. The car then brakes several times, possibly due to traffic or traffic lights. The driver of the blue car is being cautious and following traffic rules to ensure safety."
+}

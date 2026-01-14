@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 8,
+  "start_frame": 210,
+  "end_frame": 239,
+  "frames": [
+    210,
+    214,
+    218,
+    222,
+    226,
+    230,
+    234,
+    239
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win08.json",
+  "title": "Night city driving with almost stopped ego vehicle.",
+  "caption": "A white bus drives down a city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet and there are several other vehicles on the street. The traffic light is red and there is a parked truck on the side of the road. The weather is clear and there are palm trees lining the street.",
+  "reasoning": "The ego vehicle is almost stopped, possibly waiting for a traffic light to change. There are several other vehicles on the road, including a white bus that is driving down the street. The parked truck on the side of the road could be an obstacle that the ego vehicle needs to be aware of. The traffic light is currently red, which means the ego vehicle should remain stopped. Overall, the scene requires the ego vehicle to be cautious and attentive to its surroundings to ensure safe driving."
+}

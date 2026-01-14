@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 5,
+  "start_frame": 1920,
+  "end_frame": 1949,
+  "frames": [
+    1920,
+    1924,
+    1928,
+    1932,
+    1936,
+    1940,
+    1944,
+    1949
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene007_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene007_win05.json",
+  "title": "Moderate-speed city driving on a clear day with 9 braking events.",
+  "caption": "The ego vehicle drives straight on a foggy city street, passing a blue car and a parked truck.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 5.5 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street with a blue car to the right and a parked truck to the left. The weather is clear, and there are no pedestrians or traffic lights visible. The ego vehicle is driving at a moderate speed and brakes slightly at several points.",
+  "reasoning": "The ego vehicle maintains a safe distance from the blue car and the parked truck. It slows down and brakes when approaching intersections or other potential hazards. The driver is cautious and attentive, scanning the road ahead for any obstacles or changes in traffic patterns."
+}

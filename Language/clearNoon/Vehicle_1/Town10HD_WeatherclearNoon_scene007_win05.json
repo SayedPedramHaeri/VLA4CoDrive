@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 5,
+  "start_frame": 1920,
+  "end_frame": 1949,
+  "frames": [
+    1920,
+    1924,
+    1928,
+    1932,
+    1936,
+    1940,
+    1944,
+    1949
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win05.json",
+  "title": "Clear noon, moderate-speed city driving with 14 braking events.",
+  "caption": "A person rides a bike in a busy city street with lots of cars and pedestrians.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 5.0 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The video shows a busy city street with lots of cars and pedestrians. The person on the bike is riding slowly and carefully, following the traffic rules. The street is full of cars, and there are tall buildings on both sides of the road. The weather is clear, and the sky is blue. There are several traffic lights and stop signs along the street, and the person on the bike is careful to obey them.",
+  "reasoning": "The person on the bike is riding slowly and carefully, following the traffic rules. They are maintaining a safe distance from the cars around them and paying attention to the traffic lights and stop signs. The 14 braking events or strong decelerations in this window suggest that the traffic is quite busy, and the person on the bike needs to be extra cautious to avoid any accidents. Overall, the video shows a typical day in a busy city street, with lots of cars, pedestrians, and traffic signals to navigate."
+}

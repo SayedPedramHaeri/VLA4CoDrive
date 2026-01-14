@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene002_win03.json",
+  "title": "Rainy night city driving with moderate speed and 3 braking events.",
+  "caption": "A white bus drives through an intersection on a rainy night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.0 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The video shows a white bus driving through an intersection on a rainy night. The road is wet and visibility is reduced. There are several other vehicles on the road, including a black car and a white car. The traffic lights are green and the pedestrian crossing signal is lit up. The video also shows a tall building with many windows and a palm tree on the sidewalk.",
+  "reasoning": "The ego vehicle, a white bus, is driving through the intersection on a rainy night. The bus slows down and stops at the red light. It then proceeds to turn left when the light turns green. The bus maintains a safe distance from the other vehicles on the road, including the black car and the white car. The bus driver is cautious and drives at a moderate speed, taking into account the wet road conditions and the potential for reduced visibility. The bus driver also pays attention to the pedestrian crossing signal and the traffic lights to ensure safe navigation through the intersection."
+}

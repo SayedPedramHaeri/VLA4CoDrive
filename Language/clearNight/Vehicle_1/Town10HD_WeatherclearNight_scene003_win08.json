@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 8,
+  "start_frame": 810,
+  "end_frame": 839,
+  "frames": [
+    810,
+    814,
+    818,
+    822,
+    826,
+    830,
+    834,
+    839
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene003_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene003_win08.json",
+  "title": "Clear night city driving, almost stopped, braking events",
+  "caption": "A silver car drives slowly on a city street at night, with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The silver car is driving slowly on a city street at night. There are tall buildings on both sides of the street. The road is wet and there are several parked cars on the side of the road. There is a red bus and a black car driving in the opposite direction. The traffic light is green and there is a pedestrian crossing the street.",
+  "reasoning": "The silver car is driving slowly because it is almost stopped. The multiple braking events suggest that the car is navigating a busy city street with other vehicles and pedestrians. The driver needs to be cautious and attentive to avoid collisions. The wet road and the presence of parked cars and pedestrians add to the complexity of the driving situation."
+}

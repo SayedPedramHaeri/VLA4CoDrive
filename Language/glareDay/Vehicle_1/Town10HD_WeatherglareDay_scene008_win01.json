@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 1,
+  "start_frame": 2100,
+  "end_frame": 2129,
+  "frames": [
+    2100,
+    2104,
+    2108,
+    2112,
+    2116,
+    2120,
+    2124,
+    2129
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene008_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene008_win01.json",
+  "title": "Clear day in a city, with the ego vehicle almost stopped and 30 braking events in this window.",
+  "caption": "A city street with the ego vehicle almost stopped and 30 braking events in this window.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a city street with the ego vehicle almost stopped. There are several other cars on the road, including a parked truck on the right side of the road. The weather is clear, and there are tall buildings in the background. The road is wet, and there is a traffic light on the left side of the road.",
+  "reasoning": "The ego vehicle is almost stopped because it is approaching a stop sign. There are several other cars on the road, and the parked truck on the right side of the road may have obstructed the ego vehicle's lane. The weather is clear, and the road is wet, which may have contributed to the braking events in this window."
+}

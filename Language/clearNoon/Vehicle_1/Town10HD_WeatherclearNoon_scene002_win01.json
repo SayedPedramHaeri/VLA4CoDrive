@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 1,
+  "start_frame": 300,
+  "end_frame": 329,
+  "frames": [
+    300,
+    304,
+    308,
+    312,
+    316,
+    320,
+    324,
+    329
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene002_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene002_win01.json",
+  "title": "Clear noon, moderate-speed city driving with a focus on traffic lights and pedestrians.",
+  "caption": "A white car drives down a city street with a red car and a bus behind it.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 0.7 m/s). There are 16 braking events or strong decelerations in this window.",
+  "description": "The white car is driving down a city street with a red car and a bus behind it. There are several traffic lights and pedestrians on the sidewalk. The road is wet and there are tall buildings in the background.",
+  "reasoning": "The white car is driving down the city street and is about to pass a red car and a bus. It slows down as it approaches a traffic light and a pedestrian crossing. The driver is cautious and maintains a safe distance from the other vehicles on the road. The tall buildings in the background suggest that this is a busy urban area with heavy traffic."
+}

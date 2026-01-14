@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 9,
+  "start_frame": 2340,
+  "end_frame": 2369,
+  "frames": [
+    2340,
+    2344,
+    2348,
+    2352,
+    2356,
+    2360,
+    2364,
+    2369
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene008_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene008_win09.json",
+  "title": "Night city driving with multiple braking events.",
+  "caption": "A blue car drives slowly on a city street at night, with multiple braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a city street at night. There are many other cars on the road, and the traffic lights are red. The road is wet, and there are tall buildings on either side of the street. The video shows the blue car stopping at several red traffic lights.",
+  "reasoning": "The blue car is driving slowly because it is night and there are many other cars on the road. The driver is being cautious and following the traffic rules. The multiple braking events are likely due to the red traffic lights, which require the driver to stop. The wet road surface may also be a factor, as it can be slippery and require more careful driving. Overall, the driver is prioritizing safety and following the rules of the road."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 8,
+  "start_frame": 2010,
+  "end_frame": 2039,
+  "frames": [
+    2010,
+    2014,
+    2018,
+    2022,
+    2026,
+    2030,
+    2034,
+    2039
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene007_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene007_win08.json",
+  "title": "Foggy city street with almost stopped traffic and a motorcycle passing by.",
+  "caption": "A red car drives slowly on a foggy city street with other cars and a motorcycle.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with a foggy atmosphere. The traffic is light, with a red car driving slowly in the left lane and other cars in the right lane. A motorcycle passes by in the right lane. There are no pedestrians or traffic lights visible in the scene.",
+  "reasoning": "The red car maintains a slow speed because of the foggy conditions, which may reduce visibility and increase the risk of accidents. The motorcycle passing by in the right lane is an example of how other vehicles adapt their speed to the foggy conditions. The ego vehicle's braking events or strong decelerations may be due to the need to slow down or stop for other vehicles or obstacles that are not visible in the fog."
+}

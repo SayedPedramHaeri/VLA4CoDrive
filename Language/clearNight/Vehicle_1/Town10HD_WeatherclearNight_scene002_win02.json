@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 2,
+  "start_frame": 330,
+  "end_frame": 359,
+  "frames": [
+    330,
+    334,
+    338,
+    342,
+    346,
+    350,
+    354,
+    359
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene002_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene002_win02.json",
+  "title": "Clear night city driving with multiple braking events.",
+  "caption": "A red car drives down a city street at night with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 5 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a city street at night. There are several other cars on the road, including a red car that is driving in the same direction. The street is well-lit with streetlights and there are palm trees lining the sidewalk. The weather is clear and there are no visible pedestrians or obstacles on the road.",
+  "reasoning": "The ego vehicle is driving slowly down the city street at night because there are multiple braking events ahead. The red car in the same direction is maintaining a safe distance from the ego vehicle. The streetlights and palm trees suggest that this is a well-maintained urban area. The clear night weather conditions provide good visibility for driving. The absence of pedestrians or obstacles on the road reduces the risk of accidents."
+}

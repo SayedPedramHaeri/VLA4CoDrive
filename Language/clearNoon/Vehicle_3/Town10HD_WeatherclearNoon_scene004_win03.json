@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 3,
+  "start_frame": 960,
+  "end_frame": 989,
+  "frames": [
+    960,
+    964,
+    968,
+    972,
+    976,
+    980,
+    984,
+    989
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene004_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene004_win03.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "Red car driving on a city street with tall buildings and a parked truck on the side.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a city street with tall buildings on both sides. There is a parked truck on the side of the road. The road is wet and there is a crosswalk in the distance. The traffic light is green and there are no pedestrians visible.",
+  "reasoning": "The ego vehicle is driving at moderate speed and braking frequently, possibly due to the wet road conditions. The parked truck on the side of the road may have caused the ego vehicle to slow down. The crosswalk in the distance and the green traffic light suggest that the ego vehicle should continue driving straight ahead."
+}

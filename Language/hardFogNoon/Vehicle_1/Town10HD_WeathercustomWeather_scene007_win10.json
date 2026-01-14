@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 10,
+  "start_frame": 2070,
+  "end_frame": 2099,
+  "frames": [
+    2070,
+    2074,
+    2078,
+    2082,
+    2086,
+    2090,
+    2094,
+    2099
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win10.json",
+  "title": "Foggy city street with almost stopped traffic and pedestrians on the sidewalk.",
+  "caption": "A foggy city street with the ego vehicle almost stopped and pedestrians on the sidewalk.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with the ego vehicle almost stopped. There are several other cars on the road, some of which are also stopped. Pedestrians can be seen on the sidewalk. The road is wet, and there are traffic lights and street signs visible in the background.",
+  "reasoning": "The foggy weather and the stopped traffic suggest that the ego vehicle is driving cautiously to avoid any accidents. The pedestrians on the sidewalk indicate that this is a busy urban area with people going about their daily lives. The wet road and the presence of traffic lights and street signs suggest that the ego vehicle needs to be attentive to traffic rules and other road users."
+}

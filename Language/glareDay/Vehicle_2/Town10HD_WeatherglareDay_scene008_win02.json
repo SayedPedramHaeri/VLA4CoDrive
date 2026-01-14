@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 2,
+  "start_frame": 2130,
+  "end_frame": 2159,
+  "frames": [
+    2130,
+    2134,
+    2138,
+    2142,
+    2146,
+    2150,
+    2154,
+    2159
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene008_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene008_win02.json",
+  "title": "Clear day in a city with a small car driving in front of a bus.",
+  "caption": "A small car drives in front of a bus on a clear day in a city.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The small car is driving in front of a bus on a clear day in a city. The road is wet and there are other cars on the road. The traffic light is red and there is a parked truck on the side of the road.",
+  "reasoning": "The small car is driving in front of the bus because it is closer to the intersection. The driver of the small car is being cautious and slowing down because of the red traffic light and the parked truck on the side of the road. The driver is also being careful because of the wet road conditions. The bus is following the small car at a safe distance."
+}

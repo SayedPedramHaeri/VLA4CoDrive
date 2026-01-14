@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene002_win03.json",
+  "title": "Moderate-speed city driving at night with clear skies.",
+  "caption": "A white bus drives through an intersection in a city at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.0 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The road is wet and there are multiple traffic lights and street signs. The bus is driving through the intersection and there are other cars on the road. The video shows the city street at night with a white bus driving through an intersection.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and there are multiple traffic lights and street signs. The bus is driving through the intersection and there are other cars on the road. The video shows the city street at night with a white bus driving through an intersection. The ego vehicle is driving at a moderate speed and there are multiple traffic lights and street signs. The bus is driving through the intersection and there are other cars on the road. The video shows the city street at night with a white bus driving through an intersection."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 9,
+  "start_frame": 2340,
+  "end_frame": 2369,
+  "frames": [
+    2340,
+    2344,
+    2348,
+    2352,
+    2356,
+    2360,
+    2364,
+    2369
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene008_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene008_win09.json",
+  "title": "Night city driving, almost stopped at intersection",
+  "caption": "A car drives slowly through a city intersection at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a car driving slowly through a city intersection at night. The road is wet and there are several other cars and pedestrians around. The traffic lights are red and the car slows down to almost a stop before proceeding.",
+  "reasoning": "The car is driving slowly through the intersection because it is night and the traffic lights are red. The driver is being cautious and following the traffic rules to ensure safety. The car is also adjusting its speed based on the wet road conditions and the presence of other vehicles and pedestrians around. The driver is paying attention to the surroundings and making sure to maintain a safe distance from other cars and obstacles."
+}

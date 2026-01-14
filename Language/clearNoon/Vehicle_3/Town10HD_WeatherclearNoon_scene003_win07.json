@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 7,
+  "start_frame": 780,
+  "end_frame": 809,
+  "frames": [
+    780,
+    784,
+    788,
+    792,
+    796,
+    800,
+    804,
+    809
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene003_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene003_win07.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "Red car driving on a city street with tall buildings on the side of the road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 1.5 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a city street with tall buildings on the side of the road. There are several other cars on the road, some of which are parked on the side of the road. The road is wet and there are several traffic lights and stop signs visible. The weather is clear and the sky is blue.",
+  "reasoning": "The red car is driving slowly and cautiously due to the frequent braking events. The driver is likely anticipating potential risks and trying to maintain a safe distance from other vehicles on the road. The tall buildings on the side of the road suggest that the driver is in a downtown area of the city, where there is likely to be more traffic and pedestrians. The driver needs to be extra cautious and attentive to avoid any accidents or collisions."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene008_win05.json",
+  "title": "Clear night city driving with police car and taxi cab",
+  "caption": "Police car and taxi cab driving on a city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a city street at night. There are other cars on the road, including a police car and a taxi cab. The street is well-lit with streetlights and there are buildings and shops on either side of the road. The weather is clear and visibility is good.",
+  "reasoning": "The ego vehicle is driving slowly to maintain a safe distance from the police car and the taxi cab. The driver is being cautious and paying attention to the traffic signals and pedestrians on the road. The police car and the taxi cab are also following the traffic rules and maintaining a safe distance from each other and from other vehicles on the road. The driver of the ego vehicle is constantly monitoring the traffic situation and adjusting the speed and direction of the vehicle accordingly to ensure a safe and smooth journey."
+}

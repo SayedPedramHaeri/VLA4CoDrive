@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 10,
+  "start_frame": 870,
+  "end_frame": 899,
+  "frames": [
+    870,
+    874,
+    878,
+    882,
+    886,
+    890,
+    894,
+    899
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene003_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene003_win10.json",
+  "title": "Rainy night city driving, almost stopped, braking frequently",
+  "caption": "A white van drives down a rainy city street at night, with the ego vehicle almost stopped and braking frequently.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and visibility is low. The white van is driving down the street, and there are other cars parked on the side of the road. The traffic lights are visible in the distance, and there is a large building in the background. The rain is falling heavily, and the streets are slick.",
+  "reasoning": "The ego vehicle is driving cautiously due to the rainy and dark conditions. It brakes frequently to avoid potential hazards on the road. The white van is almost stopped, likely waiting for a traffic light to change or for traffic to clear. The large building in the background suggests that the ego vehicle is in a downtown area of the city."
+}

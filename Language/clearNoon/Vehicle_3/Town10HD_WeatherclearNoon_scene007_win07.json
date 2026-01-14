@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 7,
+  "start_frame": 1980,
+  "end_frame": 2009,
+  "frames": [
+    1980,
+    1984,
+    1988,
+    1992,
+    1996,
+    2000,
+    2004,
+    2009
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene007_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene007_win07.json",
+  "title": "Clear noon, moderate-speed city driving with 25 braking events.",
+  "caption": "Red car driving on a busy city street with tall buildings and palm trees.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 1.4 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a busy city street with tall buildings and palm trees. There are several other cars on the road, including a parked truck on the right side of the road. The traffic light is green, and the road is wet. The weather is clear and sunny.",
+  "reasoning": "The red car is driving slowly and cautiously, braking frequently to avoid collisions with other vehicles on the road. The driver is paying close attention to the traffic light and the pedestrians crossing the street. The parked truck on the right side of the road is blocking one lane, causing the driver to merge into the adjacent lane. The driver is also careful to maintain a safe distance from the cars in front of them, especially during the frequent braking events. Overall, the driver is prioritizing safety and following the traffic rules to ensure a smooth and accident-free journey."
+}

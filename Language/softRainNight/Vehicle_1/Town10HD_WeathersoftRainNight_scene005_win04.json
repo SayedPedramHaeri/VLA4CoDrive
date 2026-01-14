@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 4,
+  "start_frame": 1290,
+  "end_frame": 1319,
+  "frames": [
+    1290,
+    1294,
+    1298,
+    1302,
+    1306,
+    1310,
+    1314,
+    1319
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene005_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene005_win04.json",
+  "title": "Rainy night driving on a quiet city street with parked cars and a crosswalk.",
+  "caption": "The ego vehicle is driving slowly and carefully on a rainy night, approaching a crosswalk and a row of parked cars.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is moving slowly (average speed ≈ 1.2 m/s). There are 23 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and the visibility is reduced. The ego vehicle is moving slowly and carefully, following the lane markings. There are several parked cars on the side of the road, and a crosswalk is visible in the distance. The traffic lights are green, and there are no pedestrians or other vehicles in sight.",
+  "reasoning": "The ego vehicle is driving cautiously because of the rain and the potential for pedestrians or other vehicles to suddenly appear. The driver is paying close attention to the lane markings and the road ahead, preparing to slow down or stop if necessary. The parked cars and the crosswalk are potential hazards that the driver needs to be aware of and navigate safely around."
+}

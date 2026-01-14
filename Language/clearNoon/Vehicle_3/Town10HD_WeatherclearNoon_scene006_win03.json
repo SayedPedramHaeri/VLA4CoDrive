@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 3,
+  "start_frame": 1560,
+  "end_frame": 1589,
+  "frames": [
+    1560,
+    1564,
+    1568,
+    1572,
+    1576,
+    1580,
+    1584,
+    1589
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene006_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene006_win03.json",
+  "title": "Clear Noon, Moderate-Speed City Driving",
+  "caption": "The ego vehicle drives down a city street with moderate speed, passing a parked truck and a red car on the right.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). No significant braking is observed in this window.",
+  "description": "The road is a two-lane city street with parked cars on the right side. The traffic is light, with only a few cars driving in the opposite direction. The weather is clear and sunny, with good visibility. There are several traffic lights and street signs along the road, and the ego vehicle passes through a green light.",
+  "reasoning": "The ego vehicle maintains a moderate speed because there is no heavy traffic or obstacles ahead. It is also keeping a safe distance from the parked truck and the red car on the right. The driver is paying attention to the traffic lights and street signs to ensure safe navigation through the city streets."
+}

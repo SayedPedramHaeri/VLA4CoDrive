@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 6,
+  "start_frame": 1950,
+  "end_frame": 1979,
+  "frames": [
+    1950,
+    1954,
+    1958,
+    1962,
+    1966,
+    1970,
+    1974,
+    1979
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene007_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene007_win06.json",
+  "title": "Clear day in a city, with the ego vehicle almost stopped and 30 braking events in this window.",
+  "caption": "A car is driving slowly in a city street with tall buildings.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with tall buildings on both sides. There are several cars and a truck parked on the side of the road. The weather is clear, and the sky is blue. The ego vehicle is almost stopped, and there is a pedestrian crossing the street.",
+  "reasoning": "The ego vehicle is driving slowly because it is approaching a stop sign. There are several cars parked on the side of the road, and the pedestrian crossing the street is a potential safety concern. The driver must be cautious and maintain a safe distance from the pedestrian and other vehicles."
+}

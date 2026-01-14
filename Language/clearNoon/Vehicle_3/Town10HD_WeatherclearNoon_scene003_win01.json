@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 1,
+  "start_frame": 600,
+  "end_frame": 629,
+  "frames": [
+    600,
+    604,
+    608,
+    612,
+    616,
+    620,
+    624,
+    629
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene003_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene003_win01.json",
+  "title": "Clear noon, moderate-speed city driving with a red car in the distance.",
+  "caption": "A red car drives down a city street with other cars parked on the side.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.2 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with a speed limit of 30 mph. The traffic is moderate with a few cars driving in the opposite direction. The weather is clear and sunny. There are several traffic lights and street signs along the road.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and following the red car in the distance. It slows down when approaching a traffic light and stops when the light turns red. The ego vehicle changes lanes to overtake a parked truck and then changes back to the original lane. It maintains a safe distance from other vehicles on the road."
+}

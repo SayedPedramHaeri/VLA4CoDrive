@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 9,
+  "start_frame": 2040,
+  "end_frame": 2069,
+  "frames": [
+    2040,
+    2044,
+    2048,
+    2052,
+    2056,
+    2060,
+    2064,
+    2069
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene007_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene007_win09.json",
+  "title": "Rainy night city driving, almost stopped, braking frequently",
+  "caption": "A red car drives slowly on a rainy night in a city street, with other cars and pedestrians around.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and the visibility is moderate. The traffic is light, with a few cars driving at moderate speeds. There are several pedestrians walking on the sidewalk, and some parked cars on the side of the road. The traffic lights are visible in the distance, and they are showing green lights.",
+  "reasoning": "The ego vehicle is driving slowly and carefully because of the rainy and dark conditions. It brakes frequently to avoid potential risks and to maintain a safe distance from other vehicles. The driver is paying close attention to the traffic lights and the pedestrians, and is following the traffic rules and regulations."
+}

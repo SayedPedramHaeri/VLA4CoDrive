@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 4,
+  "start_frame": 1590,
+  "end_frame": 1619,
+  "frames": [
+    1590,
+    1594,
+    1598,
+    1602,
+    1606,
+    1610,
+    1614,
+    1619
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene006_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene006_win04.json",
+  "title": "Clear night, moderate-speed city driving with 9 braking events",
+  "caption": "A blue car drives down a city street at night, with 9 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.2 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving down a city street at night. There are several other cars on the road, including a parked truck on the right side of the street. The road is well-lit with streetlights and neon signs. The weather is clear and visibility is good.",
+  "reasoning": "The blue car is driving at a moderate speed, but there are several braking events or strong decelerations in this window. These could be due to other vehicles stopping suddenly or pedestrians crossing the street. The driver of the blue car must be cautious and attentive to avoid collisions or accidents."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 10,
+  "start_frame": 270,
+  "end_frame": 299,
+  "frames": [
+    270,
+    274,
+    278,
+    282,
+    286,
+    290,
+    294,
+    299
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene001_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene001_win10.json",
+  "title": "Foggy city street with moderate traffic, the ego vehicle is almost stopped.",
+  "caption": "The ego vehicle is driving slowly on a foggy city street with moderate traffic.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a center divider. There are several other cars on the road, some of them are moving slowly while others are stationary. The visibility is low due to the fog. There are no pedestrians or traffic lights in the scene.",
+  "reasoning": "The ego vehicle is driving slowly because of the low visibility caused by the fog. It is maintaining a safe distance from the other cars on the road. The frequent braking events suggest that the traffic is congested and the drivers are being cautious. The ego vehicle is not changing lanes or making any turns because of the limited visibility."
+}

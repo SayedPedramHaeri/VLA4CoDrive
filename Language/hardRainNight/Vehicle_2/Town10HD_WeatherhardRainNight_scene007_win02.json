@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherhardRainNight_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherhardRainNight_scene007_win02.json",
+  "title": "Rainy night driving on a wet city street with an ambulance and other cars.",
+  "caption": "The ego vehicle is driving slowly on a rainy night on a wet city street with an ambulance and other cars.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 3.7 m/s). There are 15 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and the visibility is low. The traffic is light, with a few cars driving ahead of the ego vehicle. There are several traffic lights along the road, and some of them are red. The ambulance is driving on the opposite side of the road, and there is a parked truck on the side of the road.",
+  "reasoning": "The ego vehicle is driving slowly to avoid hydroplaning on the wet road. The driver is paying close attention to the traffic lights and other vehicles on the road. The rain is making it difficult to see the road ahead, and the driver is being cautious to ensure safe driving. The presence of the ambulance and other cars on the road suggests that there may be an emergency situation or a traffic jam ahead."
+}

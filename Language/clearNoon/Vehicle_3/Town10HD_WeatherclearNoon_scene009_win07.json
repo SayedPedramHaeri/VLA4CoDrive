@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 7,
+  "start_frame": 2580,
+  "end_frame": 2609,
+  "frames": [
+    2580,
+    2584,
+    2588,
+    2592,
+    2596,
+    2600,
+    2604,
+    2609
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene009_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene009_win07.json",
+  "title": "Clear noon, slow city driving with 19 braking events.",
+  "caption": "A red car drives behind a bus on a city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 0.9 m/s). There are 19 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly behind a bus on a city street. There are tall buildings on the right side of the street. The road is wet and there are several parked cars on the side of the street. The traffic light is red and there is a crosswalk in the distance.",
+  "reasoning": "The ego vehicle is driving slowly behind the bus because the traffic light is red and there is a crosswalk in the distance. The red light indicates that the ego vehicle must stop. The wet road and parked cars on the side of the street suggest that it has recently rained, which could affect the driving conditions. The tall buildings on the right side of the street indicate that the ego vehicle is in a city environment. The ego vehicle's slow speed and frequent braking events suggest that it is being cautious and following traffic rules."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 10,
+  "start_frame": 2370,
+  "end_frame": 2399,
+  "frames": [
+    2370,
+    2374,
+    2378,
+    2382,
+    2386,
+    2390,
+    2394,
+    2399
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win10.json",
+  "title": "Foggy city driving with almost stopped ego vehicle.",
+  "caption": "A white bus drives in the fog on a city street with a red car in front of it.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with multiple lanes and parked cars on the side. There are several cars driving in the opposite direction, and a pedestrian can be seen crossing the street. The weather is foggy, and the visibility is low. The traffic lights are visible in the distance, and they are displaying a green light.",
+  "reasoning": "The ego vehicle is driving slowly in the fog, and it is almost stopped. The driver is being cautious due to the low visibility and the presence of other vehicles on the road. The driver is paying attention to the traffic lights and the pedestrian crossing the street. The braking events or strong decelerations in the driving metadata suggest that the driver is being extra cautious and is applying the brakes frequently to avoid any potential accidents."
+}

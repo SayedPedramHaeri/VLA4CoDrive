@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 8,
+  "start_frame": 210,
+  "end_frame": 239,
+  "frames": [
+    210,
+    214,
+    218,
+    222,
+    226,
+    230,
+    234,
+    239
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win08.json",
+  "title": "Rainy night driving in a city with tall buildings and palm trees. The ego vehicle is almost stopped, and there are 30 braking events or strong decelerations in this window.",
+  "caption": "A red car drives down a rainy city street at night.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and the visibility is low. There are several other cars on the road, and some of them are also braking. The traffic lights are visible in the distance, and they are showing red lights. There are also some pedestrians on the sidewalk, and they seem to be walking slowly. The tall buildings and palm trees on the side of the road create a beautiful scenery, but they also make the visibility worse.",
+  "reasoning": "The ego vehicle is driving slowly and carefully because of the rain and the low visibility. It is trying to maintain a safe distance from the other cars on the road and avoid any potential accidents. The braking events and strong decelerations in the driving metadata suggest that the traffic situation is quite challenging, and the ego vehicle is constantly adjusting its speed and direction to ensure safety. The tall buildings and palm trees on the side of the road create a beautiful scenery, but they also make the visibility worse, which adds to the overall difficulty of the driving task."
+}

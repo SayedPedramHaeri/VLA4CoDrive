@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 1,
+  "start_frame": 0,
+  "end_frame": 29,
+  "frames": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    29
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win01.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "Red car driving on a busy city street with tall buildings and a tall skyscraper in the distance.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.3 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with tall buildings on both sides. The traffic is moderate with several cars and a bus driving on the opposite side of the road. The weather is clear and sunny. There are multiple traffic lights and a few parked cars on the side of the road.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and frequently braking to avoid collisions with other vehicles. The tall buildings and the tall skyscraper in the distance give an impression of a bustling city. The parked cars on the side of the road indicate that there might be some nearby parking area. The traffic lights and the bus suggest that this is a busy city street with a well-organized traffic system."
+}

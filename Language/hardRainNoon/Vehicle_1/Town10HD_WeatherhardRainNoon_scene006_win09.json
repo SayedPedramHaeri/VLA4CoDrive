@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 9,
+  "start_frame": 1740,
+  "end_frame": 1769,
+  "frames": [
+    1740,
+    1744,
+    1748,
+    1752,
+    1756,
+    1760,
+    1764,
+    1769
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene006_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene006_win09.json",
+  "title": "Rainy city street driving with multiple braking events.",
+  "caption": "A slow-moving vehicle on a rainy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The video shows a slow-moving vehicle on a rainy city street with multiple braking events. The road is wet and visibility is reduced due to the rain. There are other vehicles on the road, including a parked truck on the right side of the road. The traffic lights are visible in the distance and they are displaying green and yellow lights. The video captures the challenges of driving in rainy conditions and the importance of maintaining a safe distance from other vehicles.",
+  "reasoning": "The ego vehicle is moving slowly on the rainy city street to ensure safety. The multiple braking events indicate that the driver is being cautious and reacting to the changing traffic conditions. The parked truck on the right side of the road adds to the complexity of the driving situation, as the driver needs to be aware of potential merging traffic. The green and yellow lights in the distance suggest that the traffic flow is regulated and the driver needs to pay attention to the traffic signals to avoid accidents."
+}

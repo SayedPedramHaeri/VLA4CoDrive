@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 6,
+  "start_frame": 150,
+  "end_frame": 179,
+  "frames": [
+    150,
+    154,
+    158,
+    162,
+    166,
+    170,
+    174,
+    179
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win06.json",
+  "title": "Night city driving with almost stopped ego vehicle and multiple braking events.",
+  "caption": "A white car drives on a city street at night with a bus behind it.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a white car driving on a city street at night. The road is wet, and there are tall buildings on both sides of the street. The traffic is light, and the street is illuminated by streetlights and the headlights of the cars. The video starts with the white car driving straight, and then it stops and remains stationary for a few seconds. After that, the car starts moving again and continues driving down the street.",
+  "reasoning": "The ego vehicle is driving at a very low speed because it is almost stopped. This is likely due to the presence of a bus behind it, which may have signaled its intention to stop or turn. The ego vehicle is also likely to be following traffic rules and maintaining a safe distance from other vehicles on the road. The multiple braking events suggest that the traffic situation is dynamic and requires the driver to be attentive and responsive to changes in the environment."
+}

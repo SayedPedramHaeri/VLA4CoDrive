@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 9,
+  "start_frame": 2040,
+  "end_frame": 2069,
+  "frames": [
+    2040,
+    2044,
+    2048,
+    2052,
+    2056,
+    2060,
+    2064,
+    2069
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene007_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene007_win09.json",
+  "title": "Ego vehicle almost stopped on a foggy city street with palm trees and other cars.",
+  "caption": "A red car drives slowly on a foggy city street with palm trees and other cars.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly on a foggy city street with palm trees and other cars. The road is wet and there are several parked cars on the side of the road. The traffic light is red and there is a pedestrian crossing the street. The weather is foggy and the visibility is low.",
+  "reasoning": "The ego vehicle is almost stopped on the road because of the foggy weather conditions. The driver is being cautious and driving slowly to avoid any potential accidents. The red traffic light and the pedestrian crossing the street are also factors that the driver is taking into consideration while driving. The parked cars on the side of the road and the wet road surface are also contributing to the driver's cautious driving behavior."
+}

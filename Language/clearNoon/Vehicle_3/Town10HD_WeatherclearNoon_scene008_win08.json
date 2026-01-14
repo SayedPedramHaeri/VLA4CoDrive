@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 8,
+  "start_frame": 2310,
+  "end_frame": 2339,
+  "frames": [
+    2310,
+    2314,
+    2318,
+    2322,
+    2326,
+    2330,
+    2334,
+    2339
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene008_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene008_win08.json",
+  "title": "Clear noon, moderate-speed city driving with a red car in the distance and a parked truck on the side.",
+  "caption": "A red car drives down a city street with a bus and a motorcycle in the background.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on both sides. There are several cars and a bus driving down the street. A red car is seen in the distance. A parked truck is on the side of the road. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the red car in front of it. It slows down and brakes frequently due to the traffic situation on the street. The parked truck on the side of the road is not a concern for the ego vehicle as it is safely in its lane. The tall buildings on both sides of the street create a canyon-like effect, which may affect the visibility of traffic lights or pedestrians crossing the street."
+}

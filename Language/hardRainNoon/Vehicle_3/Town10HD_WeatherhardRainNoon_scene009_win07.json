@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 7,
+  "start_frame": 2580,
+  "end_frame": 2609,
+  "frames": [
+    2580,
+    2584,
+    2588,
+    2592,
+    2596,
+    2600,
+    2604,
+    2609
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene009_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene009_win07.json",
+  "title": "Rainy city driving with a red car and a bus on the road.",
+  "caption": "The ego vehicle is driving slowly in a rainy city street with a red car and a bus on the road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 0.9 m/s). There are 19 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are tall buildings on both sides of the street. The traffic is light, and the other vehicles are driving at a moderate speed. There are several traffic lights and street signs along the road, and the pedestrians are wearing raincoats. The weather is cloudy and gloomy, and the visibility is reduced due to the rain.",
+  "reasoning": "The ego vehicle is driving slowly to maintain safety in the rainy conditions. It is following the red car ahead of it and keeping a safe distance from the bus on the right side of the road. The ego vehicle is also prepared to brake or change lanes if necessary to avoid any potential risks. The rainy weather requires extra caution and attention to the road and other vehicles to ensure a safe driving experience."
+}

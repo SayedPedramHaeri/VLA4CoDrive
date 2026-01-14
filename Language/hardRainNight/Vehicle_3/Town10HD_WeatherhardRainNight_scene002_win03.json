@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene002_win03.json",
+  "title": "Rainy night driving in a city with tall buildings and palm trees. The ego vehicle is moving slowly and changing lanes.",
+  "caption": "The ego vehicle is driving slowly on a rainy night in a city with tall buildings and palm trees.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 3.5 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars on the road, some of which are also slowing down. The traffic lights are visible in the distance, and there is a large building with many windows on the right side of the road. The rain is falling heavily, and the visibility is reduced. The ego vehicle is changing lanes to move to the left lane.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy weather conditions, which can make the road slippery and reduce visibility. The driver is being cautious and changing lanes to move to the left lane, possibly to get out of the way of other vehicles or to make a turn. The presence of other cars on the road and the need to change lanes require the driver to pay close attention to the surrounding traffic and to adjust the speed and direction of the vehicle accordingly."
+}

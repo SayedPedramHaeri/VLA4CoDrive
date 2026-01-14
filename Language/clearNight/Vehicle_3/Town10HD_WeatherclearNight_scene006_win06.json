@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 6,
+  "start_frame": 1650,
+  "end_frame": 1679,
+  "frames": [
+    1650,
+    1654,
+    1658,
+    1662,
+    1666,
+    1670,
+    1674,
+    1679
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win06.json",
+  "title": "Moderate-speed night driving on a city street with a large bridge overhead.",
+  "caption": "The ego vehicle drives straight on a city street at moderate speed, passing under a large bridge.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). No significant braking is observed in this window.",
+  "description": "The road is a city street with two lanes going in each direction. There are several cars driving in the opposite direction, and a red car parked on the side of the road. The weather is clear and it is nighttime. There are several traffic lights along the road, and one of them is red.",
+  "reasoning": "The ego vehicle is driving straight at a moderate speed because it is following the flow of traffic. It is passing under a large bridge, which has several lanes going in each direction. The driver is paying attention to the traffic lights and other vehicles on the road to ensure safe driving. The red car parked on the side of the road is not a significant obstacle because it is far away from the ego vehicle's current position."
+}

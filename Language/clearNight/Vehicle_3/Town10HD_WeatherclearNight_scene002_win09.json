@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 9,
+  "start_frame": 540,
+  "end_frame": 569,
+  "frames": [
+    540,
+    544,
+    548,
+    552,
+    556,
+    560,
+    564,
+    569
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene002_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene002_win09.json",
+  "title": "Moderate-speed city driving at night with 12 braking events",
+  "caption": "The ego vehicle drives down a city street at night, with 12 braking events or strong decelerations.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.1 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving down a city street at night, with a moderate speed of 5.1 m/s. The road is well-lit with streetlights and neon signs from nearby businesses. There are several other cars on the road, some of which are also braking or slowing down. The weather is clear and there are no visible pedestrians or obstacles.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain a safe distance from other vehicles on the road. It slows down or brakes when approaching intersections or when other cars suddenly brake or change lanes. The driver is also cautious at night, when visibility is lower and there may be unexpected obstacles or pedestrians. The ego vehicle's sensors detect the braking events and respond accordingly to ensure safe driving."
+}

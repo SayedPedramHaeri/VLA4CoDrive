@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 1,
+  "start_frame": 300,
+  "end_frame": 329,
+  "frames": [
+    300,
+    304,
+    308,
+    312,
+    316,
+    320,
+    324,
+    329
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene002_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene002_win01.json",
+  "title": "Night city driving, almost stopped at a red light.",
+  "caption": "Red car driving on a city street at night, almost stopped at a red light.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a city street at night. There are other cars on the road, and a red truck is parked on the side of the road. The street is well-lit with streetlights, and there are tall buildings in the background. The weather is clear and the visibility is good.",
+  "reasoning": "The red car is driving slowly because it is almost stopped at a red traffic light. The driver is being cautious and following the traffic rules. The parked red truck on the side of the road may have obstructed the view of the traffic light, but the driver was able to stop in time. The driver is also being mindful of the other cars on the road and maintaining a safe distance from them."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 9,
+  "start_frame": 240,
+  "end_frame": 269,
+  "frames": [
+    240,
+    244,
+    248,
+    252,
+    256,
+    260,
+    264,
+    269
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene001_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene001_win09.json",
+  "title": "Foggy city driving with multiple braking events.",
+  "caption": "A red car drives slowly on a foggy city street, with multiple braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street. There are several other cars on the road, all driving slowly due to the fog. The traffic lights are visible in the distance, and there is a pedestrian crossing at the next intersection. The weather is foggy, and visibility is low.",
+  "reasoning": "The ego vehicle is driving slowly and carefully due to the fog and the presence of other vehicles on the road. It brakes frequently to avoid collisions and maintain a safe distance from the cars ahead. The pedestrian crossing at the next intersection is a potential risk, and the ego vehicle must remain vigilant to ensure safe passage."
+}

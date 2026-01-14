@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 8,
+  "start_frame": 1710,
+  "end_frame": 1739,
+  "frames": [
+    1710,
+    1714,
+    1718,
+    1722,
+    1726,
+    1730,
+    1734,
+    1739
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene006_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene006_win08.json",
+  "title": "Rainy night city driving with pedestrian crosswalk and traffic lights.",
+  "caption": "A slow-moving car on a rainy night in a city with pedestrian crosswalks and traffic lights.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The video shows a car driving slowly on a rainy night in a city. The road is wet and there are several pedestrian crosswalks and traffic lights along the way. The car slows down and stops at each traffic light, and there are several instances of braking or strong deceleration. The video captures the challenges of driving in rainy conditions, with reduced visibility and potential hazards.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously on a rainy night in a city. It slows down and stops at each traffic light to ensure safety. The presence of pedestrian crosswalks and the rainy weather require the driver to be extra vigilant and cautious. The multiple braking events or strong decelerations in the video indicate that the driver is taking safety precautions to avoid accidents in these challenging conditions."
+}

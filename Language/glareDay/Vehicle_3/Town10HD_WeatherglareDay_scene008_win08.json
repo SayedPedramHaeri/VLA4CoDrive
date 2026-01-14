@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 8,
+  "start_frame": 2310,
+  "end_frame": 2339,
+  "frames": [
+    2310,
+    2314,
+    2318,
+    2322,
+    2326,
+    2330,
+    2334,
+    2339
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene008_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene008_win08.json",
+  "title": "Clear day in a city with moderate traffic, the ego vehicle is almost stopped.",
+  "caption": "The ego vehicle is driving slowly in a busy city street with other cars and pedestrians.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a four-lane city street with parked cars on the side and a green traffic light. There are several cars and a motorcycle driving in the same direction as the ego vehicle. The weather is clear, and there is no fog or rain.",
+  "reasoning": "The ego vehicle is driving slowly because it is approaching a stop sign. There are several other cars and a motorcycle in the vicinity, and the driver needs to be cautious to avoid any collisions. The parked cars on the side of the road and the green traffic light suggest that the traffic is flowing smoothly. The driver needs to pay attention to the pedestrians crossing the street and maintain a safe distance from other vehicles."
+}

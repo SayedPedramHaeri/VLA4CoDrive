@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 5,
+  "start_frame": 1320,
+  "end_frame": 1349,
+  "frames": [
+    1320,
+    1324,
+    1328,
+    1332,
+    1336,
+    1340,
+    1344,
+    1349
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win05.json",
+  "title": "Clear Noon, Slow City Driving with 6 Braking Events",
+  "caption": "Ego vehicle driving slowly on a city street with 6 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 4.7 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a city street with 6 braking events. The road is straight and there are other cars parked on the side of the road. The weather is clear and there are trees and buildings in the background.",
+  "reasoning": "The ego vehicle is driving slowly to ensure safety and avoid any potential accidents. The 6 braking events could be due to pedestrians crossing the road or other vehicles merging into the lane. The ego vehicle is maintaining a safe distance from other vehicles and adjusting its speed accordingly."
+}

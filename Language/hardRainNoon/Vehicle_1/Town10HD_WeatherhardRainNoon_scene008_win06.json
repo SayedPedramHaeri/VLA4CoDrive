@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 6,
+  "start_frame": 2250,
+  "end_frame": 2279,
+  "frames": [
+    2250,
+    2254,
+    2258,
+    2262,
+    2266,
+    2270,
+    2274,
+    2279
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene008_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene008_win06.json",
+  "title": "Rainy city driving with police car",
+  "caption": "A police car drives down a rainy city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a rainy city street. There are several other cars on the road, including a police car that is following the ego vehicle. The road is wet and visibility is reduced due to the rain. There are tall buildings on either side of the street and a number of traffic lights and street signs.",
+  "reasoning": "The ego vehicle is driving slowly and carefully due to the rainy weather conditions. The police car is following the ego vehicle at a safe distance, possibly because the ego vehicle is being monitored or because of the poor visibility. The other cars on the road are also driving cautiously, and the ego vehicle is maintaining a safe distance from them to avoid any potential accidents. The tall buildings and street signs provide additional context for the driving environment, helping the ego vehicle to navigate safely through the city."
+}

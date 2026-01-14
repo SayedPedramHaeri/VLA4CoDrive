@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 10,
+  "start_frame": 1470,
+  "end_frame": 1499,
+  "frames": [
+    1470,
+    1474,
+    1478,
+    1482,
+    1486,
+    1490,
+    1494,
+    1499
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene005_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene005_win10.json",
+  "title": "Clear night, moderate-speed city driving on a straight road with parked cars and trees on both sides.",
+  "caption": "The ego vehicle is driving straight on a city street at moderate speed, with parked cars and trees on both sides.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). No significant braking is observed in this window.",
+  "description": "The road is straight and has two lanes. There are parked cars on the right side of the road, and trees line the sidewalk. The weather is clear, and the visibility is good. There are no traffic lights or pedestrians in the scene.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a residential area with parked cars on the side. The driver is being cautious and maintaining a safe distance from the parked cars and trees. There are no immediate risks or obstacles in the scene, so the driver can continue driving straight."
+}

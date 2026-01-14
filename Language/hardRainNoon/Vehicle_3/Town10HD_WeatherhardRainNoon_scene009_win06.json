@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 6,
+  "start_frame": 2550,
+  "end_frame": 2579,
+  "frames": [
+    2550,
+    2554,
+    2558,
+    2562,
+    2566,
+    2570,
+    2574,
+    2579
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene009_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene009_win06.json",
+  "title": "Rainy city driving with a red car and a bus on the road.",
+  "caption": "The ego vehicle is driving slowly in a busy city street with a red car and a bus on the road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars on the street. The traffic light is red, and there is a parked truck on the side of the road. The weather is rainy, and the visibility is moderate.",
+  "reasoning": "The ego vehicle is driving slowly to avoid any potential accidents due to the rainy weather. It is maintaining a safe distance from the red car in front of it and is prepared to stop or change lanes if necessary. The parked truck on the side of the road could pose a potential obstacle for other vehicles, and the red traffic light indicates that the ego vehicle should slow down and be prepared to stop."
+}

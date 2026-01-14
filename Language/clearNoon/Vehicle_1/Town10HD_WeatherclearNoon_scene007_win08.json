@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 8,
+  "start_frame": 2010,
+  "end_frame": 2039,
+  "frames": [
+    2010,
+    2014,
+    2018,
+    2022,
+    2026,
+    2030,
+    2034,
+    2039
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win08.json",
+  "title": "Clear noon, moderate-speed city driving with multiple braking events.",
+  "caption": "A blue car drives down a busy city street with tall buildings and palm trees on the side of the road.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with two lanes. There are several other cars on the road, including a red car and a white car. The traffic light is green, and there is a pedestrian crossing the street. The weather is clear and sunny, and the sky is blue.",
+  "reasoning": "The blue car is driving at a moderate speed, following the red car in front of it. It slows down and brakes frequently due to the busy traffic on the street. The driver needs to be cautious and attentive to avoid any collisions or accidents. The tall buildings and palm trees on the side of the road add to the urban atmosphere of the city."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene002_win03.json",
+  "title": "Rainy night driving in a city with moderate speed and 3 braking events.",
+  "caption": "A white bus drives through an intersection in the rain at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.0 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several cars and a bus on the street. The traffic lights are green, and the bus is driving through the intersection.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain safety in the rainy conditions. It slows down and brakes when approaching the intersection to follow traffic rules and avoid collisions with other vehicles. The presence of the bus and other cars on the street highlights the importance of staying alert and cautious while driving in adverse weather conditions."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win05.json",
+  "title": "Clear noon, slow city driving with multiple braking events.",
+  "caption": "A white van drives down a city street with tall buildings on either side. A person on a blue bike crosses the street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. There are several cars parked on the side of the road. The traffic light is red for the ego vehicle's lane. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving slowly and carefully due to the multiple braking events in the video. The person on the blue bike is crossing the street safely because the ego vehicle is giving them right of way. The parked cars on the side of the road may be causing some congestion on the street."
+}

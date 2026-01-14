@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 4,
+  "start_frame": 990,
+  "end_frame": 1019,
+  "frames": [
+    990,
+    994,
+    998,
+    1002,
+    1006,
+    1010,
+    1014,
+    1019
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene004_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene004_win04.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "A blue car drives down a city street with tall buildings on either side, and a white van drives behind it.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. The traffic is moderate, with a white van driving behind the blue car. There are several parked cars on the side of the road, and a few pedestrians walking on the sidewalk. The weather is clear and sunny, with no visible obstacles or hazards.",
+  "reasoning": "The blue car is driving at a moderate speed, and occasionally brakes to slow down or stop. The white van behind it follows at a safe distance, and occasionally brakes as well. The parked cars and pedestrians on the sidewalk do not seem to pose any immediate danger, but the frequent braking events suggest that the traffic is somewhat congested. The drivers need to be cautious and attentive to avoid any accidents or collisions."
+}

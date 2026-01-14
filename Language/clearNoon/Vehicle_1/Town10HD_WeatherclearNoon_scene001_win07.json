@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 7,
+  "start_frame": 180,
+  "end_frame": 209,
+  "frames": [
+    180,
+    184,
+    188,
+    192,
+    196,
+    200,
+    204,
+    209
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene001_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene001_win07.json",
+  "title": "Clear noon, moderate-speed city driving with a white bus in the background.",
+  "caption": "A white bus drives down a city street with a red car and a white car.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with a white bus driving down the middle lane. There are two cars, a red car and a white car, driving behind the bus. The weather is clear and the visibility is good. There are no pedestrians or obstacles in the scene.",
+  "reasoning": "The white bus is driving at a moderate speed, while the red and white cars are following closely behind. The bus is in the middle lane, and the cars are in the right lane. The bus is not changing lanes or braking suddenly, and the cars are maintaining a safe distance from the bus. The scene is relatively calm and uneventful."
+}

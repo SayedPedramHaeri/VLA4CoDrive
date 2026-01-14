@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 1,
+  "start_frame": 1200,
+  "end_frame": 1229,
+  "frames": [
+    1200,
+    1204,
+    1208,
+    1212,
+    1216,
+    1220,
+    1224,
+    1229
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win01.json",
+  "title": "Clear noon, moderate-speed city driving with a tall building in the background.",
+  "caption": "The ego vehicle drives down a city street with a tall building in the background.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 6.9 m/s). There are 1 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving down a city street with a tall building in the background. There are several other cars on the road, including a white car in the distance and a parked black car on the side of the road. The road is wet, possibly from recent rain. There are also several traffic lights and a roundabout in the area.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a city environment with other vehicles on the road. It is maintaining a safe distance from the white car in the distance and is approaching a roundabout. The driver is paying attention to the traffic lights and the pedestrians on the sidewalk. The tall building in the background adds to the urban atmosphere of the scene."
+}

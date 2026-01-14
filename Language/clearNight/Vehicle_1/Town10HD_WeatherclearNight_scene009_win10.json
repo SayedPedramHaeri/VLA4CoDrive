@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 10,
+  "start_frame": 2670,
+  "end_frame": 2699,
+  "frames": [
+    2670,
+    2674,
+    2678,
+    2682,
+    2686,
+    2690,
+    2694,
+    2699
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene009_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene009_win10.json",
+  "title": "Clear night city driving with multiple braking events.",
+  "caption": "A police car drives down a city street at night with multiple braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The police car is driving down a city street at night. There are multiple cars parked on the side of the road. The road is wet and there are traffic lights at the intersection. The police car slows down and stops at the red light.",
+  "reasoning": "The police car is driving down the city street at night. It slows down and stops at the red light because it is following traffic rules. The road is wet which could be due to recent rain. The police car is driving carefully to ensure safety on the road. It is also possible that the police car is responding to an emergency call and is slowing down to turn or stop."
+}

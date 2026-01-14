@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 3,
+  "start_frame": 60,
+  "end_frame": 89,
+  "frames": [
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    89
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene001_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene001_win03.json",
+  "title": "Clear noon, moderate-speed city driving with 8 braking events",
+  "caption": "A person on a bike rides through an intersection in a city with tall buildings.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.3 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The video shows a person riding a bike through an intersection in a city with tall buildings. The road is wet and there are several cars and trucks on the road. The traffic light is red and there is a parked truck on the side of the road. The weather is clear and the sky is blue.",
+  "reasoning": "The person on the bike is following the traffic rules and is careful while crossing the intersection. The ego vehicle is maintaining a safe distance from the bike and is prepared to stop if needed. The braking events could be due to other vehicles stopping suddenly or due to the road conditions. The parked truck on the side of the road could be an obstacle for other vehicles and the ego vehicle needs to be cautious while passing it."
+}

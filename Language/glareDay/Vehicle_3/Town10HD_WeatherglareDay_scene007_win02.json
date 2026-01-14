@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene007_win02.json",
+  "title": "Clear day in a city with moderate traffic, the ego vehicle is driving slowly and changing lanes.",
+  "caption": "The ego vehicle is driving slowly in a busy city street with moderate traffic.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The video shows a busy city street with moderate traffic. The ego vehicle is driving slowly and changing lanes. There are several other cars on the road, including a parked white van on the right side of the road. The traffic lights are green, and the road is wet. The weather is clear, and the sky is blue.",
+  "reasoning": "The ego vehicle is driving slowly in order to change lanes safely. It is also maintaining a safe distance from other vehicles on the road. The driver is being cautious due to the wet road conditions, which could lead to slippery surfaces. The parked white van on the right side of the road could also be a potential obstacle for the ego vehicle, so the driver needs to be extra careful when changing lanes."
+}

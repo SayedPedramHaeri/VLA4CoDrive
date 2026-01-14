@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 6,
+  "start_frame": 1650,
+  "end_frame": 1679,
+  "frames": [
+    1650,
+    1654,
+    1658,
+    1662,
+    1666,
+    1670,
+    1674,
+    1679
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene006_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene006_win06.json",
+  "title": "Clear noon, moderate-speed city driving with a focus on traffic lights and pedestrians.",
+  "caption": "The ego vehicle is driving straight on a city street, passing a red traffic light and a pedestrian crossing.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). No significant braking is observed in this window.",
+  "description": "The road is a two-lane city street with parked cars on the right side. There are multiple traffic lights and pedestrian crossings. The weather is clear and sunny, and the sky is blue. The ego vehicle is driving at a moderate speed, and there is no significant braking or steering in this window.",
+  "reasoning": "The ego vehicle is following the traffic rules and maintaining a safe distance from the pedestrian crossing. It slows down when approaching a red traffic light and then accelerates again after passing it. The driver is being cautious and paying attention to the surroundings, including the parked cars and other vehicles on the road."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene001_win04.json",
+  "title": "Clear day in the city, slow-motion driving with frequent braking.",
+  "caption": "A person is riding a bike across a crosswalk in a busy city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The video shows a person riding a bike across a crosswalk in a busy city street. The road is wet, and there are tall buildings on both sides of the street. The traffic is moderate, with several cars and a bus driving in the opposite direction. The video also shows a parked truck on the side of the road and a traffic light with a green light.",
+  "reasoning": "The person on the bike is following the traffic rules and crossing the street at a designated crosswalk. The slow-motion effect emphasizes the importance of paying attention to the surroundings while crossing the street. The frequent braking events in the driving metadata suggest that the other vehicles on the road are also following the traffic rules and maintaining a safe distance from each other."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 8,
+  "start_frame": 210,
+  "end_frame": 239,
+  "frames": [
+    210,
+    214,
+    218,
+    222,
+    226,
+    230,
+    234,
+    239
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene001_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene001_win08.json",
+  "title": "Clear noon, moderate-speed city driving with a blue car in the foreground.",
+  "caption": "A blue car drives down a city street with a bus in the background.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving down a city street with a bus in the background. There are tall buildings on either side of the street and palm trees lining the road. The road is wet and there are several other cars on the road, including a red car and a parked white truck. The traffic light is green and the pedestrian crossing is empty.",
+  "reasoning": "The blue car is driving at a moderate speed, following the red car in front of it. The driver is paying attention to the traffic light and the pedestrian crossing, making sure to obey traffic rules and maintain a safe distance from other vehicles. The parked white truck is blocking one lane, causing the blue car to move to the other lane. The driver is cautious and alert, anticipating any potential risks or obstacles on the road."
+}

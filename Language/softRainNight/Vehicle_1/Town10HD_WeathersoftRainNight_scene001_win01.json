@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 1,
+  "start_frame": 0,
+  "end_frame": 29,
+  "frames": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    29
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene001_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene001_win01.json",
+  "title": "Rainy night city driving with moderate speed and 3 braking events.",
+  "caption": "The ego vehicle drives on a rainy night in a city street with moderate speed and 3 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.7 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving on a rainy night in a city street with moderate speed. There are several other cars on the road, some of them are driving straight while others are turning left. A few pedestrians can be seen on the sidewalk. The road is wet and there are traffic lights and stop signs at some intersections. The visibility is moderate, but the rain can make it harder to see further ahead.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is navigating through the city street. The rainy weather conditions require the driver to be more cautious and attentive to avoid any accidents. The 3 braking events could be due to other vehicles stopping suddenly or the driver needing to slow down because of the rain. The ego vehicle is following the traffic rules and trying to maintain a safe distance from other vehicles on the road."
+}

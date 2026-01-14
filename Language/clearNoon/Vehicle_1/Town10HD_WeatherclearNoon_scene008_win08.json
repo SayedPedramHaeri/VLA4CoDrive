@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 8,
+  "start_frame": 2310,
+  "end_frame": 2339,
+  "frames": [
+    2310,
+    2314,
+    2318,
+    2322,
+    2326,
+    2330,
+    2334,
+    2339
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win08.json",
+  "title": "Clear Noon, Moderate-Speed City Driving with Bicycle Rider",
+  "caption": "A car drives down a busy city street with a bicycle rider and other cars on the road.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a busy city street with a car driving down the road. There are other cars on the road, including a yellow taxi cab and a parked truck. The street is lined with palm trees and tall buildings. The weather is clear and sunny. There are several traffic lights and a roundabout in the scene.",
+  "reasoning": "The ego vehicle is driving down the city street at a moderate speed. It slows down as it approaches the roundabout and then accelerates again. The bicycle rider is riding on the sidewalk, and the yellow taxi cab is driving in the opposite direction. The parked truck is blocking one lane of the road. The ego vehicle is careful to maintain a safe distance from the other vehicles on the road and to obey the traffic signals."
+}

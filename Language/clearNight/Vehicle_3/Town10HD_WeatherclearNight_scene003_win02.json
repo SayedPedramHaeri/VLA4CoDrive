@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 2,
+  "start_frame": 630,
+  "end_frame": 659,
+  "frames": [
+    630,
+    634,
+    638,
+    642,
+    646,
+    650,
+    654,
+    659
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene003_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene003_win02.json",
+  "title": "Clear night city driving with moderate speed, following a car, and passing a parked truck.",
+  "caption": "A red car drives down a city street at night, following a car and passing a parked truck.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 2.8 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with parked cars on the right side. There are several other cars on the road, some of them are driving slowly while others are stationary. The traffic lights are visible at the intersection, and they are showing green lights. The weather is clear, and the visibility is good.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and following a car in front of it. It slows down and changes lanes to pass a parked truck on the right side of the road. The driver is cautious and pays attention to the traffic lights and other vehicles on the road. The weather conditions and the visibility are good, which allows the driver to see clearly and make safe decisions."
+}

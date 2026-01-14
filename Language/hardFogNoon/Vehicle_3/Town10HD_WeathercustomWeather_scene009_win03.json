@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene009_win03.json",
+  "title": "Foggy city driving with almost stopped ego vehicle.",
+  "caption": "A white bus follows a red car on a foggy city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a white bus and a red car driving in the same direction. The bus is following the car closely. There are no pedestrians or other vehicles visible in the video. The weather is foggy, and the visibility is low. The road has no traffic lights or stop signs.",
+  "reasoning": "The ego vehicle is almost stopped, and the white bus is following the red car closely. This could be due to the low visibility in the foggy weather, and the bus driver is maintaining a safe distance from the car in front. The lack of other vehicles or pedestrians in the video suggests that the road is not very busy at this time. The bus driver needs to be cautious and attentive to avoid any potential risks or accidents in these conditions."
+}

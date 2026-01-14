@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 1,
+  "start_frame": 2400,
+  "end_frame": 2429,
+  "frames": [
+    2400,
+    2404,
+    2408,
+    2412,
+    2416,
+    2420,
+    2424,
+    2429
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene009_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene009_win01.json",
+  "title": "Foggy city street with almost stopped traffic and pedestrians at crosswalk",
+  "caption": "A foggy city street with the ego vehicle almost stopped and pedestrians crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with the ego vehicle almost stopped. There are several other cars on the road, some of which are also braking. A person on a motorcycle is visible in the distance. The road is wet, and there are traffic lights and street signs visible. The pedestrians are crossing the street at a crosswalk, and there is a bus stop nearby.",
+  "reasoning": "The ego vehicle is almost stopped because of the foggy conditions, which reduce visibility and make it difficult to judge the distance to other vehicles. The braking events suggest that other drivers are also reacting to the fog. The pedestrians at the crosswalk are visible because they are moving in a way that contrasts with the stopped or slow-moving vehicles. The bus stop nearby suggests that this is a busy area with public transportation. Overall, the video shows the challenges of driving in foggy conditions and the importance of being cautious and attentive to pedestrians and other vehicles."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 5,
+  "start_frame": 720,
+  "end_frame": 749,
+  "frames": [
+    720,
+    724,
+    728,
+    732,
+    736,
+    740,
+    744,
+    749
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene003_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene003_win05.json",
+  "title": "Moderate-speed city driving on a clear day with 6 braking events.",
+  "caption": "The ego vehicle drives straight on a city street with moderate traffic and 6 braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 7.5 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, 4-lane city street with a speed limit of 30 mph. The traffic is moderate, with several cars driving in the same direction as the ego vehicle. The weather is clear, with no visible rain or fog. There are several traffic lights and stop signs along the road, all of which are visible and in the green or red state. The ego vehicle is driving at a moderate speed, with occasional braking and deceleration.",
+  "reasoning": "The ego vehicle is driving straight on the road, maintaining a safe distance from other vehicles. It slows down or brakes when approaching a traffic light or stop sign, and then accelerates again when it is safe to do so. The driver of the ego vehicle is paying close attention to the road and the traffic around it, and is following all traffic rules and regulations. The 6 braking events in this window could be due to various reasons, such as a car suddenly stopping in front of the ego vehicle, or the ego vehicle approaching a traffic light or stop sign that is about to change to red. Overall, the ego vehicle is driving safely and responsibly, and is following all necessary safety precautions."
+}

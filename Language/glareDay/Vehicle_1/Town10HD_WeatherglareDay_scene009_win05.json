@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 5,
+  "start_frame": 2520,
+  "end_frame": 2549,
+  "frames": [
+    2520,
+    2524,
+    2528,
+    2532,
+    2536,
+    2540,
+    2544,
+    2549
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win05.json",
+  "title": "Clear day in a busy city, with the ego vehicle almost stopped at an intersection.",
+  "caption": "A busy city street with the ego vehicle almost stopped at an intersection.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a busy city street with the ego vehicle almost stopped at an intersection. There are several other cars on the road, some of them are moving while others are parked. There are also pedestrians walking on the sidewalk and crossing the street. The weather is clear and sunny, with no visible obstacles or hazards.",
+  "reasoning": "The ego vehicle is almost stopped at the intersection, likely waiting for the traffic light to change. The presence of other cars and pedestrians on the road suggests that the traffic is heavy, and the driver needs to be cautious and attentive to avoid any accidents. The clear weather conditions make it easier to see the surroundings, but the glare from the sun can also be a distraction. Overall, the video highlights the importance of safe driving practices in a busy city environment."
+}

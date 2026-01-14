@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 6,
+  "start_frame": 2550,
+  "end_frame": 2579,
+  "frames": [
+    2550,
+    2554,
+    2558,
+    2562,
+    2566,
+    2570,
+    2574,
+    2579
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win06.json",
+  "title": "Clear noon, moderate-speed city driving with a blue car in the foreground.",
+  "caption": "A blue car drives down a city street with tall buildings on either side.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.3 m/s). There are 23 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with a blue car driving in the foreground. There are several other cars on the road, including a parked truck on the right side of the road. The traffic light is red, and there is a pedestrian crossing the street. The weather is clear, and the sky is blue.",
+  "reasoning": "The blue car is driving at a moderate speed, following the flow of traffic. It slows down as it approaches the red traffic light, and then accelerates again after the light turns green. The parked truck on the right side of the road creates a potential obstacle for the blue car, as it may need to change lanes to pass it. The pedestrian crossing the street is another potential hazard that the blue car needs to be aware of to ensure safe driving."
+}

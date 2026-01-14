@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 3,
+  "start_frame": 1860,
+  "end_frame": 1889,
+  "frames": [
+    1860,
+    1864,
+    1868,
+    1872,
+    1876,
+    1880,
+    1884,
+    1889
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene007_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene007_win03.json",
+  "title": "Clear day in a city with moderate traffic and a few pedestrians.",
+  "caption": "A slow-moving car on a city street with pedestrians and other cars.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 4.1 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The video shows a city street with moderate traffic and a few pedestrians. The weather is clear, and the ego vehicle is moving slowly. There are several other cars on the road, including a parked truck on the right side of the road. The traffic light is visible in the distance, and the road is wet. The video shows the ego vehicle braking several times, and there is a pedestrian crossing the street.",
+  "reasoning": "The ego vehicle is driving slowly in a city street with moderate traffic and a few pedestrians. The driver is being cautious and braking frequently to avoid collisions with other vehicles or pedestrians. The driver is also paying attention to the traffic light and adjusting their speed accordingly. The wet road surface may be due to recent rain, and the driver is being extra cautious to ensure safe driving conditions."
+}

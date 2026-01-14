@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 5,
+  "start_frame": 1620,
+  "end_frame": 1649,
+  "frames": [
+    1620,
+    1624,
+    1628,
+    1632,
+    1636,
+    1640,
+    1644,
+    1649
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win05.json",
+  "title": "Clear noon, moderate-speed city driving with a blue car in the right lane.",
+  "caption": "A person is skateboarding across a city street while a blue car drives in the right lane.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with multiple lanes in each direction. There are several other cars on the road, including a parked truck on the left side of the road. The weather is clear and sunny, and there are palm trees lining the street. The traffic light is green, and there is a crosswalk in the distance.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and is about to change lanes to pass the blue car. The skateboarder is crossing the street at a crosswalk, and the parked truck is blocking the left lane. The green traffic light indicates that it is safe to proceed, and the skateboarder is visible in the camera's view. The ego vehicle is programmed to prioritize safety and avoid any potential risks, such as collisions with other vehicles or pedestrians."
+}

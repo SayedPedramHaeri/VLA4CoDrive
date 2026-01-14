@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 3,
+  "start_frame": 1560,
+  "end_frame": 1589,
+  "frames": [
+    1560,
+    1564,
+    1568,
+    1572,
+    1576,
+    1580,
+    1584,
+    1589
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene006_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene006_win03.json",
+  "title": "Rainy city driving, moderate speed, no significant braking",
+  "caption": "The ego vehicle drives down a rainy city street, following a blue car.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is wet from the rain, and visibility is reduced. Other cars are driving ahead, and a blue car is driving in front of the ego vehicle. There is a red traffic light on the side of the road, and a large billboard is visible in the background. The weather is rainy, and the rain is falling heavily.",
+  "reasoning": "The ego vehicle maintains a moderate speed to ensure safety on the wet road. It follows the blue car ahead, keeping a safe distance. The red traffic light indicates that the ego vehicle should continue driving straight. The large billboard in the background is not a safety concern, but it adds to the overall atmosphere of the rainy city."
+}

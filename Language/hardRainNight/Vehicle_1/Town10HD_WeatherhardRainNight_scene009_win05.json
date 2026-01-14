@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 5,
+  "start_frame": 2520,
+  "end_frame": 2549,
+  "frames": [
+    2520,
+    2524,
+    2528,
+    2532,
+    2536,
+    2540,
+    2544,
+    2549
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene009_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene009_win05.json",
+  "title": "Rainy night city driving, almost stopped, pedestrian crossing",
+  "caption": "A rainy night in a city with a car stopped at a pedestrian crossing.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a rainy night in a city with a car stopped at a pedestrian crossing. The road is wet and visibility is low. There are other cars on the road, some of them are also stopping at the crosswalk. The traffic lights are red and the pedestrian is crossing the street. The ego vehicle is almost stopped and there are 30 braking events or strong decelerations in this window.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy weather conditions and the pedestrian crossing. The driver is being cautious and following the traffic rules. The car is braking frequently to avoid collisions with other vehicles on the road. The driver is paying attention to the traffic lights and the pedestrian to ensure safe driving."
+}

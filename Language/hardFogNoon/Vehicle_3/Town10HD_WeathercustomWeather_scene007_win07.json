@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 7,
+  "start_frame": 1980,
+  "end_frame": 2009,
+  "frames": [
+    1980,
+    1984,
+    1988,
+    1992,
+    1996,
+    2000,
+    2004,
+    2009
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene007_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene007_win07.json",
+  "title": "Foggy city street driving with moderate braking",
+  "caption": "A red car drives slowly on a foggy city street, with other cars and traffic lights.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 1.4 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street. The traffic is moderate, with a red car driving in front of the ego vehicle. There are several other cars on the road, and a few parked cars on the side. The traffic lights are visible in the distance, and the fog is thick, reducing visibility. The weather is clear, but the fog creates a misty atmosphere.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy conditions, which reduce visibility and make it difficult to see other vehicles and obstacles. The red car in front is braking frequently, causing the ego vehicle to also brake to maintain a safe distance. The foggy conditions also make it difficult to see the traffic lights clearly, so the ego vehicle must rely on its sensors to detect any changes in the traffic signal state."
+}

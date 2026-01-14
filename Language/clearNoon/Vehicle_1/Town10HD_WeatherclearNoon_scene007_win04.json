@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 4,
+  "start_frame": 1890,
+  "end_frame": 1919,
+  "frames": [
+    1890,
+    1894,
+    1898,
+    1902,
+    1906,
+    1910,
+    1914,
+    1919
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win04.json",
+  "title": "Clear noon, moderate-speed city driving with 8 braking events.",
+  "caption": "A person rides a bike on a city street with tall buildings and palm trees.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.7 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The video shows a person riding a bike on a city street with tall buildings and palm trees. The street is moderately busy with several cars and a parked truck. The weather is clear and sunny, and the road is mostly straight with a few curves. There are several traffic lights and stop signs visible in the video, and the ego vehicle is driving at a moderate speed with occasional braking.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is navigating a moderately busy city street. The driver is paying attention to the traffic lights and stop signs to ensure safe driving. The 8 braking events in this window suggest that the driver is being cautious and braking early to avoid collisions with other vehicles or pedestrians. The presence of tall buildings and palm trees indicates that this is a city street, and the driver needs to be extra careful to navigate the traffic safely."
+}

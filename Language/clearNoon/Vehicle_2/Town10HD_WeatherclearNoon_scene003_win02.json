@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 2,
+  "start_frame": 630,
+  "end_frame": 659,
+  "frames": [
+    630,
+    634,
+    638,
+    642,
+    646,
+    650,
+    654,
+    659
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene003_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene003_win02.json",
+  "title": "Clear noon, slow city driving with 6 braking events.",
+  "caption": "A blue car drives slowly on a city street with 6 braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.9 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The blue car drives slowly on a city street with tall buildings on both sides. There are several other cars on the road, including a parked truck on the right side of the street. The traffic light is green, and there is a pedestrian crossing the street on the left side. The weather is clear and sunny.",
+  "reasoning": "The blue car is driving slowly on a city street with 6 braking events. It is likely that the car is approaching an intersection or a stop sign, which requires it to slow down and stop. The driver needs to be cautious and attentive to avoid collisions with other vehicles or pedestrians. The parked truck on the right side of the street may also obstruct the view of oncoming traffic, so the driver needs to be extra careful when changing lanes or turning right. The green traffic light and the pedestrian crossing the street on the left side of the street indicate that the driver needs to yield to pedestrians and other vehicles that have the right of way."
+}

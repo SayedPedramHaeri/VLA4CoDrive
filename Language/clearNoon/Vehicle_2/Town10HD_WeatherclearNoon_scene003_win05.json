@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 5,
+  "start_frame": 720,
+  "end_frame": 749,
+  "frames": [
+    720,
+    724,
+    728,
+    732,
+    736,
+    740,
+    744,
+    749
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene003_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene003_win05.json",
+  "title": "Clear noon, moderate-speed city driving with 6 braking events.",
+  "caption": "The ego vehicle drives down a busy city street, following a blue car and changing lanes.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 7.5 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The road is a wide, straight city street with 4 lanes and a median strip. There are tall buildings on both sides of the street, and several parked cars on the side. The traffic is moderate, with several cars and a bus driving in the opposite direction. The weather is clear and sunny, with good visibility. There are several traffic lights and stop signs along the road, and a few pedestrians walking on the sidewalk.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the blue car in front of it. It changes lanes to overtake the slower cars on the road. The vehicle slows down and brakes several times due to the traffic ahead. It is important for the ego vehicle to maintain a safe distance from the vehicles ahead and to be prepared for sudden braking or lane changes. The presence of pedestrians and traffic lights requires the driver to be vigilant and follow traffic rules to ensure safety."
+}

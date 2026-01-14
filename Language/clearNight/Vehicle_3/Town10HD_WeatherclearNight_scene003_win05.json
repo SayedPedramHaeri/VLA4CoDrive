@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 5,
+  "start_frame": 720,
+  "end_frame": 749,
+  "frames": [
+    720,
+    724,
+    728,
+    732,
+    736,
+    740,
+    744,
+    749
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene003_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene003_win05.json",
+  "title": "Clear night city driving with multiple braking events.",
+  "caption": "The ego vehicle is driving slowly on a busy city street at night, with multiple braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 4.6 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The road is wet and there are several other cars on the street, some of which are also braking. The traffic lights are mostly red and there are a few pedestrians walking on the sidewalk. The weather is clear and the visibility is good.",
+  "reasoning": "The ego vehicle is driving slowly to avoid any potential accidents due to the wet road and the presence of other vehicles braking frequently. The driver is being cautious and paying close attention to the traffic lights and pedestrians to ensure safe navigation through the city."
+}

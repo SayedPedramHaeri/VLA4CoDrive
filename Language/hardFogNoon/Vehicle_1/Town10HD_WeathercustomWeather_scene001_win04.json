@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene001_win04.json",
+  "title": "Foggy city street with a white bus and a small white car driving in the same direction.",
+  "caption": "The white bus is driving in the right lane while the small white car is driving in the left lane.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet and there is fog in the air. The white bus is in the right lane and the small white car is in the left lane. There are no other vehicles or pedestrians visible in the video.",
+  "reasoning": "The ego vehicle is driving in the left lane and maintaining a safe distance from the white bus in the right lane. The foggy weather conditions may affect visibility and the ego vehicle should be cautious while driving. The frequent braking events in the driving metadata suggest that the traffic ahead may be stopping or slowing down."
+}

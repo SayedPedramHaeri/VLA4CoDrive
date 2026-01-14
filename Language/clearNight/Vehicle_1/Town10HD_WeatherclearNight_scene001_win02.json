@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 2,
+  "start_frame": 30,
+  "end_frame": 59,
+  "frames": [
+    30,
+    34,
+    38,
+    42,
+    46,
+    50,
+    54,
+    59
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene001_win02.json",
+  "title": "Clear night city driving, moderate speed, braking twice",
+  "caption": "A white bus drives down a city street at night, with a person riding a bike across the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). There are 2 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with a white bus driving down it. There are other cars parked on the side of the road. The weather is clear and it is nighttime. There is a traffic light on the corner of the street and a person riding a bike across the street.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and slows down to brake twice, possibly due to the presence of the white bus and the person riding the bike. The traffic light on the corner of the street is visible and appears to be red, indicating that the ego vehicle should continue driving. The parked cars on the side of the road suggest that this is a busy area of the city."
+}

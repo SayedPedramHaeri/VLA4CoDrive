@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 7,
+  "start_frame": 2580,
+  "end_frame": 2609,
+  "frames": [
+    2580,
+    2584,
+    2588,
+    2592,
+    2596,
+    2600,
+    2604,
+    2609
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene009_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene009_win07.json",
+  "title": "Clear noon, slow city driving with frequent braking.",
+  "caption": "A blue and white car drives down a city street with tall buildings on either side, passing a motorcycle and a parked truck.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 2.1 m/s). There are 15 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with parked cars on the right side. There are several other cars on the road, including a red car in the distance and a white car to the left. A traffic light is visible on the left side of the road. The weather is clear and sunny, with no visible obstacles or pedestrians.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously, likely due to the frequent braking events in the driving metadata. The presence of other cars and the traffic light suggest that the ego vehicle is following traffic rules and maintaining a safe distance from other vehicles. The parked truck on the right side of the road may also be contributing to the slow pace of the driving, as the ego vehicle navigates around it."
+}

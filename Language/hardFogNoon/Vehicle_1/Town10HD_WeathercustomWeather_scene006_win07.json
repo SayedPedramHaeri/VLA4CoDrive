@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 7,
+  "start_frame": 1680,
+  "end_frame": 1709,
+  "frames": [
+    1680,
+    1684,
+    1688,
+    1692,
+    1696,
+    1700,
+    1704,
+    1709
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene006_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene006_win07.json",
+  "title": "Foggy city street with slow-moving traffic and pedestrians",
+  "caption": "A foggy city street with a blue car driving slowly and a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 3.7 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a blue car driving slowly. There are several other cars on the road, and a pedestrian is crossing the street. The weather is foggy, and visibility is low. There are multiple traffic lights and a stop sign along the road.",
+  "reasoning": "The ego vehicle is driving slowly due to the foggy weather conditions, which reduce visibility and make it difficult to see other vehicles and pedestrians. The pedestrian is crossing the street at a crosswalk, and the ego vehicle is stopping to give them the right of way. The multiple braking events in the driving metadata suggest that the driver is being cautious and maintaining a safe distance from other vehicles on the road."
+}

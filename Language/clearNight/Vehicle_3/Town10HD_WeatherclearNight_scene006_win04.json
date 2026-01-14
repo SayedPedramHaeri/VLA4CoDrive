@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 4,
+  "start_frame": 1590,
+  "end_frame": 1619,
+  "frames": [
+    1590,
+    1594,
+    1598,
+    1602,
+    1606,
+    1610,
+    1614,
+    1619
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win04.json",
+  "title": "Clear night, moderate-speed city driving with a red and white bus in the distance.",
+  "caption": "The ego vehicle is driving straight on a city street at moderate speed, with a red and white bus in the distance.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). No significant braking is observed in this window.",
+  "description": "The road is a two-lane city street with a speed limit of 30 mph. There are no other vehicles on the road except for the bus in the distance. The weather is clear and visibility is good. There are no traffic lights or stop signs in the immediate vicinity of the ego vehicle.",
+  "reasoning": "The ego vehicle is maintaining a safe distance from the bus in the distance and is driving at a moderate speed to ensure safe navigation of the city streets. The driver is alert and attentive to the road ahead, scanning for any potential risks or obstacles."
+}

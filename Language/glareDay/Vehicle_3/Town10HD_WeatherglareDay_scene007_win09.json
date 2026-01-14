@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 9,
+  "start_frame": 2040,
+  "end_frame": 2069,
+  "frames": [
+    2040,
+    2044,
+    2048,
+    2052,
+    2056,
+    2060,
+    2064,
+    2069
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene007_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene007_win09.json",
+  "title": "Clear day in a city, with the ego vehicle almost stopped and 30 braking events in the last 8 seconds.",
+  "caption": "A red car drives on a city street with other cars and a motorcycle.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a red car driving on a city street with other cars and a motorcycle. The road is wet and there are tall buildings in the background. The weather is clear and the sky is blue. The video is taken from the ego vehicle's front camera in a CARLA simulator.",
+  "reasoning": "The ego vehicle is almost stopped and there are 30 braking events or strong decelerations in the last 8 seconds, which suggests that the traffic is heavy and the driver needs to be cautious. The red car is driving on the right side of the road and there are other cars and a motorcycle on the road as well. The tall buildings in the background suggest that the video was taken in a city. The driver needs to pay attention to the traffic and the surroundings to ensure safe driving."
+}

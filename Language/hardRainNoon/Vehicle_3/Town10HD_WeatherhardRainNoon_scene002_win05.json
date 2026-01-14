@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 5,
+  "start_frame": 420,
+  "end_frame": 449,
+  "frames": [
+    420,
+    424,
+    428,
+    432,
+    436,
+    440,
+    444,
+    449
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene002_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene002_win05.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A red car drives through a green light in the rain.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.4 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a rainy day. There are several other cars on the road, including a red car that drives through a green light. The road is wet and visibility is reduced. There are tall buildings and palm trees lining the street. The traffic lights are visible throughout the video.",
+  "reasoning": "The ego vehicle is driving slowly due to the rainy weather conditions. The red car is detected to be driving through a green light, which could potentially cause an accident. The ego vehicle maintains a safe distance from the red car and other nearby vehicles to avoid any collisions. The driver of the ego vehicle is cautious and attentive to the surroundings, adjusting the speed and direction according to the traffic signals and other road users."
+}

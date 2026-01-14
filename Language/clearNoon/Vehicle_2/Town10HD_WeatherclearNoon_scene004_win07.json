@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 7,
+  "start_frame": 1080,
+  "end_frame": 1109,
+  "frames": [
+    1080,
+    1084,
+    1088,
+    1092,
+    1096,
+    1100,
+    1104,
+    1109
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene004_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene004_win07.json",
+  "title": "Clear noon, moderate-speed city driving with 6 braking events.",
+  "caption": "The ego vehicle is driving slowly on a city street with tall buildings on both sides, following a blue car.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.7 m/s). There are 6 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with 2 lanes going straight and 1 lane going left. There are several other cars on the road, including a red truck and a white van. The traffic light is green, and there is a pedestrian crossing the street. The weather is clear and sunny, with no visible obstacles.",
+  "reasoning": "The ego vehicle is maintaining a safe distance from the blue car in front of it, and it slows down or brakes when approaching intersections or pedestrian crossings. It also adjusts its speed according to the traffic flow and the road conditions. The tall buildings on both sides of the street create a canyon-like effect, which may affect the visibility of other vehicles or pedestrians."
+}

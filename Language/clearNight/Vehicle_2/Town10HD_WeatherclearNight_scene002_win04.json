@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 4,
+  "start_frame": 390,
+  "end_frame": 419,
+  "frames": [
+    390,
+    394,
+    398,
+    402,
+    406,
+    410,
+    414,
+    419
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene002_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene002_win04.json",
+  "title": "Clear night, slow city driving with multiple braking events.",
+  "caption": "A white bus drives through an intersection at night.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 4.8 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The video shows a white bus driving through an intersection at night. The road is wet and there are several other vehicles on the road, including a red car and a parked white van. The traffic lights are green and the road is marked with white lines. The video also shows a tall building in the background and palm trees lining the street.",
+  "reasoning": "The ego vehicle is driving slowly through the intersection because there are multiple braking events in the video. The white bus is the main object of interest and it is driving through the intersection. The red car and the parked white van are also visible in the video. The traffic lights are green, which allows the vehicles to pass through the intersection. The tall building in the background and the palm trees lining the street add to the urban environment of the scene."
+}

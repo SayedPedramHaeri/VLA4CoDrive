@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene002_win03.json",
+  "title": "Moderate-speed city driving on a clear, sunny day.",
+  "caption": "The ego vehicle drives straight through an intersection, following a white bus.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 5.0 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "A busy city street with multiple lanes and cars driving in both directions. The ego vehicle is a red car following a white bus. There are several traffic lights and pedestrians crossing the street. The weather is clear and sunny, with no visible fog or rain.",
+  "reasoning": "The ego vehicle maintains a moderate speed and follows the white bus through the intersection. It slows down before the crosswalk and stops when the traffic light turns red. The driver keeps a safe distance from the bus and other vehicles, and is prepared to react to any sudden changes in traffic or pedestrians. The clear weather conditions allow for good visibility and easy navigation through the city streets."
+}

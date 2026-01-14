@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene001_win04.json",
+  "title": "Rainy night city driving with a bus and a car on the road.",
+  "caption": "A car follows a bus on a rainy night in a city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a car following a bus on a rainy night in a city street. The road is wet and visibility is low. The traffic is light and the vehicles are moving slowly. The streetlights are on and the buildings are lit up. The video captures the sound of rain and the headlights of the vehicles.",
+  "reasoning": "The ego vehicle is driving carefully on the rainy city street, following the bus in front of it. The driver needs to be cautious because of the reduced visibility and the potential for slippery roads. The braking events in the driving metadata indicate that the driver is applying the brakes frequently to maintain a safe distance from the bus. The video shows the importance of driving slowly and being alert to potential hazards on rainy nights."
+}

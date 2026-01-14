@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 5,
+  "start_frame": 1020,
+  "end_frame": 1049,
+  "frames": [
+    1020,
+    1024,
+    1028,
+    1032,
+    1036,
+    1040,
+    1044,
+    1049
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win05.json",
+  "title": "Clear day in a city with a small car driving on the road with other cars and pedestrians around.",
+  "caption": "A small car driving on a foggy city street with other cars and pedestrians around.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a small car driving on a foggy city street with other cars and pedestrians around. The road is wet and there are several traffic lights and stop signs visible. The weather is foggy and visibility is low. The video also shows a parked truck on the side of the road and a person walking on the sidewalk.",
+  "reasoning": "The small car is driving cautiously because of the low visibility due to the fog. The driver is paying close attention to the traffic lights and stop signs to ensure safe driving. The parked truck on the side of the road and the person walking on the sidewalk are also visible to the driver, who is taking all necessary precautions to avoid any accidents."
+}

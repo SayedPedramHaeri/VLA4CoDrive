@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 6,
+  "start_frame": 1050,
+  "end_frame": 1079,
+  "frames": [
+    1050,
+    1054,
+    1058,
+    1062,
+    1066,
+    1070,
+    1074,
+    1079
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win06.json",
+  "title": "Clear day in a city with moderate traffic and frequent braking.",
+  "caption": "A small white car drives down a city street with tall buildings on either side and a large roundabout up ahead.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 0.9 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. There are several other cars on the road, some of them are parked on the side of the road. The weather is clear and sunny. There are multiple traffic lights and a large roundabout up ahead.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the frequent braking events in the area. It is maintaining a safe distance from the other cars on the road and is preparing to enter the roundabout."
+}

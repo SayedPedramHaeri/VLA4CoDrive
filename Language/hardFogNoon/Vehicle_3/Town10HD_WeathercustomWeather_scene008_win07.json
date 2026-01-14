@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win07.json",
+  "title": "Foggy city street with almost stopped traffic and a motorcycle rider.",
+  "caption": "A foggy city street with the ego vehicle almost stopped and a motorcycle rider.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with the ego vehicle almost stopped. There are several other cars on the road, some of which are also stopped. A motorcycle rider is seen passing by the ego vehicle. The road is wet and there are no visible traffic lights or pedestrians. The weather is clear and the video was taken during the daytime.",
+  "reasoning": "The ego vehicle is likely stopping due to the foggy conditions and the presence of other vehicles on the road. The motorcycle rider is seen passing by the ego vehicle, possibly taking advantage of the stopped traffic to navigate through the intersection. The wet road suggests that it has recently rained, which could be contributing to the foggy conditions. The lack of visible traffic lights or pedestrians indicates that the intersection is relatively quiet and calm."
+}

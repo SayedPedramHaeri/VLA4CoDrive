@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene008_win07.json",
+  "title": "Foggy city street with police car and other vehicles",
+  "caption": "Police car driving slowly in foggy city street with other vehicles",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with moderate traffic. The ego vehicle is a police car driving slowly in foggy weather. There are other cars on the road, including a black car and a parked truck. The traffic lights are visible but not very clear due to the fog. The weather is foggy and the visibility is low.",
+  "reasoning": "The police car is driving slowly in the foggy weather to ensure safety. It is following the black car in front of it and maintaining a safe distance. The parked truck on the side of the road is not obstructing the traffic flow. The foggy weather reduces visibility and makes it difficult to see the traffic lights clearly. The police car is driving cautiously to avoid any accidents."
+}

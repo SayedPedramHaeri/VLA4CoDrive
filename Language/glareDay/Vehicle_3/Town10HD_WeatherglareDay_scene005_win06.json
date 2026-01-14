@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 6,
+  "start_frame": 1350,
+  "end_frame": 1379,
+  "frames": [
+    1350,
+    1354,
+    1358,
+    1362,
+    1366,
+    1370,
+    1374,
+    1379
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene005_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene005_win06.json",
+  "title": "Clear day, slow city driving with 20 braking events.",
+  "caption": "Red car driving slowly on a foggy city street with multiple parked cars and a stop sign.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 2.4 m/s). There are 20 braking events or strong decelerations in this window.",
+  "description": "The red car is driving slowly on a foggy city street with multiple parked cars on the side of the road. There is a stop sign on the corner and a red car parked on the side of the road. The road is wet and there is a crosswalk in the distance. The weather is clear and there is no traffic on the road.",
+  "reasoning": "The red car is driving slowly because it is approaching a stop sign. The driver is being cautious and following the speed limit to ensure safety. The foggy conditions and wet road may require the driver to be extra vigilant and maintain a safe distance from other vehicles. The multiple parked cars on the side of the road may also require the driver to be careful when changing lanes or making turns."
+}

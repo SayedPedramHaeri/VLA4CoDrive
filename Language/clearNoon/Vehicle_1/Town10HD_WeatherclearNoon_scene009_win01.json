@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 1,
+  "start_frame": 2400,
+  "end_frame": 2429,
+  "frames": [
+    2400,
+    2404,
+    2408,
+    2412,
+    2416,
+    2420,
+    2424,
+    2429
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win01.json",
+  "title": "Clear noon, moderate-speed city driving with a focus on traffic lights and pedestrians.",
+  "caption": "A busy city street with a focus on traffic lights and pedestrians.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving on a busy city street with multiple traffic lights and pedestrians. The road is wet, and there are parked cars on the side of the road. The traffic is moderate, and there are tall buildings in the background. The weather is clear, and the sky is blue.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and following the traffic rules. It slows down when approaching a traffic light and stops when the light turns red. The pedestrians are crossing the street at designated crosswalks, and the ego vehicle gives them the right of way. The parked cars on the side of the road and the tall buildings in the background add to the urban environment. The wet road indicates that it has recently rained, and the ego vehicle needs to be cautious to avoid any potential hazards."
+}

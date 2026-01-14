@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 4,
+  "start_frame": 990,
+  "end_frame": 1019,
+  "frames": [
+    990,
+    994,
+    998,
+    1002,
+    1006,
+    1010,
+    1014,
+    1019
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene004_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene004_win04.json",
+  "title": "Foggy city street with almost stopped traffic and multiple braking events.",
+  "caption": "A red car drives slowly on a foggy city street, with other cars and a traffic light.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a foggy atmosphere. The traffic is light, with a red car driving slowly in the left lane. There are other cars in the distance, and a traffic light is visible on the right side of the road. The weather is clear, and there are no pedestrians or obstacles in the scene.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy conditions and the presence of other cars on the road. The multiple braking events suggest that the traffic is cautious and trying to maintain a safe distance between vehicles. The red car in the left lane is the main focus of the scene, and the traffic light on the right side of the road is an important safety consideration for the ego vehicle."
+}

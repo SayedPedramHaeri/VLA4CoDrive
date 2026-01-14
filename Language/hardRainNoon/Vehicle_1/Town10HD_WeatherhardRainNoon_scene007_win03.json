@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 3,
+  "start_frame": 1860,
+  "end_frame": 1889,
+  "frames": [
+    1860,
+    1864,
+    1868,
+    1872,
+    1876,
+    1880,
+    1884,
+    1889
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene007_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene007_win03.json",
+  "title": "Rainy city street driving with pedestrians and cars on the road.",
+  "caption": "A slow-moving vehicle on a rainy day drives down a city street with pedestrians and cars around.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 4.1 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The video shows a slow-moving vehicle driving down a rainy city street with pedestrians and cars around. The road is wet and visibility is reduced due to the rain. There are several other vehicles on the road, including a parked truck on the side of the road. The traffic light is visible in the distance and it is red. The video also shows a person walking on the sidewalk and a person riding a bike on the road. The weather is rainy and the sky is dark.",
+  "reasoning": "The ego vehicle is driving slowly on the rainy city street to ensure safety. It is maintaining a safe distance from the other vehicles on the road, including the parked truck on the side of the road. The driver is paying attention to the pedestrians and the traffic light, and is adjusting the speed accordingly. The rainy weather conditions require extra caution and the driver is being careful to avoid any potential accidents."
+}

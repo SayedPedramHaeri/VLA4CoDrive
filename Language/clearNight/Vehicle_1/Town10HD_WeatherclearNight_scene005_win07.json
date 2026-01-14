@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 7,
+  "start_frame": 1380,
+  "end_frame": 1409,
+  "frames": [
+    1380,
+    1384,
+    1388,
+    1392,
+    1396,
+    1400,
+    1404,
+    1409
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene005_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene005_win07.json",
+  "title": "Clear night, moderate-speed city driving on a straight road with a crosswalk and a large building in the background.",
+  "caption": "The ego vehicle is driving straight on a city street at night, with a crosswalk and a large building in the background.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is straight and has a crosswalk with a traffic light. There are other cars driving on the road, and a large building can be seen in the background. The weather is clear and it is nighttime.",
+  "reasoning": "The ego vehicle is driving straight on the road, maintaining a moderate speed. It is approaching the crosswalk and is about to pass the large building in the background. The driver is paying attention to the traffic light and other vehicles on the road to ensure safe driving."
+}

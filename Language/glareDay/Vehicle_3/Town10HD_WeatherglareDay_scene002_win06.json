@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 6,
+  "start_frame": 450,
+  "end_frame": 479,
+  "frames": [
+    450,
+    454,
+    458,
+    462,
+    466,
+    470,
+    474,
+    479
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win06.json",
+  "title": "Moderate-speed city driving on a clear day with glare.",
+  "caption": "The ego vehicle drives straight on a city street with moderate traffic and a glare from the sun.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 8.2 m/s). There are 2 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, four-lane city street with a crosswalk and a traffic light on the right side. There are several cars and a parked truck on the left side of the road. The weather is clear and sunny, with a glare from the sun. The traffic light is green, and there is a pedestrian crossing the street.",
+  "reasoning": "The ego vehicle maintains a moderate speed and keeps a safe distance from the other vehicles on the road. It slows down as it approaches the crosswalk and the traffic light, preparing to stop or turn left. The driver is cautious and attentive to the pedestrian and the parked truck on the left side of the road. The glare from the sun may affect visibility, but the driver adjusts the angle of the sun visor to minimize the glare."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 2,
+  "start_frame": 630,
+  "end_frame": 659,
+  "frames": [
+    630,
+    634,
+    638,
+    642,
+    646,
+    650,
+    654,
+    659
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win02.json",
+  "title": "Clear noon, moderate-speed city driving with 5 braking events.",
+  "caption": "The ego vehicle drives straight on a busy city street, following a black car and passing a parked truck.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.1 m/s). There are 5 braking events or strong decelerations in this window.",
+  "description": "The road is a wide city street with 4 lanes and a green traffic light. There are several other cars on the road, including a black car that the ego vehicle is following. A parked truck is visible on the right side of the road. The weather is clear and sunny, with no visible pedestrians or obstacles.",
+  "reasoning": "The ego vehicle maintains a moderate speed and keeps a safe distance from the black car in front of it. It slows down or brakes in response to the parked truck and other cars on the road. The driver is attentive and cautious, scanning the surroundings for any potential risks or changes in traffic patterns."
+}

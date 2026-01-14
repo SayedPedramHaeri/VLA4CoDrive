@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene008_win05.json",
+  "title": "Foggy city street with police car and parked truck",
+  "caption": "A police car drives slowly on a foggy city street with a parked truck on the right.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a foggy atmosphere. The police car is driving slowly, and there are several other cars on the road. A person on a bike is crossing the street. The parked truck is on the right side of the road. There are traffic lights at the intersection.",
+  "reasoning": "The police car is driving slowly because of the foggy conditions, which can reduce visibility. The driver needs to be extra cautious and maintain a safe distance from other vehicles on the road. The parked truck on the right side of the road could also be a potential obstacle for other vehicles, so the driver needs to be aware of its presence. The person on the bike is crossing the street, and the driver needs to be prepared to stop or slow down if necessary to avoid any accidents."
+}

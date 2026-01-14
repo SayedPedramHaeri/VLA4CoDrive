@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 1,
+  "start_frame": 600,
+  "end_frame": 629,
+  "frames": [
+    600,
+    604,
+    608,
+    612,
+    616,
+    620,
+    624,
+    629
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene003_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene003_win01.json",
+  "title": "Foggy city driving with multiple braking events.",
+  "caption": "A white car drives slowly through a foggy city intersection.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 1.1 m/s). There are 15 braking events or strong decelerations in this window.",
+  "description": "The white car is driving slowly through a foggy city intersection. There are multiple traffic lights and a red stop sign on the right side of the road. The road is wet and there are no other vehicles or pedestrians visible.",
+  "reasoning": "The white car is driving slowly through the intersection because of the foggy weather conditions. The driver is being cautious and following the traffic rules. The multiple braking events suggest that the driver is being extra careful due to the low visibility. The red stop sign on the right side of the road is also a safety consideration that the driver is taking into account."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 4,
+  "start_frame": 990,
+  "end_frame": 1019,
+  "frames": [
+    990,
+    994,
+    998,
+    1002,
+    1006,
+    1010,
+    1014,
+    1019
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene004_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene004_win04.json",
+  "title": "Clear noon, moderate-speed city driving with a parked truck on the left.",
+  "caption": "A white car drives down a city street with a tall building in the background.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with two lanes. There are several other cars on the road, including a red car in the distance and a white van on the left. There is a traffic light on the right side of the road that is currently red. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and is approaching a red traffic light. It is likely that the driver will slow down or stop to obey the traffic rules. The parked truck on the left may obstruct the view of pedestrians or other vehicles trying to enter the road. The driver needs to be cautious and check for any potential hazards before proceeding."
+}

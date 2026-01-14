@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathersoftRainNight_scene009_win03.json",
+  "title": "Rainy night city driving, almost stopped at intersection.",
+  "caption": "A car drives slowly through a rainy city intersection.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The car is driving slowly through a rainy city intersection. There are several other cars on the road, some of which are also braking. The traffic lights are visible in the distance and are red. The road is wet from the rain.",
+  "reasoning": "The car is driving slowly through the intersection because it is raining and the road is wet. The driver is being cautious and following the traffic rules. The car is braking frequently to avoid any potential accidents due to the slippery road conditions."
+}

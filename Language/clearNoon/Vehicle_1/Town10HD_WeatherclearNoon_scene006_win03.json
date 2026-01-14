@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 3,
+  "start_frame": 1560,
+  "end_frame": 1589,
+  "frames": [
+    1560,
+    1564,
+    1568,
+    1572,
+    1576,
+    1580,
+    1584,
+    1589
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win03.json",
+  "title": "Clear noon, moderate-speed city driving with a blue car in the distance.",
+  "caption": "The ego vehicle drives down a city street with a blue car in the distance.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The ego vehicle is driving down a city street with a blue car in the distance. There are several other cars on the road, including a black car and a parked blue car. The road is wet, possibly from recent rain. There are traffic lights and street signs visible along the road.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, maintaining a safe distance from the blue car in the distance. The driver is paying attention to the traffic lights and street signs, ensuring that they follow the rules of the road. The wet road surface may require the driver to be extra cautious, slowing down and allowing for more reaction time in case of any unexpected events."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene002_win03.json",
+  "title": "Foggy city street driving with 7 braking events",
+  "caption": "A blue car drives slowly on a foggy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a foggy city street with multiple traffic lights and other cars. The road is wet and visibility is low due to the fog. The traffic lights are green, allowing the blue car to continue driving.",
+  "reasoning": "The blue car is driving slowly to maintain a safe distance from other vehicles on the foggy city street. The multiple braking events suggest that the driver is being cautious due to the low visibility and wet road conditions. The presence of other cars and traffic lights indicate that the driver is following traffic rules and regulations to ensure safe driving."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 2,
+  "start_frame": 1530,
+  "end_frame": 1559,
+  "frames": [
+    1530,
+    1534,
+    1538,
+    1542,
+    1546,
+    1550,
+    1554,
+    1559
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win02.json",
+  "title": "Moderate-speed night driving on a city street with a red traffic light.",
+  "caption": "The ego vehicle is driving straight on a city street at night, with a red traffic light and other cars parked on the side.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). There are 2 braking events or strong decelerations in this window.",
+  "description": "The road is dark and wet, with a red traffic light visible on the right side of the road. There are other cars parked on the side of the road, and a large building with many windows in the background. The weather is clear and the sky is dark.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is on a straight road with no obstacles or traffic. The driver is paying attention to the red traffic light and other cars on the side of the road. The large building in the background suggests that the ego vehicle is in a city or urban area. The driver is likely following traffic rules and regulations to ensure safe driving."
+}

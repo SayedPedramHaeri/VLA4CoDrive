@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 5,
+  "start_frame": 1920,
+  "end_frame": 1949,
+  "frames": [
+    1920,
+    1924,
+    1928,
+    1932,
+    1936,
+    1940,
+    1944,
+    1949
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene007_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene007_win05.json",
+  "title": "Clear night city driving with multiple braking events.",
+  "caption": "A person is riding a bike on a city street at night with many cars and pedestrians around.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 5.0 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The video shows a person riding a bike on a city street at night. The street is well-lit with streetlights and neon signs from nearby buildings. There are many cars parked on the side of the road and some cars driving in the opposite direction. The weather is clear, and the sky is dark. The video shows multiple braking events, indicating that the traffic is heavy.",
+  "reasoning": "The ego vehicle is moving slowly because of the heavy traffic. The driver is being cautious and braking frequently to avoid collisions with other vehicles or pedestrians. The neon signs and streetlights provide good visibility, allowing the driver to see the road clearly. The parked cars on the side of the road indicate that this is a busy area with many people around. The driver needs to be extra careful and attentive to ensure safety while driving in such a crowded environment."
+}

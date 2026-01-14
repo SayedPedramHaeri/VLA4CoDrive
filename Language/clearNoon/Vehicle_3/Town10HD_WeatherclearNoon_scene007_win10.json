@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 10,
+  "start_frame": 2070,
+  "end_frame": 2099,
+  "frames": [
+    2070,
+    2074,
+    2078,
+    2082,
+    2086,
+    2090,
+    2094,
+    2099
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene007_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene007_win10.json",
+  "title": "Clear Noon, moderate-speed city driving with frequent braking.",
+  "caption": "Red car driving on a busy city street with tall buildings and palm trees on the side of the road.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a red car driving on a busy city street with tall buildings and palm trees on the side of the road. The road is wet and there are several other cars on the road, some of which are parked on the side of the road. The weather is clear and the sky is blue. There are several traffic lights and stop signs along the road, and the video shows the ego vehicle braking frequently.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and braking frequently, likely due to the presence of other vehicles and pedestrians on the road. The wet road surface may also be a contributing factor to the frequent braking. The tall buildings and palm trees suggest that the video was taken in a city with a warm climate. The traffic lights and stop signs indicate that the road is well-regulated and drivers are expected to follow traffic rules."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 9,
+  "start_frame": 2640,
+  "end_frame": 2669,
+  "frames": [
+    2640,
+    2644,
+    2648,
+    2652,
+    2656,
+    2660,
+    2664,
+    2669
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene009_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene009_win09.json",
+  "title": "Rainy city driving with moderate speed and frequent braking.",
+  "caption": "A police car drives through a rainy intersection in a large city.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 6.6 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The video shows a police car driving through a busy intersection in a large city during a rainy day. The road is wet and visibility is low. The police car is driving at a moderate speed and there are several other vehicles on the road, including a white van and a red bus. The traffic lights are visible in the background and they are displaying green and yellow lights. The video also shows a tall building in the background and a parked car on the side of the road.",
+  "reasoning": "The police car is driving through the intersection carefully because of the rainy weather conditions. The driver is maintaining a moderate speed to ensure safety and avoid any potential accidents. The frequent braking events indicate that the driver is being cautious and attentive to the traffic situation around them. The presence of other vehicles and pedestrians in the area also requires the driver to be vigilant and responsive to any sudden changes in the traffic flow."
+}

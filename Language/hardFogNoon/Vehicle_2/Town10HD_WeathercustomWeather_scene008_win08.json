@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 8,
+  "start_frame": 2310,
+  "end_frame": 2339,
+  "frames": [
+    2310,
+    2314,
+    2318,
+    2322,
+    2326,
+    2330,
+    2334,
+    2339
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene008_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene008_win08.json",
+  "title": "Ego vehicle almost stopped on a foggy city street with multiple parked cars and a pedestrian crossing.",
+  "caption": "An almost stopped ego vehicle on a foggy city street with multiple parked cars and a pedestrian crossing.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows an almost stopped ego vehicle on a foggy city street. There are multiple parked cars on the side of the road, and a pedestrian is crossing the street. The road is wet, and the visibility is low due to the fog. The traffic is light, and there are no significant obstacles on the road.",
+  "reasoning": "The ego vehicle is almost stopped because it is approaching a pedestrian crossing. The driver is being cautious and following the traffic rules. The foggy weather conditions and the presence of parked cars on the side of the road require the driver to be extra vigilant to avoid any accidents. The multiple braking events in the driving metadata indicate that the driver is applying the brakes frequently to maintain a safe distance from the vehicles ahead."
+}

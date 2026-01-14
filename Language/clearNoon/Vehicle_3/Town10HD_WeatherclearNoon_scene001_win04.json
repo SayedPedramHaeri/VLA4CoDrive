@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene001_win04.json",
+  "title": "Clear noon, slow city driving with multiple braking events.",
+  "caption": "A red car drives down a city street with tall buildings on either side. The ego vehicle is a green car moving slowly and stopping frequently.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with tall buildings on either side. There are multiple cars parked on the side of the road and a few cars driving in the opposite direction. The traffic light is green and there are no pedestrians visible. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving slowly and stopping frequently because there are many parked cars on the side of the road and the traffic light is green. The driver needs to be cautious and pay attention to the potential risks of pedestrians crossing the street or other cars merging into the lane. The multiple braking events suggest that the driver is being very careful and following the traffic rules."
+}

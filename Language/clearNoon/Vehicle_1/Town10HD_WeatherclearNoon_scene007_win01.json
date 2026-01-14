@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 1,
+  "start_frame": 1800,
+  "end_frame": 1829,
+  "frames": [
+    1800,
+    1804,
+    1808,
+    1812,
+    1816,
+    1820,
+    1824,
+    1829
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win01.json",
+  "title": "Clear noon, slow city driving with 8 braking events.",
+  "caption": "A slow-moving ego vehicle on a city street with 8 braking events.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a city street with moderate traffic. There are several other cars and a parked truck on the side of the road. The weather is clear and sunny, with no visible obstacles or pedestrians.",
+  "reasoning": "The ego vehicle is likely driving at a slow speed to ensure safety and avoid any sudden braking or maneuvering. The presence of multiple braking events suggests that the driver is being cautious and paying close attention to the road and other vehicles. The parked truck on the side of the road may have obstructed the ego vehicle's lane, requiring the driver to slow down and navigate carefully around it."
+}

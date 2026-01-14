@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene001_win05.json",
+  "title": "Clear noon, moderate-speed city driving with a white bus and a parked truck.",
+  "caption": "A white bus passes by while the ego vehicle drives on a city street with tall buildings and palm trees.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with two lanes. There are several other cars and a parked truck on the side of the road. The traffic light is green, and there is a pedestrian crossing the street. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and stays in the right lane. It slows down as it approaches the intersection and the parked truck. The white bus passes by, and the ego vehicle maintains a safe distance from it. The pedestrian is crossing the street carefully, and the traffic light remains green. The ego vehicle is programmed to follow traffic rules and prioritize safety."
+}

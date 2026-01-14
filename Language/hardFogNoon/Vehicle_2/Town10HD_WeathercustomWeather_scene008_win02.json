@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 2,
+  "start_frame": 2130,
+  "end_frame": 2159,
+  "frames": [
+    2130,
+    2134,
+    2138,
+    2142,
+    2146,
+    2150,
+    2154,
+    2159
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene008_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene008_win02.json",
+  "title": "Ego vehicle almost stopped on a foggy city street with a bus in the background.",
+  "caption": "A small car is driving slowly on a foggy city street, with a bus in the background.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with a bus lane. The ego vehicle is a small car driving slowly, with a bus in the background. There are several other cars and a parked truck on the side of the road. The weather is foggy, and there are no visible traffic lights or stop signs.",
+  "reasoning": "The ego vehicle is driving slowly because it is almost stopped. The foggy weather reduces visibility, and the driver needs to be cautious. The presence of the bus and other cars on the road requires the driver to maintain a safe distance and be prepared for sudden braking or changes in direction."
+}

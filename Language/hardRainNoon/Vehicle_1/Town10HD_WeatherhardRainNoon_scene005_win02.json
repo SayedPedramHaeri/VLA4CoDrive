@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 2,
+  "start_frame": 1230,
+  "end_frame": 1259,
+  "frames": [
+    1230,
+    1234,
+    1238,
+    1242,
+    1246,
+    1250,
+    1254,
+    1259
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene005_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene005_win02.json",
+  "title": "Rainy city street driving with moderate speed and frequent braking.",
+  "caption": "A car driving on a rainy city street with moderate speed and frequent braking.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 7.1 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The video shows a car driving on a rainy city street with moderate speed and frequent braking. The road is wet and slippery, and the visibility is reduced due to the rain. There are several other cars on the road, and some of them are also braking or slowing down. The traffic lights are visible in the background, and they are showing red or green lights. The buildings and trees on the sides of the road are also visible, and they are reflecting the rain.",
+  "reasoning": "The ego vehicle is driving on a rainy city street with moderate speed and frequent braking. The rain reduces visibility and makes the road slippery, so the driver needs to be cautious and maintain a safe distance from other vehicles. The frequent braking events indicate that the driver is trying to avoid potential accidents or collisions. The presence of other cars on the road also requires the driver to be attentive and responsive to changes in traffic conditions. Overall, the video shows the challenges and safety considerations of driving in a rainy urban environment."
+}

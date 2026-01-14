@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 10,
+  "start_frame": 2670,
+  "end_frame": 2699,
+  "frames": [
+    2670,
+    2674,
+    2678,
+    2682,
+    2686,
+    2690,
+    2694,
+    2699
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win10.json",
+  "title": "Clear day in a busy city, with the ego vehicle driving slowly and cautiously.",
+  "caption": "The ego vehicle is driving slowly in a busy city, with a red car in front and a motorcycle rider nearby.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The road is a busy city street with multiple lanes in each direction. There are several other cars on the road, including a red car in front of the ego vehicle. A motorcycle rider is also nearby. The weather is clear, but there is a glare from the sun. There are several traffic lights and signs visible, and the ego vehicle is driving slowly and cautiously.",
+  "reasoning": "The ego vehicle is driving slowly because of the glare from the sun and the presence of other vehicles on the road. The driver is being cautious and paying attention to the traffic lights and signs to ensure safe driving. The braking events and strong decelerations in the driving metadata suggest that the driver is reacting to changes in the traffic situation, such as other vehicles stopping or slowing down."
+}

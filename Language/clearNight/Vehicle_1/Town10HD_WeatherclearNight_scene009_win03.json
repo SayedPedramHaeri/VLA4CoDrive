@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene009_win03.json",
+  "title": "Night-time city driving with almost no speed, and a pedestrian crossing the street.",
+  "caption": "A car is driving slowly in a city at night, with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a car driving slowly in a city at night. There is a pedestrian crossing the street, and the car is almost stopped. The road is wet, and there are tall buildings in the background. The video also shows a red traffic light and a green street sign.",
+  "reasoning": "The car is driving slowly because it is in a city at night, and the pedestrian is crossing the street. The car is almost stopped because it is following the speed limit and being cautious of the pedestrian. The wet road could make it more difficult to brake, so the car is driving even slower. The red traffic light and the green street sign are visible in the video, and the car is following the traffic rules. Overall, the car is driving safely and cautiously in the city at night."
+}

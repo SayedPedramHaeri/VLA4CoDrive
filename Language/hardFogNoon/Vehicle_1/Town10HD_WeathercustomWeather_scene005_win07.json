@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 7,
+  "start_frame": 1380,
+  "end_frame": 1409,
+  "frames": [
+    1380,
+    1384,
+    1388,
+    1392,
+    1396,
+    1400,
+    1404,
+    1409
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene005_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene005_win07.json",
+  "title": "Moderate-speed city driving on a foggy day with no significant braking.",
+  "caption": "The ego vehicle drives straight on a foggy city street, with no nearby objects of interest.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is a straight, two-lane city street with a sidewalk on the right. There are no other vehicles or pedestrians visible in the video. The weather is foggy, and there are no traffic lights or stop signs in the frame. The road is wet, possibly from recent rain.",
+  "reasoning": "The ego vehicle maintains a moderate speed, staying within the speed limit for the area. It is keeping a safe distance from other vehicles, which are not visible in the frame. The driver is attentive and prepared to react to any potential risks, such as pedestrians crossing the street or other vehicles merging into the lane. The foggy weather conditions require extra caution and slower speeds to ensure safety."
+}

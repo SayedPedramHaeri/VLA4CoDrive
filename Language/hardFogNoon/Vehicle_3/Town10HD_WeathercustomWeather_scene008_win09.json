@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 9,
+  "start_frame": 2340,
+  "end_frame": 2369,
+  "frames": [
+    2340,
+    2344,
+    2348,
+    2352,
+    2356,
+    2360,
+    2364,
+    2369
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene008_win09.json",
+  "title": "CARLA simulation: almost stopped in clear weather",
+  "caption": "A red car drives in the left lane of a foggy city street, with a white and blue bus behind it.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a four-lane divided highway with a median strip. There are several other cars on the road, including a black car in the right lane and a white car in the left lane. The traffic light is red and the pedestrian crossing signal is green. The weather is foggy, with low visibility.",
+  "reasoning": "The red car is driving at a moderate speed, staying in the left lane. The white and blue bus is following the red car at a safe distance, in case the red car slows down or stops. The black car in the right lane is also driving at a moderate speed, maintaining a safe distance from the red car. The pedestrian crossing signal is green, indicating that it is safe for pedestrians to cross the street. The foggy weather reduces visibility, so the drivers need to be extra cautious and maintain a safe distance from other vehicles."
+}

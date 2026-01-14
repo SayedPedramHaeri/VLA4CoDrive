@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 5,
+  "start_frame": 1920,
+  "end_frame": 1949,
+  "frames": [
+    1920,
+    1924,
+    1928,
+    1932,
+    1936,
+    1940,
+    1944,
+    1949
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene007_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene007_win05.json",
+  "title": "Clear day in a city with moderate traffic and a few pedestrians.",
+  "caption": "A slow-moving car on a city street with a few pedestrians and parked cars.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 5.0 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with a few parked cars on the side. There are several pedestrians walking on the sidewalk. The weather is clear and sunny. The traffic is moderate with a few cars driving in the opposite direction.",
+  "reasoning": "The ego vehicle is driving slowly and carefully, following the traffic rules and maintaining a safe distance from other vehicles. It slows down when approaching intersections or pedestrian crossings. It changes lanes when necessary to avoid obstacles or to make a turn. The driver is cautious and attentive, constantly monitoring the surroundings for any potential risks."
+}

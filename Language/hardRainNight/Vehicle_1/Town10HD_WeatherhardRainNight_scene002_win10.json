@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 10,
+  "start_frame": 570,
+  "end_frame": 599,
+  "frames": [
+    570,
+    574,
+    578,
+    582,
+    586,
+    590,
+    594,
+    599
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene002_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene002_win10.json",
+  "title": "Rainy night city driving, almost stopped at intersection.",
+  "caption": "Rainy night city driving, almost stopped at intersection. Ego vehicle is a white car.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a white car driving on a rainy night in a city. The car is almost stopped at an intersection. There are other cars on the road, some of them are also stopped at the intersection. The road is wet and the visibility is low due to the rain. The traffic lights are visible in the background and they are showing red lights.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy weather conditions. The driver is being cautious and following the traffic rules. The car is approaching the intersection and is about to stop because the traffic light is showing red. The driver is also aware of the other vehicles on the road and is maintaining a safe distance from them. The rain is making the road slippery and the driver needs to be extra careful to avoid any accidents."
+}

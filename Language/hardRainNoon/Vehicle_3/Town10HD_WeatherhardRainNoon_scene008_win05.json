@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene008_win05.json",
+  "title": "Rainy city driving with multiple braking events.",
+  "caption": "A white bus drives down a rainy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 3.9 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The video shows a white bus driving down a rainy city street. The road is wet and there are several other vehicles on the road, including a red car and a parked truck. The traffic lights are visible in the distance and they are showing green. The weather is rainy and the visibility is moderate. The video shows multiple braking events or strong decelerations in this window.",
+  "reasoning": "The ego vehicle, a white bus, is driving down the rainy city street. It is moving slowly and carefully due to the wet road conditions. The bus is following the traffic rules and is braking or decelerating when necessary to avoid any accidents. The bus is also maintaining a safe distance from other vehicles on the road, including the red car and the parked truck. The bus is using its headlights and indicators to signal its intentions to other road users. The bus is also taking into account the traffic light signals and adjusting its speed accordingly. Overall, the bus is driving safely and responsibly in the rainy conditions."
+}

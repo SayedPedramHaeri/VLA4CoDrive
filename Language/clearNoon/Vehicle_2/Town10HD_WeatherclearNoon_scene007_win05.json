@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 5,
+  "start_frame": 1920,
+  "end_frame": 1949,
+  "frames": [
+    1920,
+    1924,
+    1928,
+    1932,
+    1936,
+    1940,
+    1944,
+    1949
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene007_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene007_win05.json",
+  "title": "clear, moderate-speed driving",
+  "caption": "{ \"title\": \"Clear noon, moderate-speed city driving with 9 braking events.\", \"caption\": \"The ego vehicle drives down a busy city street, following a blue car and changing lanes.\", \"description\": \"The road is a 4-lane city street with parked cars on the right side. There are several other cars on the road, including a blue car that the ego vehicle is following. The weather is clear and sunny, with tall buildings and palm trees lining the street. There are several traffic lights and a roundabout in the distance.\", \"reasoning\": \"The ego vehicle is driving at a moderate speed, following the blue car in front of it. It changes lanes to pass the blue car and avoids a parked truck on the right side of the road. The driver is cautious and brakes several times to avoid collisions with other vehicles or pedestrians. The weather is clear and sunny, which improves visibility and allows the driver to see far down the road. The tall buildings and palm trees suggest that the ego vehicle is driving in a city with a warm climate.\"",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.5 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "",
+  "reasoning": ""
+}

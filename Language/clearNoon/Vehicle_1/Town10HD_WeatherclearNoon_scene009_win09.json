@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 9,
+  "start_frame": 2640,
+  "end_frame": 2669,
+  "frames": [
+    2640,
+    2644,
+    2648,
+    2652,
+    2656,
+    2660,
+    2664,
+    2669
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene009_win09.json",
+  "title": "Clear noon, moderate-speed city driving with 14 braking events",
+  "caption": "A police car drives down a city street with a green traffic light.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 6.6 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving down a busy city street with tall buildings on both sides. There are several other cars on the road, including a red truck and a blue car. The traffic light is green, and there is a pedestrian crossing the street. The weather is clear and sunny, and the road is wet from recent rain.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is following the speed limit and there are several other cars on the road. The police car is driving down the street because it is responding to an emergency call. The ego vehicle slows down and brakes frequently due to the presence of pedestrians and other vehicles on the road. The green traffic light indicates that it is safe to continue driving, but the ego vehicle must remain vigilant and prepared to stop if necessary."
+}

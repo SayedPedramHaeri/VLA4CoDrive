@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 4,
+  "start_frame": 390,
+  "end_frame": 419,
+  "frames": [
+    390,
+    394,
+    398,
+    402,
+    406,
+    410,
+    414,
+    419
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win04.json",
+  "title": "Clear day in the city, with the ego vehicle driving slowly and braking frequently.",
+  "caption": "The ego vehicle is driving slowly on a foggy city street, with other cars and pedestrians around.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with two lanes, and the ego vehicle is driving in the right lane. There are several other cars on the road, some of them are moving faster than the ego vehicle. There are also a few pedestrians walking on the sidewalk. The weather is foggy, and the sun is shining brightly in the sky. There are several traffic lights and street signs along the road, and the ego vehicle is following the rules of the road.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy weather conditions, which can reduce visibility and make it harder to see other vehicles and pedestrians. The frequent braking events may be due to the need to slow down or stop for other cars or pedestrians, or because of the foggy conditions. The ego vehicle is also following the rules of the road, which require it to yield to other vehicles and pedestrians when necessary. Overall, the ego vehicle is driving safely and cautiously in the foggy city street."
+}

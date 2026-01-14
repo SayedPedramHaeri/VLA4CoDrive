@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 6,
+  "start_frame": 1050,
+  "end_frame": 1079,
+  "frames": [
+    1050,
+    1054,
+    1058,
+    1062,
+    1066,
+    1070,
+    1074,
+    1079
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene004_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene004_win06.json",
+  "title": "Foggy city street with slow-moving traffic and multiple braking events.",
+  "caption": "A white van drives slowly down a foggy city street, with a small white car in the left lane.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 0.9 m/s). There are 21 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a center divider. There are several other cars on the road, including a parked truck on the right side of the road. The traffic lights are visible in the distance, and the weather is foggy. The visibility is moderate, and the streetlights are on.",
+  "reasoning": "The white van is driving slowly because of the foggy conditions and the presence of other vehicles on the road. The van is maintaining a safe distance from the parked truck on the right side of the road. The multiple braking events in the driving metadata suggest that the traffic is congested and the vehicles are moving slowly. The foggy weather and the presence of other vehicles on the road require the driver to be cautious and attentive to avoid any accidents."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 6,
+  "start_frame": 1650,
+  "end_frame": 1679,
+  "frames": [
+    1650,
+    1654,
+    1658,
+    1662,
+    1666,
+    1670,
+    1674,
+    1679
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene006_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene006_win06.json",
+  "title": "Rainy city street with a blue car and a pedestrian crossing the street.",
+  "caption": "A blue car is driving down a rainy city street with a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars on the street. The blue car is driving slowly, and the pedestrian is crossing the street at a crosswalk. There is a traffic light visible in the distance.",
+  "reasoning": "The ego vehicle is driving slowly because of the rain and the presence of the pedestrian. The blue car is maintaining a safe distance from the pedestrian and other vehicles on the road. The ego vehicle is prepared to brake or change lanes if necessary to avoid any potential accidents."
+}

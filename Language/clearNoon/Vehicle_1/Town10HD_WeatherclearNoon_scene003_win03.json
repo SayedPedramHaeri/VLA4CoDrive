@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 3,
+  "start_frame": 660,
+  "end_frame": 689,
+  "frames": [
+    660,
+    664,
+    668,
+    672,
+    676,
+    680,
+    684,
+    689
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene003_win03.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "The ego vehicle is driving slowly in a busy city street with many other vehicles and pedestrians.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 4.7 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The road is a wide city street with multiple lanes and a green traffic light. There are parked cars on the side of the road and a large building in the background. The weather is clear and sunny, and there are several other cars and pedestrians visible in the scene.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the frequent braking events in the video. It is likely reacting to the presence of other vehicles and pedestrians in the area. The green traffic light suggests that the ego vehicle has the right of way and can continue driving. However, the parked cars on the side of the road may pose a potential risk for sudden opening of doors or merging traffic. The large building in the background could also be a potential obstacle if the ego vehicle needs to make a turn or change lanes."
+}

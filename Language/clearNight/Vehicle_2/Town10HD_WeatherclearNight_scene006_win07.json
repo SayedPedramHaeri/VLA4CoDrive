@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 7,
+  "start_frame": 1680,
+  "end_frame": 1709,
+  "frames": [
+    1680,
+    1684,
+    1688,
+    1692,
+    1696,
+    1700,
+    1704,
+    1709
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene006_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene006_win07.json",
+  "title": "Clear night, slow city driving with frequent braking.",
+  "caption": "A blue car drives slowly on a city street at night, with frequent braking.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is moving slowly (average speed ≈ 2.7 m/s). There are 14 braking events or strong decelerations in this window.",
+  "description": "The blue car is driving slowly on a city street at night. There are other cars on the road, including a parked truck on the right side of the street. The road is well-lit with streetlights and traffic lights. The weather is clear and visibility is good.",
+  "reasoning": "The ego vehicle is driving slowly because it is in a city environment with frequent braking events. The driver is likely being cautious due to the darkness and the presence of other vehicles on the road. The parked truck on the right side of the street may also be contributing to the driver's cautious driving behavior."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 1,
+  "start_frame": 300,
+  "end_frame": 329,
+  "frames": [
+    300,
+    304,
+    308,
+    312,
+    316,
+    320,
+    324,
+    329
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene002_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene002_win01.json",
+  "title": "Foggy city street driving with moderate braking",
+  "caption": "A blue car drives on a foggy city street, with moderate braking.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.3 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street. There are several other cars on the road, including a red truck and a white bus. The weather is foggy, and there are several traffic lights and stop signs along the road. The ego vehicle is a blue car that is almost stopped, with an average speed of 0.3 m/s. There are 25 braking events or strong decelerations in this window.",
+  "reasoning": "The blue car is driving on a foggy city street, and it is braking frequently, likely due to the low visibility and the presence of other vehicles on the road. The driver needs to be cautious and maintain a safe distance from the vehicles ahead to avoid collisions. The traffic lights and stop signs along the road provide guidance on when it is safe to proceed."
+}

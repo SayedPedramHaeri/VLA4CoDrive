@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 8,
+  "start_frame": 2010,
+  "end_frame": 2039,
+  "frames": [
+    2010,
+    2014,
+    2018,
+    2022,
+    2026,
+    2030,
+    2034,
+    2039
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene007_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene007_win08.json",
+  "title": "Clear noon, moderate-speed city driving with frequent braking.",
+  "caption": "The ego vehicle is driving on a busy city street with tall buildings on both sides. It is almost stopped and there are frequent braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with parked cars on the right side. There are several other cars driving in the same direction, including a blue car and a red car. The traffic light is green and there are pedestrians walking on the sidewalk. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and is almost stopped due to the frequent braking events. It is likely that the ego vehicle is reacting to the traffic flow and the presence of other vehicles on the road. The tall buildings on both sides of the street suggest that this is a busy urban area. The parked cars on the right side of the road may also be contributing to the congestion. The green traffic light indicates that the ego vehicle has the right of way and can continue driving. The pedestrians on the sidewalk are likely going about their daily activities. Overall, the ego vehicle is navigating a complex urban environment with multiple potential hazards."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 2,
+  "start_frame": 330,
+  "end_frame": 359,
+  "frames": [
+    330,
+    334,
+    338,
+    342,
+    346,
+    350,
+    354,
+    359
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win02.json",
+  "title": "Clear noon, moderate-speed city driving with 15 braking events.",
+  "caption": "Red car driving on a clear day with moderate speed and 15 braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 2.2 m/s). There are 15 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a clear day with moderate speed. There are several other cars on the road, including a parked truck on the left side of the road. The road is wet, and there are several traffic lights and stop signs along the way. The weather is clear, and the sun is shining brightly.",
+  "reasoning": "The red car is driving at a moderate speed because it is in a city environment with other cars on the road. The driver is being cautious and braking frequently due to the wet road conditions and the presence of several traffic lights and stop signs. The driver is also paying attention to the parked truck on the left side of the road to avoid any potential hazards."
+}

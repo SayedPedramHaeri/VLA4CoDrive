@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 9,
+  "start_frame": 1440,
+  "end_frame": 1469,
+  "frames": [
+    1440,
+    1444,
+    1448,
+    1452,
+    1456,
+    1460,
+    1464,
+    1469
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene005_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene005_win09.json",
+  "title": "Rainy city street driving at moderate speed.",
+  "caption": "The ego vehicle is driving on a rainy city street at moderate speed, with a red car parked on the side of the road and a blue car driving in the opposite direction.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is wet from the rain, and there are several parked cars on the side of the road. The traffic light is red, and there is a pedestrian crossing the street. The weather is rainy, and the visibility is moderate.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain control on the wet road. It is keeping a safe distance from the parked cars and the pedestrian crossing the street. The red traffic light indicates that the ego vehicle should stop, and the blue car driving in the opposite direction is also an important consideration for safe driving."
+}

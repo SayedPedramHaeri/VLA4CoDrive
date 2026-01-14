@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 9,
+  "start_frame": 2640,
+  "end_frame": 2669,
+  "frames": [
+    2640,
+    2644,
+    2648,
+    2652,
+    2656,
+    2660,
+    2664,
+    2669
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win09.json",
+  "title": "Clear day in the city, slow-speed driving with multiple braking events.",
+  "caption": "A white bus follows a red car on a foggy city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 4.0 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with tall buildings on both sides. There are several other cars on the road, including a parked truck on the right side. The traffic light is red, and there is a pedestrian crossing the street. The weather is clear, but there is fog in the distance.",
+  "reasoning": "The ego vehicle is driving slowly because of the fog and the presence of other vehicles on the road. It is maintaining a safe distance from the red car in front of it, and it is prepared to brake if necessary. The presence of the pedestrian and the red traffic light suggest that the ego vehicle should be cautious and attentive to its surroundings."
+}

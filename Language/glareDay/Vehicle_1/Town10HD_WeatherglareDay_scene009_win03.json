@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win03.json",
+  "title": "Clear noon, moderate-speed city driving with a focus on pedestrian safety.",
+  "caption": "A car drives down a city street with a pedestrian crossing in the distance.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on both sides. There are several cars and a motorcycle driving in the opposite direction. The weather is clear and sunny, with no visible obstacles or traffic congestion.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the flow of traffic. As it approaches the pedestrian crossing, it slows down and prepares to stop, ensuring the safety of potential pedestrians. The presence of tall buildings suggests that the vehicle should be cautious of pedestrians and other vehicles entering and exiting the buildings. The clear weather conditions allow for good visibility, which is essential for safe driving in the city."
+}

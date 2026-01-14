@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene001_win04.json",
+  "title": "Foggy city street with multiple braking events.",
+  "caption": "A foggy city street with a blue bicycle crossing the intersection.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with a blue bicycle crossing the intersection. The road is wet and there are multiple braking events or strong decelerations in this window. The ego vehicle is moving slowly and there are other cars on the road. The traffic light is red and there is a tall building in the background.",
+  "reasoning": "The foggy weather and multiple braking events suggest that the drivers are being cautious and driving at a slower speed. The blue bicycle crossing the intersection is an important nearby object that the drivers need to be aware of. The red traffic light indicates that the drivers need to stop, and the tall building in the background adds to the urban environment. The slow movement of the ego vehicle suggests that the drivers are being careful and attentive to their surroundings."
+}

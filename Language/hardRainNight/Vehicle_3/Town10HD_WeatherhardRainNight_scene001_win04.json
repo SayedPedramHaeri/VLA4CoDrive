@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win04.json",
+  "title": "Rainy night in a city with tall buildings. The ego vehicle is driving slowly and stopping at a red light.",
+  "caption": "A rainy night in a city with tall buildings. The ego vehicle is driving slowly and stopping at a red light.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The video shows a rainy night in a city with tall buildings. The road is wet and the visibility is low. The ego vehicle is driving slowly and stopping at a red light. There are other cars on the road, some of them are also stopping at the red light. The traffic light is red and the pedestrian crossing is closed. The rain is falling heavily and the street lights are on.",
+  "reasoning": "The ego vehicle is driving slowly because of the rainy weather conditions. The driver is being cautious and following the traffic rules. The red light indicates that the ego vehicle must stop and wait for the light to turn green. The driver is also aware of the pedestrian crossing and the closed crossing sign. The rainy weather conditions may affect the visibility and the braking distance, so the driver is maintaining a safe distance from other vehicles on the road."
+}

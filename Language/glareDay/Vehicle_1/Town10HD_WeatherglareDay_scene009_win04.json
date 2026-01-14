@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 4,
+  "start_frame": 2490,
+  "end_frame": 2519,
+  "frames": [
+    2490,
+    2494,
+    2498,
+    2502,
+    2506,
+    2510,
+    2514,
+    2519
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene009_win04.json",
+  "title": "Clear day in a city, with the ego vehicle almost stopped at an intersection.",
+  "caption": "A car is stopped at a red light on a city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with multiple lanes and parked cars on the side. There are several cars and a truck moving in the opposite direction. The traffic light is red and the pedestrian crossing is empty. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is almost stopped at the red light, waiting for the signal to turn green. It is important for the vehicle to maintain a safe distance from the car in front to avoid any potential collisions. The presence of parked cars and other moving vehicles requires the driver to be attentive and prepared to react to any sudden changes in the traffic situation."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 7,
+  "start_frame": 480,
+  "end_frame": 509,
+  "frames": [
+    480,
+    484,
+    488,
+    492,
+    496,
+    500,
+    504,
+    509
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene002_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene002_win07.json",
+  "title": "Moderate-speed city driving on a clear day, with 13 braking events or strong decelerations.",
+  "caption": "The ego vehicle drives down a busy city street, following a white car and changing lanes.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 6.8 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The road is a wide, straight city street with a green traffic light on the left side. There are several other cars on the road, including a white car that the ego vehicle is following. There is also a parked truck on the right side of the road. The weather is clear and sunny, with no visible obstacles or pedestrians.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the white car ahead. It changes lanes to pass the parked truck on the right side of the road. The driver is cautious and brakes several times to avoid collisions with other vehicles or pedestrians. The green traffic light on the left side of the road signals that it is safe to proceed."
+}

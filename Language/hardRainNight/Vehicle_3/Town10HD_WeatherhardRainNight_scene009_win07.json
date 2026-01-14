@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 7,
+  "start_frame": 2580,
+  "end_frame": 2609,
+  "frames": [
+    2580,
+    2584,
+    2588,
+    2592,
+    2596,
+    2600,
+    2604,
+    2609
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene009_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene009_win07.json",
+  "title": "Rainy night city driving with a red car and a bus on the road.",
+  "caption": "A red car drives on a rainy city street next to a bus.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is moving slowly (average speed ≈ 0.9 m/s). There are 19 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a rainy city street next to a bus. The road is wet and visibility is low. There are several other cars on the road, some of them are parked on the side of the road. The traffic lights are visible in the distance and they are showing green lights. The weather is rainy and the rain is falling heavily.",
+  "reasoning": "The ego vehicle is driving slowly on a rainy city street. The driver is being cautious because of the low visibility and the wet road. The driver is following the red car in front of them and maintaining a safe distance. The driver is also paying attention to the traffic lights and the pedestrians on the sidewalk. The ego vehicle is braking frequently to avoid collisions with other vehicles or obstacles on the road. The driver is using the windshield wipers to clear the rain from the windshield and improve visibility. The driver is also using the headlights to illuminate the road ahead and make the vehicle more visible to other drivers on the road."
+}

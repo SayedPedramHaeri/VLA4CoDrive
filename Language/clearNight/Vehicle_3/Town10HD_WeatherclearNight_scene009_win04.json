@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 4,
+  "start_frame": 2490,
+  "end_frame": 2519,
+  "frames": [
+    2490,
+    2494,
+    2498,
+    2502,
+    2506,
+    2510,
+    2514,
+    2519
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene009_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene009_win04.json",
+  "title": "Night city driving, almost stopped at intersection",
+  "caption": "Red car driving on a city street at night, almost stopped at an intersection.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a city street at night. It is almost stopped at an intersection. There are other cars on the road, and a traffic light is visible in the distance. The road is wet, and the visibility is good.",
+  "reasoning": "The red car is driving at a very slow speed, almost stopped, because it is approaching an intersection. The driver is being cautious and following the traffic rules. The car is braking frequently, possibly due to the wet road conditions. The driver needs to be extra careful at night to avoid any accidents. The traffic light in the distance is green, indicating that the car can proceed. However, the driver should still be vigilant and watch out for any pedestrians or other vehicles that may cross the intersection."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 1,
+  "start_frame": 900,
+  "end_frame": 929,
+  "frames": [
+    900,
+    904,
+    908,
+    912,
+    916,
+    920,
+    924,
+    929
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene004_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene004_win01.json",
+  "title": "Nighttime city driving with almost no speed, many braking events",
+  "caption": "A small car drives slowly on a dark city street at night, with many other cars and pedestrians around.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is dark and wet, with a few parked cars and a truck on the side. There are several traffic lights and a roundabout in the distance. The pedestrians are walking on the sidewalk, and some are crossing the street. The weather is clear, but it's nighttime, so the visibility is low.",
+  "reasoning": "The ego vehicle is driving slowly and carefully because of the low visibility and the presence of many other vehicles and pedestrians. It brakes frequently to avoid collisions and to give way to other road users. The vehicle's sensors detect the distance and speed of the nearby cars and pedestrians, and the driver adjusts the speed and braking accordingly. The roundabout and the traffic lights in the distance are also visible, and the driver follows the traffic rules and signals to ensure safe navigation through the city streets."
+}

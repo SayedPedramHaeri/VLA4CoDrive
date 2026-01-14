@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 1,
+  "start_frame": 1200,
+  "end_frame": 1229,
+  "frames": [
+    1200,
+    1204,
+    1208,
+    1212,
+    1216,
+    1220,
+    1224,
+    1229
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene005_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene005_win01.json",
+  "title": "Clear night city driving, moderate speed, braking at intersection",
+  "caption": "The ego vehicle is driving on a city street at moderate speed, braking at an intersection.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 6.9 m/s). There are 1 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with parked cars on the right side. There are several other cars driving on the street, and a few pedestrians walking on the sidewalk. The traffic lights are visible at the intersection, and they are showing green lights. The weather is clear and the visibility is good.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a city environment with many other cars and pedestrians. It brakes at the intersection because there is a need to stop and give way to other vehicles. The ego vehicle is cautious and follows traffic rules to ensure safety. The clear night weather provides good visibility, but the driver must remain vigilant for any potential risks."
+}

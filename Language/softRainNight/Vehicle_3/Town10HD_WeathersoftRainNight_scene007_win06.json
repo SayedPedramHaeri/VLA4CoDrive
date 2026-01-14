@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 6,
+  "start_frame": 1950,
+  "end_frame": 1979,
+  "frames": [
+    1950,
+    1954,
+    1958,
+    1962,
+    1966,
+    1970,
+    1974,
+    1979
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene007_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene007_win06.json",
+  "title": "Rainy night city driving with moderate speed and 12 braking events.",
+  "caption": "A red sports car drives down a rainy city street at moderate speed, with other cars and pedestrians visible.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.1 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and the visibility is moderate. The ego vehicle is driving down a city street with other cars and pedestrians visible. There are several traffic lights and street signs visible along the road. The weather is rainy, and the lighting is dim due to the nighttime setting.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain safety in the rainy conditions. It slows down or brakes when approaching intersections or pedestrians, and it changes lanes cautiously to avoid collisions. The driver is vigilant and attentive to the surroundings, adjusting the speed and direction according to the traffic and weather conditions."
+}

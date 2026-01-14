@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene009_win03.json",
+  "title": "Foggy city street with almost stopped traffic and pedestrians at crosswalk",
+  "caption": "A foggy city street with the ego vehicle almost stopped and a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with the ego vehicle almost stopped. There are several other cars on the road, and a pedestrian is crossing the street at a crosswalk. The traffic lights are visible in the background, and the road is wet. The video captures the foggy weather and the slow-moving traffic, creating a sense of calmness.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy weather, which reduces visibility. The driver is being cautious and following the traffic rules, stopping at the crosswalk to let the pedestrian pass. The braking events in the driving metadata indicate that the driver is applying the brakes frequently to maintain a safe distance from the other vehicles on the road. The driver's cautious driving behavior reduces the risk of accidents in these challenging conditions."
+}

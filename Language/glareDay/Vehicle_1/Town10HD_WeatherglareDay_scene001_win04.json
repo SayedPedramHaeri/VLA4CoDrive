@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 4,
+  "start_frame": 90,
+  "end_frame": 119,
+  "frames": [
+    90,
+    94,
+    98,
+    102,
+    106,
+    110,
+    114,
+    119
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win04.json",
+  "title": "Clear day in a city with moderate traffic and a parked truck on the right side of the road.",
+  "caption": "A white bus drives down a city street with a car following it.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a speed limit of 30 km/h. There are several other cars on the road, including a white car and a black car. The weather is clear and sunny, with no visible traffic lights or pedestrians. The parked truck is on the right side of the road, and there is a tall building in the background.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and following the white bus at a safe distance. The driver is paying attention to the parked truck and the tall building in the background, but there are no immediate risks or obstacles on the road. The braking events in the driving metadata suggest that the traffic ahead may be slowing down or stopping, so the driver is prepared to brake or change lanes as needed."
+}

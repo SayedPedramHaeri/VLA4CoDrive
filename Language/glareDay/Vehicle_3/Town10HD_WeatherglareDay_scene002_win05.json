@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 5,
+  "start_frame": 420,
+  "end_frame": 449,
+  "frames": [
+    420,
+    424,
+    428,
+    432,
+    436,
+    440,
+    444,
+    449
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene002_win05.json",
+  "title": "Clear day in a city with tall buildings. The ego vehicle is driving slowly and stopping frequently.",
+  "caption": "The ego vehicle is driving slowly in a city with tall buildings. It stops at a red light and then continues driving.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 4.4 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with tall buildings on both sides. There are several other cars driving on the road, and a white bus is parked on the right side of the road. The traffic light is red, and the ego vehicle stops at the intersection. After the light turns green, the ego vehicle continues driving.",
+  "reasoning": "The ego vehicle is driving slowly because of the glare from the sun. It stops at the red light to ensure safety and then continues driving. The presence of other cars and the parked bus require the ego vehicle to be cautious while driving."
+}

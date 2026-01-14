@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 3,
+  "start_frame": 60,
+  "end_frame": 89,
+  "frames": [
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    89
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNight_scene001_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNight_scene001_win03.json",
+  "title": "Moderate-speed city driving at night with clear skies.",
+  "caption": "A person rides a bike across an intersection in a city at night.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 5.3 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The video shows a person riding a bike across an intersection in a city at night. The road is wet, and there are several cars and trucks on the road. The traffic lights are visible in the background, and the streetlights illuminate the scene. The video captures the bike rider crossing the intersection safely.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, and the rider of the bike is following the traffic rules by crossing the intersection safely. The video shows the importance of following traffic rules and being cautious while driving at night. The presence of multiple vehicles on the road highlights the need for safe driving practices to avoid accidents."
+}

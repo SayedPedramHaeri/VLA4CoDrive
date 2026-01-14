@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene002_win03.json",
+  "title": "Moderate-speed city driving on a foggy day with 3 braking events.",
+  "caption": "The ego vehicle drives straight through a foggy intersection with a green traffic light.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is driving at a moderate speed (average speed ≈ 5.0 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The road is a straight city street with 3 lanes in each direction. There are several other cars driving at moderate speed, and a parked truck on the right side of the road. The traffic light is green, and there is a pedestrian crossing the street on the left side of the road. The weather is foggy, and visibility is moderate.",
+  "reasoning": "The ego vehicle is driving straight through the intersection because the traffic light is green and there are no obstacles or pedestrians in its path. It slows down and brakes gently before crossing the intersection, and then accelerates back to its moderate speed. The foggy weather reduces visibility, but the ego vehicle's sensors detect the presence of other cars and the pedestrian, allowing it to navigate safely through the intersection."
+}

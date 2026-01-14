@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 2,
+  "start_frame": 2430,
+  "end_frame": 2459,
+  "frames": [
+    2430,
+    2434,
+    2438,
+    2442,
+    2446,
+    2450,
+    2454,
+    2459
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene009_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene009_win02.json",
+  "title": "Foggy city street with almost stopped traffic and pedestrians at crosswalk.",
+  "caption": "A foggy city street with the ego vehicle almost stopped and a pedestrian crossing the street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a foggy city street with the ego vehicle almost stopped. There are several other cars on the road, some of which are also braking. A pedestrian is crossing the street at a crosswalk. The road is wet, and there are traffic lights and street signs visible.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy conditions and the presence of pedestrians at the crosswalk. It is maintaining a safe distance from the other cars on the road and adjusting its speed according to the traffic situation. The driver is paying close attention to the pedestrian and the traffic lights to ensure safe navigation through the intersection."
+}

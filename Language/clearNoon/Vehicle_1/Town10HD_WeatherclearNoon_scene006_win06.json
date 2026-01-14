@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 6,
+  "start_frame": 1650,
+  "end_frame": 1679,
+  "frames": [
+    1650,
+    1654,
+    1658,
+    1662,
+    1666,
+    1670,
+    1674,
+    1679
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win06.json",
+  "title": "Clear noon, moderate-speed city driving with a blue car in the right lane.",
+  "caption": "A person is driving a car on a city street with a blue car in the right lane.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The road is a city street with two lanes in each direction. There are several other cars on the road, including a blue car in the right lane. The weather is clear and sunny. There are no pedestrians or obstacles visible in the video.",
+  "reasoning": "The ego vehicle is driving at a moderate speed and staying in the left lane. It slows down as it approaches the intersection and prepares to turn right. The blue car in the right lane is maintaining a safe distance from the ego vehicle. The ego vehicle's braking events are likely due to traffic ahead or changing traffic signals."
+}

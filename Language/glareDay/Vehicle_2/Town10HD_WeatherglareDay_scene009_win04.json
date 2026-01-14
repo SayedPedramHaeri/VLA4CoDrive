@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 4,
+  "start_frame": 2490,
+  "end_frame": 2519,
+  "frames": [
+    2490,
+    2494,
+    2498,
+    2502,
+    2506,
+    2510,
+    2514,
+    2519
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene009_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene009_win04.json",
+  "title": "Clear day in a city, with the ego vehicle driving slowly and stopping frequently due to heavy traffic.",
+  "caption": "A slow-motion city driving scene with the ego vehicle stopping and starting.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a city street with moderate traffic. The ego vehicle is driving slowly and stopping frequently. There are several other cars on the road, including a parked truck on the right side of the road. The weather is clear, and there are tall buildings in the background. The road is wet, and there are several traffic lights and stop signs along the way.",
+  "reasoning": "The ego vehicle is driving slowly and stopping frequently due to the heavy traffic on the road. The driver is being cautious and following the traffic rules, which is why the vehicle is stopping at every stop sign and traffic light. The parked truck on the right side of the road is blocking one lane, which is causing the traffic to slow down. The driver is also being careful because of the wet road, which could be slippery. Overall, the driver is prioritizing safety and following the traffic rules to avoid any accidents."
+}

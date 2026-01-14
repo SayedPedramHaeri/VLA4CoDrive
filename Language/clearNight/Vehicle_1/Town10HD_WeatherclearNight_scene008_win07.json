@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene008_win07.json",
+  "title": "Night city driving with police car in pursuit",
+  "caption": "Police car follows a black car on a city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The scene shows a city street at night with a police car following a black car. There are other cars parked on the side of the road and a few cars driving on the street. The road is well-lit with streetlights and traffic lights. The weather is clear and visibility is good.",
+  "reasoning": "The police car is likely following the black car because it may have committed a traffic violation or it could be part of a larger investigation. The police car is maintaining a safe distance from the black car and is prepared to react if the driver tries to escape. The other cars on the road are also following traffic rules and are not causing any obstructions."
+}

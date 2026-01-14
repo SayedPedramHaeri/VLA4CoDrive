@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 1,
+  "start_frame": 2100,
+  "end_frame": 2129,
+  "frames": [
+    2100,
+    2104,
+    2108,
+    2112,
+    2116,
+    2120,
+    2124,
+    2129
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene008_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene008_win01.json",
+  "title": "Clear Noon, moderate-speed city driving with frequent braking.",
+  "caption": "A blue car drives down a busy city street with tall buildings on either side, while a white bus follows behind.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a busy city street with tall buildings on either side. The traffic is moderate, with several cars and a bus driving down the street. The weather is clear and sunny, with no visible obstacles or pedestrians. There are several traffic lights and stop signs visible along the road, and the ego vehicle is driving at a moderate speed.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because the traffic is moderate and there are no visible obstacles or pedestrians. The frequent braking events suggest that the traffic ahead is stopping or slowing down, and the ego vehicle is adjusting its speed accordingly. The white bus following behind may be an indication of a public transportation system in the city. The tall buildings on either side of the road suggest that this is a commercial or downtown area of the city."
+}

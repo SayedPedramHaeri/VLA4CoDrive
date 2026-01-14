@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 3,
+  "start_frame": 2160,
+  "end_frame": 2189,
+  "frames": [
+    2160,
+    2164,
+    2168,
+    2172,
+    2176,
+    2180,
+    2184,
+    2189
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene008_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene008_win03.json",
+  "title": "Rainy night city driving with a red sports car and a bus",
+  "caption": "A red sports car drives slowly on a rainy night in a city street with a bus in the background.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is moving slowly (average speed ≈ 0.8 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and the visibility is low. The red sports car is driving slowly, following a bus in the distance. There are other cars on the road, and a few pedestrians can be seen on the sidewalk. The traffic lights are visible in the background, and some of them are red.",
+  "reasoning": "The ego vehicle is driving slowly because of the rain and low visibility. The driver is being cautious and maintaining a safe distance from the bus in front. The red traffic lights indicate that the driver should stop or slow down. The parked cars on the side of the road and the pedestrians on the sidewalk are also visible, and the driver needs to be aware of their presence to avoid any accidents."
+}

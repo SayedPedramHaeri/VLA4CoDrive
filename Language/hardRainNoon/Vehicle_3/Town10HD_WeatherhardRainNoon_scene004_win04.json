@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 4,
+  "start_frame": 990,
+  "end_frame": 1019,
+  "frames": [
+    990,
+    994,
+    998,
+    1002,
+    1006,
+    1010,
+    1014,
+    1019
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene004_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNoon_scene004_win04.json",
+  "title": "Rainy city driving, almost stopped at intersection",
+  "caption": "Red car driving in the rain on a city street, stopping at an intersection.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The video shows a red car driving on a rainy city street. The car is almost stopped at an intersection, with other cars and pedestrians visible in the surroundings. The weather is rainy, and the visibility is moderate. There are several traffic lights and stop signs visible in the scene, and the road is wet from the rain.",
+  "reasoning": "The ego vehicle is driving slowly in the rain, and it comes to a stop at an intersection. The driver is cautious and pays attention to the traffic lights and stop signs to ensure safe navigation. The rainy weather and wet road surface require the driver to maintain a safe distance from other vehicles and pedestrians to avoid any accidents. The multiple braking events in the driving metadata indicate that the driver is being extra cautious in these conditions."
+}

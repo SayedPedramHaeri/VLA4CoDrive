@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0003",
+  "window_id": 9,
+  "start_frame": 840,
+  "end_frame": 869,
+  "frames": [
+    840,
+    844,
+    848,
+    852,
+    856,
+    860,
+    864,
+    869
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene003_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene003_win09.json",
+  "title": "Clear day in a city, with the ego vehicle almost stopped and 30 braking events in this window.",
+  "caption": "A white car drives on a foggy city street, with a red truck parked on the side.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with a speed limit of 30 mph. There are several cars and a red truck parked on the side of the road. The traffic light is red, and there is a crosswalk in the distance. The weather is foggy, and the visibility is low.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy weather and the presence of parked cars on the side of the road. It is approaching a red traffic light, and the driver is likely to stop. The red truck parked on the side of the road could be a potential obstacle for the ego vehicle, and the driver needs to be cautious while passing it."
+}

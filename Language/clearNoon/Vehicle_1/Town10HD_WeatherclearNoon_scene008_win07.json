@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 7,
+  "start_frame": 2280,
+  "end_frame": 2309,
+  "frames": [
+    2280,
+    2284,
+    2288,
+    2292,
+    2296,
+    2300,
+    2304,
+    2309
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene008_win07.json",
+  "title": "Clear noon, moderate-speed city driving with police car.",
+  "caption": "A police car drives down a busy city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving down a busy city street with a police car behind it. There are tall buildings on both sides of the street, and the road is wet. The traffic is moderate, with several cars and a truck on the road. There are also pedestrians walking on the sidewalks and crossing the streets.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the flow of traffic. The police car behind it suggests that the driver may have been pulled over or is following the ego vehicle for some reason. The wet road and the presence of pedestrians require the driver to be cautious and attentive to avoid any accidents. The tall buildings on both sides of the street suggest that the driver is in a downtown area, where the traffic can be more congested and unpredictable."
+}

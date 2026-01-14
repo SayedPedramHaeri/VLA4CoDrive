@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene002_win03.json",
+  "title": "Rainy city driving with moderate speed and frequent braking.",
+  "caption": "A red car drives through a rainy intersection in a large city.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.0 m/s). There are 3 braking events or strong decelerations in this window.",
+  "description": "The video shows a red car driving through a rainy intersection in a large city. The road is wet and visibility is reduced due to the rain. There are several other cars on the road, including a white bus and a black SUV. The traffic lights are visible in the background and are displaying green and yellow signals. The video also shows a tall building in the distance and a white van parked on the side of the road.",
+  "reasoning": "The ego vehicle is driving at a moderate speed due to the rainy conditions, which can affect visibility and road traction. The frequent braking events indicate that the driver is being cautious and maintaining a safe distance from other vehicles on the road. The presence of the white bus and black SUV suggests that the driver is navigating through a busy intersection, where they need to be attentive to the movements of other vehicles and pedestrians. Overall, the video captures the challenges of driving in a large city during rainy weather, and highlights the importance of maintaining a safe speed and being aware of the surroundings."
+}

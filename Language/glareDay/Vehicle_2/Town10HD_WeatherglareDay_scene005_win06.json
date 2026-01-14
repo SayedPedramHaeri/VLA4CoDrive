@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 6,
+  "start_frame": 1350,
+  "end_frame": 1379,
+  "frames": [
+    1350,
+    1354,
+    1358,
+    1362,
+    1366,
+    1370,
+    1374,
+    1379
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene005_win06.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene005_win06.json",
+  "title": "Clear day, slow city driving with 24 braking events.",
+  "caption": "The ego vehicle is driving slowly in a city street with 24 braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 1.3 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a city street with 24 braking events. The road is straight and there are no nearby objects. The weather is clear and the visibility is good. There are no traffic lights or stop signs in the scene.",
+  "reasoning": "The ego vehicle is driving slowly because it is in a city street with 24 braking events. It is likely that the vehicle is approaching an intersection or a stop sign. The driver is being cautious and braking frequently to avoid any potential accidents. The clear weather and good visibility allow the driver to see the road clearly and react to any obstacles or pedestrians in time."
+}

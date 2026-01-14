@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 9,
+  "start_frame": 1440,
+  "end_frame": 1469,
+  "frames": [
+    1440,
+    1444,
+    1448,
+    1452,
+    1456,
+    1460,
+    1464,
+    1469
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win09.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene005_win09.json",
+  "title": "Clear noon, moderate-speed city driving with a parked truck on the right.",
+  "caption": "The ego vehicle drives down a city street with a parked truck on the right.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The ego vehicle is driving down a city street with a parked truck on the right. There are several other cars on the road, including a red car in the distance and a black car to the left. The road is wet, possibly from recent rain. There are traffic lights and street signs visible, including a red stop light and a green street sign.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, maintaining a safe distance from the parked truck on the right. It is prepared to slow down or stop if necessary, as indicated by the red stop light. The driver is also keeping an eye on the other cars on the road, including the red car in the distance, which could potentially merge into the ego vehicle's lane. Overall, the driver is focused on maintaining a safe and smooth journey through the city."
+}

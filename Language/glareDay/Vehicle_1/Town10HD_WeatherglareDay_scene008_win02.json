@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 2,
+  "start_frame": 2130,
+  "end_frame": 2159,
+  "frames": [
+    2130,
+    2134,
+    2138,
+    2142,
+    2146,
+    2150,
+    2154,
+    2159
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene008_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene008_win02.json",
+  "title": "Clear day in the city, slow-speed driving with frequent braking.",
+  "caption": "A white van drives down a city street with a glare from the sun.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 0.7 m/s). There are 22 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street with two lanes. There are several cars and a parked truck on the side of the road. The traffic light is red and there is a pedestrian crossing the street. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the glare from the sun. It slows down and brakes frequently to avoid any potential accidents. The presence of other vehicles and pedestrians on the road requires the driver to remain vigilant and maintain a safe distance from them."
+}

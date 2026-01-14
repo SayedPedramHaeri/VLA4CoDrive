@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 10,
+  "start_frame": 1170,
+  "end_frame": 1199,
+  "frames": [
+    1170,
+    1174,
+    1178,
+    1182,
+    1186,
+    1190,
+    1194,
+    1199
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene004_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene004_win10.json",
+  "title": "Moderate-speed city driving on a clear day with 7 braking events.",
+  "caption": "The ego vehicle drives straight on a city street with moderate traffic and 7 braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). There are 7 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving straight on a city street with moderate traffic. There are several parked cars on the side of the road, and a red truck is visible in the distance. The weather is clear, and the sky is blue. There are several traffic lights along the road, some of which are red.",
+  "reasoning": "The ego vehicle is driving straight on the city street because it is following the traffic rules and maintaining a safe distance from other vehicles. The driver is cautious and brakes when necessary, as evidenced by the 7 braking events in the driving metadata. The driver also pays attention to the traffic lights and stops when required. The parked red truck in the distance is not a threat, but the driver must remain vigilant and prepared to react to any unexpected situations."
+}

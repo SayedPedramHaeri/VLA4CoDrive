@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 7,
+  "start_frame": 180,
+  "end_frame": 209,
+  "frames": [
+    180,
+    184,
+    188,
+    192,
+    196,
+    200,
+    204,
+    209
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win07.json",
+  "title": "Clear noon, moderate-speed city driving with a bus and a car.",
+  "caption": "A white bus and a red car drive down a city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a bus and a car driving down it. The weather is clear and sunny. There are no pedestrians or obstacles visible in the video.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, following the white bus in front of it. It slows down and brakes frequently, possibly due to the presence of the bus and the car in the adjacent lane. The ego vehicle maintains a safe distance from the other vehicles and is prepared to react to any sudden changes in their movement."
+}

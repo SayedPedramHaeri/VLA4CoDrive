@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 1,
+  "start_frame": 2400,
+  "end_frame": 2429,
+  "frames": [
+    2400,
+    2404,
+    2408,
+    2412,
+    2416,
+    2420,
+    2424,
+    2429
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathercustomWeather_scene009_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathercustomWeather_scene009_win01.json",
+  "title": "CARLA simulation: almost stopped in clear weather",
+  "caption": "A red car drives in front of a bus on a foggy city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving in front of a bus on a foggy city street. The road is wet and there are no other vehicles or pedestrians visible. The traffic light is red and the road is curved.",
+  "reasoning": "The ego vehicle is almost stopped because it is following the red car in front of it. The driver is being cautious due to the foggy weather conditions and the wet road surface. The driver is also paying attention to the traffic light, which is currently red, and the road markings, which indicate that the road is curved ahead. The driver is maintaining a safe distance from the car in front to avoid any potential collisions."
+}

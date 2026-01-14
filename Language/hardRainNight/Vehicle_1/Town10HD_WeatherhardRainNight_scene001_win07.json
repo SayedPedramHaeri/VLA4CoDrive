@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 7,
+  "start_frame": 180,
+  "end_frame": 209,
+  "frames": [
+    180,
+    184,
+    188,
+    192,
+    196,
+    200,
+    204,
+    209
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene001_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene001_win07.json",
+  "title": "Rainy night city driving with a bus and cars on the road.",
+  "caption": "A white bus drives down a rainy city street at night.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain. The white bus is driving down the street with cars behind it. There is a red car parked on the side of the road. The traffic lights are green.",
+  "reasoning": "The ego vehicle is driving slowly because of the rain and the presence of other vehicles on the road. It is maintaining a safe distance from the bus and other cars. The driver is paying attention to the traffic lights and adjusting their speed accordingly."
+}

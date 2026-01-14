@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 3,
+  "start_frame": 360,
+  "end_frame": 389,
+  "frames": [
+    360,
+    364,
+    368,
+    372,
+    376,
+    380,
+    384,
+    389
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene002_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene002_win03.json",
+  "title": "Clear noon, moderate-speed city driving with 10 braking events.",
+  "caption": "Red car driving on a city street with tall buildings and palm trees.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.5 m/s). There are 10 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a city street with tall buildings and palm trees. There are several other cars on the road, including a parked truck on the right side of the street. The traffic light is green, and there is a pedestrian crossing the street. The road is wet, and the weather is clear.",
+  "reasoning": "The red car is driving at a moderate speed, following the flow of traffic. It slows down and brakes frequently, likely in response to the presence of other vehicles and pedestrians. The driver is cautious and attentive, ensuring a safe driving experience. The tall buildings and palm trees suggest that the location is in a warm climate, possibly in a city like Miami or Los Angeles."
+}

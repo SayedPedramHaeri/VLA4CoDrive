@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 1,
+  "start_frame": 1500,
+  "end_frame": 1529,
+  "frames": [
+    1500,
+    1504,
+    1508,
+    1512,
+    1516,
+    1520,
+    1524,
+    1529
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win01.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene006_win01.json",
+  "title": "Clear noon, moderate-speed city driving with a large bridge in the background.",
+  "caption": "The ego vehicle drives down a city street with a large bridge in the background.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The ego vehicle is driving down a city street with a large bridge in the background. There are several other cars on the road, including a red truck and a white car. The road is wet, and there is a traffic light on the corner. The weather is clear and sunny.",
+  "reasoning": "The ego vehicle is driving at a moderate speed, maintaining a safe distance from the other cars on the road. It is approaching a traffic light, and the driver is prepared to stop or turn depending on the light's color. The large bridge in the background adds to the urban landscape of the city."
+}

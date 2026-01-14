@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 7,
+  "start_frame": 180,
+  "end_frame": 209,
+  "frames": [
+    180,
+    184,
+    188,
+    192,
+    196,
+    200,
+    204,
+    209
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherhardRainNight_scene001_win07.json",
+  "title": "Rainy night driving in a city with tall buildings and palm trees. The red car is driving slowly and stopping frequently due to heavy traffic.",
+  "caption": "A red car driving slowly in a rainy city at night.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is wet and slippery due to the rain. The city has tall buildings and palm trees on the side of the road. There are other cars on the road, some of them are stopping and changing lanes. The traffic lights are visible in the distance.",
+  "reasoning": "The ego vehicle is driving slowly and stopping frequently because of the heavy traffic and the rainy weather conditions. The driver needs to be cautious and maintain a safe distance from other vehicles to avoid collisions. The red car is following the car in front of it and braking when necessary. The driver is also paying attention to the traffic lights and the pedestrians on the sidewalk."
+}

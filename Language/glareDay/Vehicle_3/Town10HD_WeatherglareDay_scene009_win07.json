@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 7,
+  "start_frame": 2580,
+  "end_frame": 2609,
+  "frames": [
+    2580,
+    2584,
+    2588,
+    2592,
+    2596,
+    2600,
+    2604,
+    2609
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win07.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherglareDay_scene009_win07.json",
+  "title": "Clear day in the city, slow-speed driving with frequent braking.",
+  "caption": "A red car drives in front of a bus on a city street.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is moving slowly (average speed ≈ 0.9 m/s). There are 19 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with parked cars on the side. There are several other cars on the road, including a red car that drives in front of a bus. The weather is clear, and there are no visible traffic lights or stop signs.",
+  "reasoning": "The ego vehicle is driving slowly and cautiously due to the frequent braking events. It is likely reacting to other vehicles or pedestrians on the road. The red car in front of the bus may be causing the ego vehicle to slow down or change lanes to overtake it."
+}

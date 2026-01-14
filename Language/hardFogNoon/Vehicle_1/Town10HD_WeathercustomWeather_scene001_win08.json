@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 8,
+  "start_frame": 210,
+  "end_frame": 239,
+  "frames": [
+    210,
+    214,
+    218,
+    222,
+    226,
+    230,
+    234,
+    239
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene001_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene001_win08.json",
+  "title": "Foggy city driving with multiple braking events.",
+  "caption": "A white bus drives down a foggy city street with multiple cars and pedestrians.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, two-lane city street with a foggy atmosphere. The traffic is moderate, with a white bus driving in the middle lane and multiple cars and pedestrians. The weather is clear, and the visibility is good despite the fog. There are several traffic lights and stop signs along the road, and the ego vehicle is driving at a moderate speed.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because of the foggy conditions, which can reduce visibility and make it harder to anticipate other road users' movements. The multiple braking events suggest that the traffic is dense, and the drivers are being cautious. The white bus in the middle lane is an important nearby object, as it may obstruct the view of other vehicles or pedestrians. The traffic lights and stop signs are crucial for maintaining order and safety on the road, especially in such foggy conditions."
+}

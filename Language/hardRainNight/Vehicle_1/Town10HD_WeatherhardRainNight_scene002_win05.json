@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 5,
+  "start_frame": 420,
+  "end_frame": 449,
+  "frames": [
+    420,
+    424,
+    428,
+    432,
+    436,
+    440,
+    444,
+    449
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene002_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene002_win05.json",
+  "title": "Rainy night driving on a city street with moderate speed and 4 braking events.",
+  "caption": "A white car drives down a rainy city street at moderate speed, with a parked truck on the right and a traffic light on the left.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.0 m/s). There are 4 braking events or strong decelerations in this window.",
+  "description": "The road is wet from the rain, and there are several other cars driving in the same direction. The traffic light is green, and there is a pedestrian crossing the street. The weather is dark and rainy, with the headlights of the ego vehicle illuminating the road ahead.",
+  "reasoning": "The ego vehicle is driving at a moderate speed to maintain control on the wet road. It slows down and brakes when approaching intersections or pedestrians, and it changes lanes to avoid obstacles. The parked truck on the right and the traffic light on the left are important reference points for the ego vehicle's position and trajectory."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0001",
+  "window_id": 5,
+  "start_frame": 120,
+  "end_frame": 149,
+  "frames": [
+    120,
+    124,
+    128,
+    132,
+    136,
+    140,
+    144,
+    149
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene001_win05.json",
+  "title": "Clear noon, moderate-speed city driving with glare from the sun.",
+  "caption": "A small car follows a bus on a sunny day in the city.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.1 m/s). There are 25 braking events or strong decelerations in this window.",
+  "description": "The road is a straight, four-lane city street with parked cars on the right side. The traffic is moderate, with a bus and a few cars in the distance. The sun is shining brightly, causing a glare on the road. The ego vehicle is a small car that is following a bus.",
+  "reasoning": "The ego vehicle is maintaining a safe distance from the bus in front of it, and it is prepared to slow down or stop if necessary. The driver is paying attention to the traffic lights and pedestrians on the sidewalk. The glare from the sun can be distracting, but the driver is focused on the road ahead."
+}

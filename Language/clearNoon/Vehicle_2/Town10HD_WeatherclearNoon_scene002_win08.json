@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0002",
+  "window_id": 8,
+  "start_frame": 510,
+  "end_frame": 539,
+  "frames": [
+    510,
+    514,
+    518,
+    522,
+    526,
+    530,
+    534,
+    539
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherclearNoon_scene002_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherclearNoon_scene002_win08.json",
+  "title": "Clear noon, moderate-speed city driving with 12 braking events.",
+  "caption": "The ego vehicle drives down a busy city street, following a blue car and passing a parked truck. It slows down and stops at a red light.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is driving at a moderate speed (average speed ≈ 5.9 m/s). There are 12 braking events or strong decelerations in this window.",
+  "description": "The road is a four-lane city street with parked cars on the right side. There are several other cars on the road, including a blue car that the ego vehicle is following. A red truck is parked on the side of the road. The weather is clear and sunny, with no visible obstacles or pedestrians. The traffic light at the intersection is red, and the ego vehicle slows down and stops before turning left.",
+  "reasoning": "The ego vehicle maintains a safe distance from the blue car in front of it, and it slows down and stops at the red light to avoid potential collisions. It then turns left at the intersection, carefully checking for any oncoming traffic or pedestrians. The parked red truck on the side of the road does not seem to pose any immediate danger, but it could obstruct the view of other vehicles or pedestrians. Overall, the ego vehicle behaves cautiously and responsibly, prioritizing safety and following traffic rules."
+}

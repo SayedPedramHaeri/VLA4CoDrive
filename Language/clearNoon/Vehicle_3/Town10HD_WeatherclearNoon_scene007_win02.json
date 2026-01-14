@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 2,
+  "start_frame": 1830,
+  "end_frame": 1859,
+  "frames": [
+    1830,
+    1834,
+    1838,
+    1842,
+    1846,
+    1850,
+    1854,
+    1859
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene007_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene007_win02.json",
+  "title": "Clear noon, moderate-speed city driving with 13 braking events.",
+  "caption": "Red car drives on a city street with palm trees and a white van.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The red car drives on a city street with palm trees and a white van. There are multiple traffic lights and a roundabout. The road is wet and there are several parked cars on the side of the road.",
+  "reasoning": "The red car is driving at a moderate speed and is approaching a roundabout. It slows down and prepares to enter the roundabout. There are several parked cars on the side of the road, which may require the driver to be cautious of pedestrians or other vehicles entering the roundabout. The wet road conditions may also require the driver to be more cautious and maintain a safe distance from other vehicles."
+}

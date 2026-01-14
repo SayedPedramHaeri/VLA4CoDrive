@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 4,
+  "start_frame": 1290,
+  "end_frame": 1319,
+  "frames": [
+    1290,
+    1294,
+    1298,
+    1302,
+    1306,
+    1310,
+    1314,
+    1319
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeathercustomWeather_scene005_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeathercustomWeather_scene005_win04.json",
+  "title": "Foggy city street with slow-moving traffic and multiple braking events.",
+  "caption": "The ego vehicle is driving slowly on a foggy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is moving slowly (average speed ≈ 3.3 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a foggy atmosphere. There are several other cars on the road, all moving slowly. The traffic light ahead is red. The weather is clear, but the fog reduces visibility. There is a stop sign on the right side of the road.",
+  "reasoning": "The ego vehicle is driving slowly because of the foggy conditions and the presence of other vehicles on the road. The multiple braking events suggest that the traffic ahead is stopping frequently, possibly due to the fog. The ego vehicle is maintaining a safe distance from the other vehicles and is prepared to stop if necessary. The stop sign on the right side of the road is a potential hazard that the ego vehicle needs to be aware of."
+}

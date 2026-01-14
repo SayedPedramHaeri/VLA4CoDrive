@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 2,
+  "start_frame": 2430,
+  "end_frame": 2459,
+  "frames": [
+    2430,
+    2434,
+    2438,
+    2442,
+    2446,
+    2450,
+    2454,
+    2459
+  ],
+  "clip_path": "data/windows\\Vehicle_2\\Town10HD_WeatherglareDay_scene009_win02.mp4",
+  "metadata_file": "data/metadata\\Vehicle_2\\Town10HD_WeatherglareDay_scene009_win02.json",
+  "title": "Clear day in a city with moderate traffic and a few parked cars.",
+  "caption": "A blue car drives down a city street with tall buildings on either side.",
+  "context": "This clip is from ego vehicle index 2 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way city street with tall buildings on either side. The traffic is moderate with a few parked cars on the side. The weather is clear and sunny. There are several traffic lights and a few pedestrians walking on the sidewalk.",
+  "reasoning": "The blue car is driving at a moderate speed and following the traffic rules. It slows down and stops at the red traffic lights. It changes lanes to avoid a parked truck on the side of the road. The driver is cautious and keeps a safe distance from other vehicles. The glare from the sun may affect the visibility of the road ahead."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 3,
+  "start_frame": 2460,
+  "end_frame": 2489,
+  "frames": [
+    2460,
+    2464,
+    2468,
+    2472,
+    2476,
+    2480,
+    2484,
+    2489
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene009_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene009_win03.json",
+  "title": "Night city driving, almost stopped at intersection",
+  "caption": "Red car driving on a city street at night, almost stopped at an intersection.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The red car is driving on a city street at night. It is almost stopped at an intersection. There are other cars on the road, and a blue car is driving in the opposite direction. The road is wet, and there are tall buildings on either side of the street. The traffic lights are red, and there is a large white bus parked on the side of the road.",
+  "reasoning": "The red car is driving slowly because it is almost stopped at the intersection. It is waiting for the traffic light to change before it can proceed. The driver is being cautious because it is nighttime and the road is wet. The large white bus is parked on the side of the road, and the driver needs to be aware of its size and position in case it decides to move. The other cars on the road are also moving slowly, and the driver needs to maintain a safe distance from them. Overall, the driver is being cautious and following the rules of the road to ensure a safe journey."
+}

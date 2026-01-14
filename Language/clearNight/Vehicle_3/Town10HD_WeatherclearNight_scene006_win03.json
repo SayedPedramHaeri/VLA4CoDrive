@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0006",
+  "window_id": 3,
+  "start_frame": 1560,
+  "end_frame": 1589,
+  "frames": [
+    1560,
+    1564,
+    1568,
+    1572,
+    1576,
+    1580,
+    1584,
+    1589
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNight_scene006_win03.json",
+  "title": "Clear night, moderate-speed city driving with a few parked cars and a roundabout.",
+  "caption": "The ego vehicle drives on a city street at moderate speed, passing a roundabout with a few parked cars on the side.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.4 m/s). No significant braking is observed in this window.",
+  "description": "The road is a city street with a roundabout in the middle. There are several parked cars on the side of the road. The weather is clear and it is nighttime. The traffic light is green and there are no pedestrians or other vehicles in sight.",
+  "reasoning": "The ego vehicle is driving at a moderate speed because it is in a city environment and there are no immediate obstacles or traffic. It is approaching the roundabout and will likely slow down to make a turn. The parked cars on the side of the road do not pose any immediate danger, but the ego vehicle should remain cautious and alert in case any pedestrians or other vehicles appear."
+}

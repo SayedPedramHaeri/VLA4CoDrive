@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0009",
+  "window_id": 10,
+  "start_frame": 2670,
+  "end_frame": 2699,
+  "frames": [
+    2670,
+    2674,
+    2678,
+    2682,
+    2686,
+    2690,
+    2694,
+    2699
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeatherclearNoon_scene009_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeatherclearNoon_scene009_win10.json",
+  "title": "Clear noon, moderate-speed city driving with 13 braking events.",
+  "caption": "A green car drives through a city intersection, with a red car and a motorcycle nearby.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 3.6 m/s). There are 13 braking events or strong decelerations in this window.",
+  "description": "The green car is driving through a busy city intersection. There are several other cars on the road, including a red car and a motorcycle. The traffic lights are green, and there are pedestrians walking on the sidewalk. The weather is clear and sunny, and the road is wet from recent rain.",
+  "reasoning": "The green car is driving through the intersection because the traffic lights are green, and there is no immediate danger from other vehicles or pedestrians. The driver is cautious and slows down as they approach the intersection, anticipating the 13 braking events that have occurred in this section of the road. The driver is also aware of the parked vehicles on the side of the road and the pedestrians walking nearby, and maintains a safe distance from them. The driver's cautious driving behavior is a safety consideration to avoid accidents and ensure a smooth journey through the city."
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 8,
+  "start_frame": 1110,
+  "end_frame": 1139,
+  "frames": [
+    1110,
+    1114,
+    1118,
+    1122,
+    1126,
+    1130,
+    1134,
+    1139
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNight_scene004_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNight_scene004_win08.json",
+  "title": "Moderate-speed city driving at night with clear skies.",
+  "caption": "The ego vehicle drives straight on a city street at night, with moderate traffic and a few parked cars on the side.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNight). The ego vehicle is driving at a moderate speed (average speed ≈ 6.8 m/s). There are 8 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a green traffic light on the left side of the road. There are a few parked cars on the side of the road, and a red truck is parked on the right side. The weather is clear and the visibility is good. The traffic is moderate, with a few cars driving in the opposite direction.",
+  "reasoning": "The ego vehicle is driving straight on the city street, maintaining a moderate speed. It slows down slightly as it approaches the green traffic light, and then accelerates again after passing it. The ego vehicle keeps a safe distance from the parked cars on the side of the road, and carefully navigates around the red truck parked on the right side. It is important for the ego vehicle to maintain a safe speed and distance from other vehicles and obstacles on the road, especially at night when visibility may be limited."
+}

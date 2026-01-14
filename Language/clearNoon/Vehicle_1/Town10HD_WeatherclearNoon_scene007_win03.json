@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 3,
+  "start_frame": 1860,
+  "end_frame": 1889,
+  "frames": [
+    1860,
+    1864,
+    1868,
+    1872,
+    1876,
+    1880,
+    1884,
+    1889
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherclearNoon_scene007_win03.json",
+  "title": "Clear noon, slow city driving with 9 braking events.",
+  "caption": "A slow-moving car on a city street with palm trees and tall buildings.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (clearNoon). The ego vehicle is moving slowly (average speed ≈ 4.1 m/s). There are 9 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly on a city street with palm trees and tall buildings. There are several other cars on the road, some of which are also braking or stopping. The weather is clear and sunny, with good visibility. There are no pedestrians or obstacles visible in this clip.",
+  "reasoning": "The ego vehicle is likely driving at a moderate speed to ensure safety and avoid collisions. The presence of multiple braking events suggests that the traffic situation is somewhat congested or unpredictable. The driver of the ego vehicle must remain vigilant and prepared to react to sudden changes in the traffic flow or the actions of other drivers."
+}

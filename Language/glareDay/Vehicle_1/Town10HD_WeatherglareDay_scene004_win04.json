@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0004",
+  "window_id": 4,
+  "start_frame": 990,
+  "end_frame": 1019,
+  "frames": [
+    990,
+    994,
+    998,
+    1002,
+    1006,
+    1010,
+    1014,
+    1019
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win04.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherglareDay_scene004_win04.json",
+  "title": "Clear day in a city, with a white van and a small white car driving on the road.",
+  "caption": "A small white car drives on a foggy city street, with a white van and other cars around.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (glareDay). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a one-way street in the city, with a white van and a small white car driving on it. There are other cars on the road, and a traffic light is visible in the distance. The weather is foggy, and the visibility is moderate. The road is wet, and the traffic is light.",
+  "reasoning": "The small white car is driving carefully, maintaining a safe distance from the white van and other cars on the road. It slows down and stops at the traffic light, following the traffic rules. The driver of the small white car is cautious and attentive, taking into account the foggy weather and the wet road conditions. The white van and other cars around are also driving carefully, maintaining a safe distance from each other and from the small white car. Overall, the scene shows a typical city street with moderate traffic and cautious driving behavior."
+}

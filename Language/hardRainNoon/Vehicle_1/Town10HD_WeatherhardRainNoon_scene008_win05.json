@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0008",
+  "window_id": 5,
+  "start_frame": 2220,
+  "end_frame": 2249,
+  "frames": [
+    2220,
+    2224,
+    2228,
+    2232,
+    2236,
+    2240,
+    2244,
+    2249
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene008_win05.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNoon_scene008_win05.json",
+  "title": "Rainy city driving with police car in pursuit",
+  "caption": "A police car follows a car on a rainy city street.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNoon). The ego vehicle is moving slowly (average speed ≈ 1.8 m/s). There are 24 braking events or strong decelerations in this window.",
+  "description": "The video shows a police car following a car on a rainy city street. The road is wet and visibility is low due to the rain. There are other cars on the road, some of them are parked on the side of the road. The traffic lights are visible in the background and they are showing red and green lights.",
+  "reasoning": "The police car is likely following the car due to a traffic violation or because it matches the description of a suspect vehicle. The driver of the car being followed needs to be cautious and follow traffic rules to avoid any accidents or further complications. The rainy weather conditions make it more challenging to drive safely and the driver should maintain a safe distance from the car in front to avoid any potential hazards."
+}

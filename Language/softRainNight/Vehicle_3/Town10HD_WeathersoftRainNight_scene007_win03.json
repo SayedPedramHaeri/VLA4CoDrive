@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 3,
+  "start_frame": 1860,
+  "end_frame": 1889,
+  "frames": [
+    1860,
+    1864,
+    1868,
+    1872,
+    1876,
+    1880,
+    1884,
+    1889
+  ],
+  "clip_path": "data/windows\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene007_win03.mp4",
+  "metadata_file": "data/metadata\\Vehicle_3\\Town10HD_WeathersoftRainNight_scene007_win03.json",
+  "title": "Rainy night city driving with multiple braking events.",
+  "caption": "A red car drives slowly down a rainy city street with multiple braking events.",
+  "context": "This clip is from ego vehicle index 3 in the CARLA simulation. Weather is rainy (softRainNight). The ego vehicle is moving slowly (average speed ≈ 4.6 m/s). There are 11 braking events or strong decelerations in this window.",
+  "description": "The ego vehicle is driving slowly down a rainy city street. There are several other cars on the road, including a blue car and a parked silver car. The traffic lights are red, and there is a pedestrian crossing the street. The road is wet from the rain, and the visibility is somewhat reduced.",
+  "reasoning": "The ego vehicle is driving slowly down the rainy city street to ensure safety. It slows down and brakes frequently due to the wet road conditions and the presence of other vehicles and pedestrians. The red traffic lights signal the ego vehicle to stop, and the pedestrian crossing the street requires extra caution. The parked silver car may also obstruct the ego vehicle's path, requiring careful maneuvering."
+}

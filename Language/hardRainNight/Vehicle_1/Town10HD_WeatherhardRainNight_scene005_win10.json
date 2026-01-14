@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0005",
+  "window_id": 10,
+  "start_frame": 1470,
+  "end_frame": 1499,
+  "frames": [
+    1470,
+    1474,
+    1478,
+    1482,
+    1486,
+    1490,
+    1494,
+    1499
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene005_win10.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeatherhardRainNight_scene005_win10.json",
+  "title": "Rainy night city street driving, moderate speed, no significant braking",
+  "caption": "The ego vehicle is driving on a rainy night on a city street, at moderate speed, with no significant braking.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is rainy (hardRainNight). The ego vehicle is driving at a moderate speed (average speed ≈ 8.1 m/s). No significant braking is observed in this window.",
+  "description": "The road is wet from the rain, and there are several parked cars on the side of the street. The traffic is light, and there are a few other cars driving in the opposite direction. The visibility is reduced due to the rain, and the streetlights provide some illumination. There are several traffic lights along the road, and some of them are displaying red or green lights.",
+  "reasoning": "The ego vehicle is maintaining a moderate speed to ensure safety on the wet road. It is keeping a safe distance from the other cars and avoiding any sudden braking. The driver is paying close attention to the traffic lights and adjusting the speed accordingly. The rain is making the road conditions more challenging, but the ego vehicle is equipped to handle the slippery surface."
+}

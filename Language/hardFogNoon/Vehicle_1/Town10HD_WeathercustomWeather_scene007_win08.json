@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_0007",
+  "window_id": 8,
+  "start_frame": 2010,
+  "end_frame": 2039,
+  "frames": [
+    2010,
+    2014,
+    2018,
+    2022,
+    2026,
+    2030,
+    2034,
+    2039
+  ],
+  "clip_path": "data/windows\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win08.mp4",
+  "metadata_file": "data/metadata\\Vehicle_1\\Town10HD_WeathercustomWeather_scene007_win08.json",
+  "title": "Foggy city street with almost stopped traffic and pedestrians on the sidewalk.",
+  "caption": "The ego vehicle is driving slowly on a foggy city street with other cars and pedestrians on the sidewalk.",
+  "context": "This clip is from ego vehicle index 1 in the CARLA simulation. Weather is clear (customWeather). The ego vehicle is almost stopped (average speed ≈ 0.0 m/s). There are 30 braking events or strong decelerations in this window.",
+  "description": "The road is a two-lane city street with a foggy atmosphere. There are several cars and a parked truck on the side of the road. The traffic is moving slowly, and the pedestrians are walking on the sidewalk. The visibility is low due to the fog, and the streetlights are on.",
+  "reasoning": "The ego vehicle is driving slowly because of the low visibility caused by the fog. It is maintaining a safe distance from the other cars on the road and is cautious of the pedestrians on the sidewalk. The frequent braking events indicate that the traffic is moving slowly and carefully. The parked truck on the side of the road may be causing some congestion, and the foggy conditions make it difficult to see around the corner. The streetlights provide some illumination, but the overall visibility remains limited."
+}
