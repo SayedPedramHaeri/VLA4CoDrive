@@ -11,7 +11,7 @@
 </div>
 
 <p align="justify">
-<b>VLA4CoDrive</b> is a large-scale <b>cooperative Vision–Language–Action (VLA)</b> dataset designed to support autonomous driving under multi-vehicle cooperation. This work has been accepted to the <b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</b>. Dataset is developed in the [*AI-SENDs Lab**](https://arazi2.github.io/aisends.github.io/research/) at Clemson University, USA.
+<b>VLA4CoDrive</b> is a large-scale <b>cooperative Vision–Language–Action (VLA)</b> dataset designed to support autonomous driving under multi-vehicle cooperation. This work has been accepted to the <b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</b>. Dataset is developed in the [**AI-SENDs Lab**](https://arazi2.github.io/aisends.github.io/research/) at Clemson University, USA.
 </p>
 
 ---
