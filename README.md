@@ -121,10 +121,19 @@ Time-aligned action supervision providing low-level controls and future trajecto
 | caption | *The ego vehicle is moving straight at a moderate speed following a leading car with acceleration. A nearby traffic light shows green under rainy conditions on a wide road. No pedestrians are present. The driver should remain attentive to the traffic light and be prepared to stop if it changes.* |
 
 
+## 📝 Citation
 
+If you use this dataset or paper, please consider citing:
 
-
-
+```bibtex
+@inproceedings{boroujeni2026vla4codrive,
+  title={VLA4CoDrive: Vision-Language-Action Dataset for Cooperative Autonomous Driving},
+  author={Boroujeni, Sayed Pedram Haeri and Razi, Abolfazl},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1789--1799},
+  year={2026}
+}
+```
 
 
 
