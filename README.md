@@ -122,7 +122,7 @@ Time-aligned action supervision providing low-level controls and future trajecto
 
 ## License
 
-This project is licensed under the [Apache 2.0 License]([https://www.apache.org/licenses/LICENSE-2.0]). The dataset was generated using the CARLA simulator. It is intended for research purposes in autonomous driving and AI.
+This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). The dataset was generated using the CARLA simulator. It is intended for research purposes in autonomous driving and AI.
 
 ## 📝 Citation
 
